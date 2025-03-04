@@ -4,6 +4,8 @@ import CatalogPage from "./pages/CatalogPage.tsx";
 import PlaceholderPage from "./pages/PlaceholderPage.tsx";
 import HomePage from "./pages/HomePage.tsx";
 import CharacterDetailPage from "./pages/CharacterDetailPage.tsx";
+import SeriesDetailsPage from './pages/SeriesDetailsPage.tsx';
+import ComicsDetailsPage from './pages/ComicsDetailsPage.tsx';
 
 const App: React.FC = () => {
   return (
@@ -21,6 +23,8 @@ const App: React.FC = () => {
           path="/timeline"
           element={<PlaceholderPage title="Línea de Tiempo" />}
         />
+        <Route path="/character/:id/series" element={<SeriesDetailsPage />} />
+        <Route path="/character/:id/comics" element={<ComicsDetailsPage />} />
       </Routes>
     </Router>
   );

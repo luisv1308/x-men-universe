@@ -26,3 +26,19 @@ export const fetchCharacterById = async (id: number) => {
   const data = await response.json();
   return data.data.results[0];
 };
+
+export const fetchCharacterComics = async (id: number) => {
+  const url = `${BASE_URL}/characters/${id}/comics?${getAuthParams()}`;
+  const response = await fetch(url);
+  if (!response.ok) throw new Error("Error fetching character comics");
+  const data = await response.json();
+  return data.data.results;
+};
+
+export const fetchCharacterSeries = async (id: number) => {
+  const url = `${BASE_URL}/characters/${id}/series?${getAuthParams()}`;
+  const response = await fetch(url);
+  if (!response.ok) throw new Error("Error fetching character series");
+  const data = await response.json();
+  return data.data.results;
+};

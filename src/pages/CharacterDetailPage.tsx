@@ -44,6 +44,21 @@ const CharacterDetailPage: React.FC = () => {
       <p className="max-w-2xl text-center">
         {selectedCharacter.description || "Sin descripción disponible."}
       </p>
+      <div className="mt-6 flex gap-4">
+        <Link
+          to={`/character/${selectedCharacter.id}/series`}
+          className="px-4 py-2 bg-blue-600 rounded-lg"
+        >
+          Ver Series
+        </Link>
+        <Link
+          to={`/character/${selectedCharacter.id}/comics`}
+          className="px-4 py-2 bg-green-600 rounded-lg"
+        >
+          Ver Cómics
+        </Link>
+      </div>
+
       <Link to="/catalog" className="mt-6 px-4 py-2 bg-red-600 rounded-lg">
         Volver al catálogo
       </Link>
