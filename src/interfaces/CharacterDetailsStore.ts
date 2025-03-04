@@ -1,4 +1,4 @@
-import Resource from "./IResource"
+import Resource from "./Resource"
 
 interface CharacterDetailsStore {
     series: Resource[];

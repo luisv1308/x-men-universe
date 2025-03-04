@@ -1,6 +1,6 @@
 import { create } from "zustand";
 import { fetchCharacters, fetchCharacterById } from "../api/marvelApi";
-import  Character  from "../interfaces/ICharacter";
+import  Character  from "../interfaces/Character";
 
 interface CharacterStore {
   characters: Character[];

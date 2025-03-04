@@ -1,6 +1,6 @@
 import { create } from "zustand";
-import CharacterDetailsStore from "../interfaces/IcharacterDetailsStore";
 import { fetchCharacterComics, fetchCharacterSeries } from "../api/marvelApi";
+import CharacterDetailsStore from "../interfaces/characterDetailsStore";
 
 export const useCharacterDetailsStore = create<CharacterDetailsStore>((set) => ({
     series: [],
