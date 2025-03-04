@@ -1,8 +1,8 @@
 // src/api/marvelApi.ts
 import { Md5 } from 'ts-md5'; // Assuming 'ts-md5' is installed
 
-const PUBLIC_KEY = "87b84f42b7f64d85eab4686dcee75e8f";
-const PRIVATE_KEY = "78762c408f27bbfcf7c77ad8e127b162b71684b7";
+const PUBLIC_KEY = import.meta.env.VITE_MARVEL_PUBLIC_KEY;
+const PRIVATE_KEY = import.meta.env.VITE_MARVEL_PRIVATE_KEY;
 const BASE_URL = "https://gateway.marvel.com/v1/public";
 
 const getAuthParams = () => {
