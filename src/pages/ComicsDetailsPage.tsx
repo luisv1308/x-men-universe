@@ -46,22 +46,18 @@ const ComicsDetailsPage: React.FC = () => {
       </div>
       <div className="grid grid-cols-2 md:grid-cols-4 gap-6 mt-6">
         {comics.map((comic: Resource) => (
-          <div
-            key={comic.id}
-            className="bg-gray-700 p-4 rounded-lg text-center shadow-lg"
-          >
+          
             <Link
               to={`/comics/${comic.id}`}
-              className="text-blue-400 hover:underline"
+              className="text-blue-400 hover:underline x-men-link"
             >
               <img
                 src={`${comic.thumbnail?.path}.${comic.thumbnail?.extension}`}
                 alt={comic.title}
                 className="w-32 h-32 mx-auto rounded-lg"
               />
-              <p className="mt-2 font-semibold">{comic.title}</p>
+              <p className="mt-2 font-semibold text-center">{comic.title}</p>
             </Link>
-          </div>
         ))}
       </div>
       <div className="mt-6">

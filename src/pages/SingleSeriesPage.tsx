@@ -56,7 +56,7 @@ const SingleSeriesPage: React.FC = () => {
             href={resource.urls[0].url}
             target="_blank"
             rel="noopener noreferrer"
-            className="text-blue-500 hover:underline mt-2"
+            className="text-blue-500 hover:underline mt-2 normal-link"
           >
             <h3 className="text-lg font-bold text-center">MARVEL.COM</h3>
           </a>

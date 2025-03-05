@@ -45,22 +45,17 @@ const SeriesDetailsPage: React.FC = () => {
       </div>
       <div className="grid grid-cols-2 md:grid-cols-4 gap-6 mt-6">
         {series.map((serie) => (
-          <div
-            key={serie.id}
-            className="bg-gray-700 p-4 rounded-lg text-center shadow-lg"
+          <Link
+            to={`/series/${serie.id}`}
+            className="text-blue-400 hover:underline x-men-link"
           >
-            <Link
-              to={`/series/${serie.id}`}
-              className="text-blue-400 hover:underline"
-            >
-              <img
-                src={`${serie.thumbnail?.path}.${serie.thumbnail?.extension}`}
-                alt={serie.title}
-                className="w-32 h-32 mx-auto rounded-lg"
-              />
-              <p className="mt-2 font-semibold">{serie.title}</p>
-            </Link>
-          </div>
+            <img
+              src={`${serie.thumbnail?.path}.${serie.thumbnail?.extension}`}
+              alt={serie.title}
+              className="w-32 h-32 mx-auto rounded-lg"
+            />
+            <p className="mt-2 font-semibold text-center text-lg">{serie.title}</p>
+          </Link>
         ))}
       </div>
       <div className="mt-6">

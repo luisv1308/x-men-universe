@@ -31,7 +31,7 @@ const CatalogPage: React.FC = () => {
           <Link
             to={`/character/${char.id}`}
             key={char.id}
-            className="bg-gray-700 p-4 rounded-lg text-center shadow-lg"
+            className="bg-gray-700 p-4 rounded-lg text-center shadow-lg x-men-link"
           >
             <img
               src={`${char.thumbnail.path}.${char.thumbnail.extension}`}
