@@ -6,6 +6,17 @@ body {
   font-family: "Bangers", sans-serif;
 }
 
+body {
+  background: linear-gradient(200deg, #081B47 30%, #C29F15 100%);
+  min-height: 100vh;
+  color: white; /* Para que el texto sea legible */
+}
+
+.loading {
+  background: linear-gradient(200deg, #081B47 30%, #C29F15 100%);
+  min-height: 100vh;
+}
+
 a {
   color: #ffcc00;
   text-decoration: none;

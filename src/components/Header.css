@@ -1,18 +1,25 @@
+/* 🎯 HEADER PRINCIPAL */
+
 .header {
-  position: fixed; /* Hace que el header permanezca siempre en la parte superior */
+  position: fixed;
   top: 0;
   left: 0;
   width: 100%;
-  height: 120px; /* Ajusta la altura del header */
-  background-color: #000; /* Color de fondo del header */
+  height: 120px;
+  background-color: #000;
   display: flex;
-  justify-content: center; /* Centra el logo horizontalmente */
-  align-items: center; /* Centra el logo verticalmente */
-  z-index: 1000; /* Asegura que esté por encima del contenido */
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 20px;
+  z-index: 1000;
+  background: linear-gradient(185deg, #081B47 30%, #C29F15 100%);
+  color: white; /* Para que el texto sea legible */
+  
 }
 
+/* 🎯 LOGO */
 .logo {
-  height: 100px; /* Tamaño más grande */
+  height: 100px;
   transition: transform 0.3s;
 }
 
@@ -20,7 +27,96 @@
   transform: scale(1.1);
 }
 
-/* Agrega un margen superior al contenido para evitar que quede debajo del header */
+/* 🎯 MENÚ EN ESCRITORIO */
+.desktop-menu {
+  display: none;
+}
+
+.desktop-menu ul {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+  padding: 0;
+  margin: 0;
+}
+
+.desktop-menu li {
+  display: inline-block;
+}
+
+.desktop-menu a {
+  color: white;
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: bold;
+  transition: color 0.3s;
+}
+
+.desktop-menu a:hover {
+  color: #00aaff;
+}
+
+/* 🎯 BOTÓN DEL MENÚ HAMBURGUESA (SOLO MÓVILES) */
+.menu-button {
+  background: none;
+  border: none;
+  color: white;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+}
+
+/* 🎯 MENÚ EN MÓVILES */
+.mobile-menu {
+  position: absolute;
+  top: 120px;
+  left: 0;
+  width: 100%;
+  background: rgba(0, 0, 0, 0.9);
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  padding: 20px;
+  z-index: 999;
+}
+
+.mobile-menu ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.mobile-menu li {
+  margin: 10px 0;
+}
+
+.mobile-menu a {
+  color: white;
+  text-decoration: none;
+  font-size: 20px;
+  transition: color 0.3s;
+}
+
+.mobile-menu a:hover {
+  color: #00aaff;
+}
+
+/* 🎯 ESPACIADO PARA QUE EL CONTENIDO NO SE CUBRA */
 main {
-  margin-top: 130px; /* Ajusta según la altura del header */
+  margin-top: 130px;
+}
+
+/* 🎯 EN ESCRITORIO SE MUESTRA EL MENÚ Y SE OCULTA EL HAMBURGUESA */
+@media (min-width: 768px) {
+  .desktop-menu {
+    display: block;
+  }
+
+  .menu-button {
+    display: none;
+  }
+
+  .mobile-menu {
+    display: none;
+  }
 }
