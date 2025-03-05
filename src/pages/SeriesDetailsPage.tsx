@@ -1,6 +1,7 @@
 import { useEffect } from "react";
 import { useParams, useNavigate, Link } from "react-router";
 import { useCharacterDetailsStore } from "../store/useCharacterDetailsStore";
+import Loading from "../components/Loading";
 
 const SeriesDetailsPage: React.FC = () => {
   const { id } = useParams<{ id: string }>();
@@ -15,9 +16,7 @@ const SeriesDetailsPage: React.FC = () => {
 
   if (loading)
     return (
-      <div className="flex flex-col items-center min-h-screen  text-white p-6">
-        <p>Cargando detalles...</p>
-      </div>
+      <Loading />
     );
   if (error)
     return (

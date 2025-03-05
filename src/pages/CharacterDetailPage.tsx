@@ -2,6 +2,7 @@
 import { useEffect } from "react";
 import { useParams, Link } from "react-router";
 import { useCharacterStore } from "../store/useCharacterStore";
+import Loading from "../components/Loading";
 
 const CharacterDetailPage: React.FC = () => {
   const { id } = useParams<{ id: string }>();
@@ -16,9 +17,7 @@ const CharacterDetailPage: React.FC = () => {
 
   if (loading)
     return (
-      <div className="flex flex-col items-center min-h-screen  text-white p-6">
-        <p>Cargando detalles...</p>
-      </div>
+      <Loading />
     );
   if (error)
     return (

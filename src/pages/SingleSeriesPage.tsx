@@ -1,6 +1,7 @@
 import { useEffect } from "react";
 import { useParams, useNavigate } from "react-router";
 import { useResourcesDetailsStore } from "../store/useResourcesDetailsStore";
+import Loading from "../components/Loading";
 
 const SingleSeriesPage: React.FC = () => {
   const { id } = useParams<{ id: string }>();
@@ -16,9 +17,7 @@ const SingleSeriesPage: React.FC = () => {
 
   if (loading)
     return (
-      <div className="flex flex-col items-center min-h-screen  text-white p-6">
-        <p>Cargando detalles...</p>
-      </div>
+      <Loading />
     );
   if (error)
     return (

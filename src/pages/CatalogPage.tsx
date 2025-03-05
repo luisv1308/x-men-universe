@@ -3,6 +3,7 @@ import { useEffect } from "react";
 import { Link } from "react-router";
 import { useCharacterStore } from "../store/useCharacterStore";
 import SearchBar from "../components/SearchBar";
+import Loading from "../components/Loading";
 
 const CatalogPage: React.FC = () => {
   const {
@@ -24,7 +25,7 @@ const CatalogPage: React.FC = () => {
       <h1 className="text-3xl font-bold">Catálogo de Personajes</h1>
       <SearchBar onSearch={searchCharacter} />
       <h3 className="mt-6 ">Page number: {page + 1}</h3>
-      {loading && <p className="mt-4">Cargando personajes...</p>}
+      {loading && <Loading />}
       {error && <p className="mt-4 text-red-500">{error}</p>}
       <div className="grid grid-cols-2 md:grid-cols-4 gap-6 mt-6">
         {filteredCharacters.map((char) => (
