@@ -1,6 +1,7 @@
 import { useEffect } from "react";
 import { useParams, Link, useNavigate } from "react-router";
 import { useCharacterDetailsStore } from "../store/useCharacterDetailsStore";
+import Resource from "../interfaces/Resource";
 
 const ComicsDetailsPage: React.FC = () => {
   const { id } = useParams<{ id: string }>();
@@ -44,7 +45,7 @@ const ComicsDetailsPage: React.FC = () => {
         </button>
       </div>
       <div className="grid grid-cols-2 md:grid-cols-4 gap-6 mt-6">
-        {comics.map((comic) => (
+        {comics.map((comic: Resource) => (
           <div
             key={comic.id}
             className="bg-gray-700 p-4 rounded-lg text-center shadow-lg"

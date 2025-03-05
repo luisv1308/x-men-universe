@@ -1,8 +1,6 @@
-import { BrowserRouter as Router, Routes, Route, Link } from "react-router";
+import { Link } from "react-router";
 import { motion } from "framer-motion";
 import React from "react";
-import CatalogPage from "./CatalogPage.tsx";
-import PlaceholderPage from "./PlaceholderPage.tsx";
 
 
 const HomePage: React.FC = () => {

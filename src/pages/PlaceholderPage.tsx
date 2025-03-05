@@ -1,5 +1,4 @@
-import { BrowserRouter as Router, Routes, Route, Link } from "react-router";
-import { motion } from "framer-motion";
+import { Link } from "react-router";
 import React from "react";
 
 interface PlaceholderProps {

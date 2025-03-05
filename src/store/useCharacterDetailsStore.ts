@@ -1,8 +1,17 @@
 import { create } from "zustand";
 import { fetchCharacterComics, fetchCharacterSeries } from "../api/marvelApi";
-import CharacterDetailsStore from "../interfaces/characterDetailsStore";
+import Resource from "../interfaces/Resource";
 
-export const useCharacterDetailsStore = create<CharacterDetailsStore>((set, get) => ({
+interface CharacterDetailsStoreInterface {
+    info: { id: number, type: string };
+    series: Resource[];
+    comics: Resource[];
+    loading: boolean;
+    error: string | null;
+    fetchResources: (id: string, type: "series" | "comics") => Promise<void>;
+}
+
+export const useCharacterDetailsStore = create<CharacterDetailsStoreInterface>((set, get) => ({
     info: { id: 0, type: "" },
     series: [],
     comics: [],

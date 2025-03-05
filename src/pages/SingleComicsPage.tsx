@@ -1,7 +1,6 @@
 import { useEffect } from "react";
 import { useParams, useNavigate } from "react-router";
 import { useResourcesDetailsStore } from "../store/useResourcesDetailsStore";
-import { h4 } from "motion/react-client";
 
 const SingleComicsPage: React.FC = () => {
   const { id } = useParams<{ id: string }>();

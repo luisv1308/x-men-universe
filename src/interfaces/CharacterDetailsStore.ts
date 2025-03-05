@@ -1,6 +1,6 @@
 import Resource from "./Resource"
 
-interface CharacterDetailsStore {
+interface CharacterDetailsStoreInterface {
     info: { id: number, type: string };
     series: Resource[];
     comics: Resource[];
@@ -9,4 +9,4 @@ interface CharacterDetailsStore {
     fetchResources: (id: string, type: "series" | "comics") => Promise<void>;
 }
 
-export default CharacterDetailsStore
+export default CharacterDetailsStoreInterface
