@@ -1,7 +1,6 @@
 import { useEffect } from "react";
 import { useParams, useNavigate } from "react-router";
 import { useResourcesDetailsStore } from "../store/useResourcesDetailsStore";
-import { div } from "motion/react-client";
 
 const SingleSeriesPage: React.FC = () => {
   const { id } = useParams<{ id: string }>();
