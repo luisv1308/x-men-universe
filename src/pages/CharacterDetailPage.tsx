@@ -17,7 +17,9 @@ const CharacterDetailPage: React.FC = () => {
 
   if (loading)
     return (
-      <Loading />
+      <div className="flex flex-col items-center min-h-screen  text-white p-6">
+        <Loading />
+      </div>
     );
   if (error)
     return (
