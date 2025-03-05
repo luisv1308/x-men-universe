@@ -4,7 +4,7 @@ import React from "react";
 
 const HomePage: React.FC = () => {
   return (
-    <div className="flex flex-col items-center justify-center min-h-screen text-white px-4">
+    <div className="flex flex-col items-center justify-center  text-white px-4">
       <h1 className="text-4xl font-bold mb-6">X-Men Universe</h1>
       <div className="flex flex-col sm:grid sm:grid-cols-2 gap-4 w-full max-w-md sm:max-w-lg lg:max-w-xl">
         {[
