@@ -1,6 +1,7 @@
 import Resource from "./Resource"
 
 interface CharacterDetailsStore {
+    info: { id: number, type: string };
     series: Resource[];
     comics: Resource[];
     loading: boolean;

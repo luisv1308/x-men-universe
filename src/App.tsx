@@ -6,6 +6,8 @@ import HomePage from "./pages/HomePage.tsx";
 import CharacterDetailPage from "./pages/CharacterDetailPage.tsx";
 import SeriesDetailsPage from './pages/SeriesDetailsPage.tsx';
 import ComicsDetailsPage from './pages/ComicsDetailsPage.tsx';
+import SingleSeriesPage from './pages/SingleSeriesPage.tsx';
+import SingleComicsPage from './pages/SingleComicsPage.tsx';
 
 const App: React.FC = () => {
   return (
@@ -25,6 +27,8 @@ const App: React.FC = () => {
         />
         <Route path="/character/:id/series" element={<SeriesDetailsPage />} />
         <Route path="/character/:id/comics" element={<ComicsDetailsPage />} />
+        <Route path="/series/:id" element={<SingleSeriesPage />} />
+        <Route path="/comics/:id" element={<SingleComicsPage />} />
       </Routes>
     </Router>
   );

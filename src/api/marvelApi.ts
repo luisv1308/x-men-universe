@@ -42,3 +42,19 @@ export const fetchCharacterSeries = async (id: number) => {
   const data = await response.json();
   return data.data.results;
 };
+
+export const fetchSingleSeries = async (id: number) => {
+  const url = `${BASE_URL}/series/${id}?${getAuthParams()}`;
+  const response = await fetch(url);
+  if (!response.ok) throw new Error("Error fetching single series");
+  const data = await response.json();
+  return data.data.results[0];
+};
+
+export const fetchSingleComic = async (id: number) => {
+  const url = `${BASE_URL}/comics/${id}?${getAuthParams()}`;
+  const response = await fetch(url);
+  if (!response.ok) throw new Error("Error fetching single comic");
+  const data = await response.json();
+  return data.data.results[0];
+};

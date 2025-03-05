@@ -1,9 +1,10 @@
 import { useEffect } from "react";
-import { useParams, Link } from "react-router";
+import { useParams, useNavigate, Link } from "react-router";
 import { useCharacterDetailsStore } from "../store/useCharacterDetailsStore";
 
 const SeriesDetailsPage: React.FC = () => {
   const { id } = useParams<{ id: string }>();
+  const navigate = useNavigate();
   const { series, loading, error, fetchResources } = useCharacterDetailsStore();
 
   useEffect(() => {
@@ -34,6 +35,14 @@ const SeriesDetailsPage: React.FC = () => {
   return (
     <div className="flex flex-col items-center min-h-screen bg-gray-800 text-white p-6">
       <h1 className="text-3xl font-bold">Series</h1>
+      <div className="mt-6">
+        <button
+          onClick={() => navigate(-1)}
+          className="px-4 py-2 bg-blue-600 rounded-lg hover:bg-gray-700 cursor-pointer"
+        >
+          Volver
+        </button>
+      </div>
       <div className="grid grid-cols-2 md:grid-cols-4 gap-6 mt-6">
         {series.map((serie) => (
           <div
@@ -53,6 +62,14 @@ const SeriesDetailsPage: React.FC = () => {
             </Link>
           </div>
         ))}
+      </div>
+      <div className="mt-6">
+        <button
+          onClick={() => navigate(-1)}
+          className="px-4 py-2 bg-blue-600 rounded-lg hover:bg-gray-700 cursor-pointer"
+        >
+          Volver
+        </button>
       </div>
     </div>
   );
