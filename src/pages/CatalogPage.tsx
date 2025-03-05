@@ -5,7 +5,15 @@ import { useCharacterStore } from "../store/useCharacterStore";
 import SearchBar from "../components/SearchBar";
 
 const CatalogPage: React.FC = () => {
-  const { filteredCharacters, loading, error, page, setPage, searchCharacter, fetchXMenCharacters } = useCharacterStore();
+  const {
+    filteredCharacters,
+    loading,
+    error,
+    page,
+    setPage,
+    searchCharacter,
+    fetchXMenCharacters,
+  } = useCharacterStore();
 
   useEffect(() => {
     fetchXMenCharacters(page);
@@ -20,7 +28,11 @@ const CatalogPage: React.FC = () => {
       {error && <p className="mt-4 text-red-500">{error}</p>}
       <div className="grid grid-cols-2 md:grid-cols-4 gap-6 mt-6">
         {filteredCharacters.map((char) => (
-          <Link to={`/character/${char.id}`} key={char.id} className="bg-gray-700 p-4 rounded-lg text-center shadow-lg">
+          <Link
+            to={`/character/${char.id}`}
+            key={char.id}
+            className="bg-gray-700 p-4 rounded-lg text-center shadow-lg"
+          >
             <img
               src={`${char.thumbnail.path}.${char.thumbnail.extension}`}
               alt={char.name}
@@ -31,10 +43,26 @@ const CatalogPage: React.FC = () => {
         ))}
       </div>
       <div className="flex gap-4 mt-6">
-        <button onClick={() => setPage(page - 1)} disabled={page === 0 || loading} className="px-4 py-2 bg-red-600 rounded-lg disabled:opacity-50">Anterior</button>
-        <button onClick={() => setPage(page + 1)} disabled={loading} className="px-4 py-2 bg-red-600 rounded-lg">Siguiente</button>
+        <button
+          onClick={() => setPage(page - 1)}
+          disabled={page === 0 || loading}
+          className="px-4 py-2 bg-red-600 rounded-lg disabled:opacity-50"
+        >
+          Anterior
+        </button>
+        <button
+          onClick={() => setPage(page + 1)}
+          disabled={loading}
+          className="px-4 py-2 bg-red-600 rounded-lg"
+        >
+          Siguiente
+        </button>
       </div>
-      <Link to="/" className="mt-6 px-4 py-2 bg-red-600 rounded-lg">Volver</Link>
+      {loading && <p className="mt-4">Cargando personajes...</p>}
+
+      <Link to="/" className="mt-6 px-4 py-2 bg-red-600 rounded-lg">
+        Volver
+      </Link>
     </div>
   );
 };

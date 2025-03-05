@@ -1,17 +1,22 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { motion } from "framer-motion";
 import { FaSearch } from "react-icons/fa";
 
-const SearchBar: React.FC<{ onSearch: (query: string) => void }> = ({ onSearch }) => {
-  const [query, setQuery] = useState("");
+const SearchBar: React.FC<{
+  onSearch: (searchQuery: string) => void;
+}> = ({ onSearch }) => {
+  const [searchQuery, setSearchQuery] = useState("");
 
-  const handleChange = (e: React.ChangeEvent<HTMLInputElement>) => {
-    setQuery(e.target.value);
-    onSearch(e.target.value);
-  };
+  useEffect(() => {
+    const timeoutId = setTimeout(() => {
+      onSearch(searchQuery);
+    }, 500);
+
+    return () => clearTimeout(timeoutId);
+  }, [searchQuery, onSearch]);
 
   return (
-    <motion.div 
+    <motion.div
       className="relative w-full max-w-md"
       initial={{ scale: 0.9, opacity: 0 }}
       animate={{ scale: 1, opacity: 1 }}
@@ -19,8 +24,8 @@ const SearchBar: React.FC<{ onSearch: (query: string) => void }> = ({ onSearch }
     >
       <input
         type="text"
-        value={query}
-        onChange={handleChange}
+        value={searchQuery}
+        onChange={(e) => setSearchQuery(e.target.value)}
         placeholder="Buscar personaje..."
         className="w-full pl-10 pr-4 py-2 text-white bg-gray-700 border border-gray-600 rounded-full focus:outline-none focus:ring-2 focus:ring-blue-400"
       />

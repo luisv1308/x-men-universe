@@ -19,6 +19,14 @@ export const fetchCharacters = async (limit: number = 20, offset: number = 0) =>
   return data.data.results;
 };
 
+export const fetchCharactersByStartsWith = async (startsWith: string) => {
+  const url = `${BASE_URL}/characters?nameStartsWith=${startsWith}&${getAuthParams()}`;
+  const response = await fetch(url);
+  if (!response.ok) throw new Error("Error fetching characters");
+  const data = await response.json();
+  return data.data.results;
+}
+
 export const fetchCharacterById = async (id: number) => {
   const url = `${BASE_URL}/characters/${id}?${getAuthParams()}`;
   const response = await fetch(url);
