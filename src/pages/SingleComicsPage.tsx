@@ -16,25 +16,25 @@ const SingleComicsPage: React.FC = () => {
 
   if (loading)
     return (
-      <div className="flex flex-col items-center min-h-screen bg-gray-800 text-white p-6">
+      <div className="flex flex-col items-center min-h-screen  text-white p-6">
         <p>Cargando detalles...</p>
       </div>
     );
   if (error)
     return (
-      <div className="flex flex-col items-center min-h-screen bg-gray-800 text-white p-6">
+      <div className="flex flex-col items-center min-h-screen  text-white p-6">
         <p className="text-red-500">{error}</p>
       </div>
     );
   if (!resource)
     return (
-      <div className="flex flex-col items-center min-h-screen bg-gray-800 text-white p-6">
+      <div className="flex flex-col items-center min-h-screen  text-white p-6">
         <p>No se encontraron series.</p>
       </div>
     );
 
   return (
-    <div className="flex flex-col items-center min-h-screen bg-gray-800 text-white p-6">
+    <div className="flex flex-col items-center min-h-screen  text-white p-6">
       
       <h1 className="text-3xl font-bold">{resource.title}</h1>
       <p className="mt-4 mx-auto text-center max-w-2xl">

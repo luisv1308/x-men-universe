@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
+
+body {
+  background-color: #000; /* Fondo oscuro */
+  color: #FFCC00; /* Texto amarillo X-Men */
+  font-family: 'Bangers', sans-serif;
+}
+
+a {
+  color: #FFCC00;
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+a:hover {
+  color: #E63946; /* Rojo intenso al pasar el mouse */
+}
+
+button {
+  background-color: #0033A0; /* Azul Cyclops */
+  color: #FFCC00;
+  border: 3px solid #FFCC00;
+  padding: 10px 20px;
+  font-size: 18px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+button:hover {
+  background-color: #E63946;
+  border-color: #E63946;
+}
+
+.container {
+  max-width: 1200px;
+  margin: auto;
+  padding: 20px;
+  text-align: center;
+}

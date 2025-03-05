@@ -16,25 +16,25 @@ const CharacterDetailPage: React.FC = () => {
 
   if (loading)
     return (
-      <div className="flex flex-col items-center min-h-screen bg-gray-800 text-white p-6">
+      <div className="flex flex-col items-center min-h-screen  text-white p-6">
         <p>Cargando detalles...</p>
       </div>
     );
   if (error)
     return (
-      <div className="flex flex-col items-center min-h-screen bg-gray-800 text-white p-6">
+      <div className="flex flex-col items-center min-h-screen  text-white p-6">
         <p className="text-red-500">{error}</p>
       </div>
     );
   if (!selectedCharacter)
     return (
-      <div className="flex flex-col items-center min-h-screen bg-gray-800 text-white p-6">
+      <div className="flex flex-col items-center min-h-screen  text-white p-6">
         <p>No se encontró el personaje.</p>
       </div>
     );
 
   return (
-    <div className="flex flex-col items-center min-h-screen bg-gray-800 text-white p-6">
+    <div className="flex flex-col items-center min-h-screen  text-white p-6">
       <h1 className="text-3xl font-bold">{selectedCharacter.name}</h1>
       <img
         src={`${selectedCharacter.thumbnail.path}.${selectedCharacter.thumbnail.extension}`}
