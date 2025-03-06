@@ -52,13 +52,18 @@ export const useQuizStore = create<QuizState>((set) => ({
   startGame: (difficulty) => {
     const shuffledQuestions = [...questionsData]
       .sort(() => 0.5 - Math.random())
-      .slice(0, difficulty === "easy" ? 3 : difficulty === "medium" ? 5 : 10);
+      .slice(0, difficulty === 'easy' ? 3 : difficulty === 'medium' ? 5 : 10)
+      .map((question) => ({
+        ...question,
+        options: [...question.options].sort(() => 0.5 - Math.random()), // Mezclar opciones
+      }));
+  
     set({
       questions: shuffledQuestions,
       currentQuestionIndex: 0,
       score: 0,
       difficulty,
-      gameState: "playing",
+      gameState: 'playing',
       timeLeft: difficultyTimes[difficulty],
       selectedAnswer: null,
       answerStatus: null,
@@ -69,11 +74,7 @@ export const useQuizStore = create<QuizState>((set) => ({
   answerQuestion: (answer) => {
     set((state) => {
       const isCorrect = state.questions[state.currentQuestionIndex].answer === answer;
-      if (isCorrect) {
-        correctAudio.play();
-      } else {
-        wrongAudio.play();
-      }
+      isCorrect ? correctAudio.play() : wrongAudio.play();
   
       const newProgress = [...state.progress];
       newProgress[state.currentQuestionIndex] = isCorrect ? 'correct' : 'wrong';
@@ -83,7 +84,7 @@ export const useQuizStore = create<QuizState>((set) => ({
         answerStatus: isCorrect ? 'correct' : 'wrong',
         score: isCorrect ? state.score + 1 : state.score,
         progress: newProgress,
-        timeLeft: 0, // Evita que siga bajando y muestre -1
+        timeLeft: 0
       };
     });
   
@@ -95,7 +96,7 @@ export const useQuizStore = create<QuizState>((set) => ({
           currentQuestionIndex: nextIndex,
           gameState: isGameOver ? 'results' : 'playing',
           timeLeft: state.difficulty ? difficultyTimes[state.difficulty] : 30,
-          selectedAnswer: null,
+          selectedAnswer: null, // ✅ Evita que el botón anterior mantenga su color
           answerStatus: null,
         };
       });
