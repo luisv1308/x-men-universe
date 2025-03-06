@@ -1,1511 +1,2601 @@
-{
-  "questions": [
-    {
-      "question": "Rogue had once been romantically involved with which evil mutant?",
-      "options": ["Arcade", "Shadow King", "Pyro", "Magneto", "Avalanche"],
-      "answer": "Magneto"
-    },
-    {
-      "question": "The address for the X-Mansion is:",
-      "options": ["2112 Raven's Peak", "1407 Graymalkin Lane", "413 Xavier Ridge", "1001 Whitestone Place", "1515 Camelot Boulevard"],
-      "answer": "1407 Graymalkin Lane"
-    },
-    {
-      "question": "Of these characters, which was the first X-MAN:",
-      "options": ["Puck", "Beast", "Angel", "Banshee", "Cyclops"],
-      "answer": "Cyclops"
-    },
-    {
-      "question": "Who isn't a member of the Brotherhood?",
-      "options": ["Toad", "Mystique", "Gateway", "Blob", "Avalanche"],
-      "answer": "Gateway"
-    },
-    {
-      "question": "Name the machine Xavier uses to augment his psychic powers.",
-      "options": ["Chronomancer", "Astral Energizer", "Fixx", "The Oracle", "Cerebro"],
-      "answer": "Cerebro"
-    },
-    {
-      "question": "Why can't Cyclops control his optic blast?",
-      "options": ["Head trauma suffere as a child.", "Due to the build up of power.", "He didn't receive training as a child.", "He ingested a poison as a teenager.", "Professor Xavier is still unsure."],
-      "answer": "Head trauma suffere as a child."
-    },
-    {
-      "question": "Gambit's father trained him to ba a:",
-      "options": ["Thief", "Ninja", "Plumber", "Boxer", "Cryptologist"],
-      "answer": "Thief"
-    },
-    {
-      "question": "Nightcrawler is originally from:",
-      "options": ["Canada", "Spain", "America", "Egypt", "Germany"],
-      "answer": "Germany"
-    },
-    {
-      "question": "When Jean Grey is overwhelmed by her powers she becomes:",
-      "options": ["The Phoenix", "The White Queen", "Dazzler", "Mystique", "Cerebro"],
-      "answer": "The Phoenix"
-    },
-    {
-      "question": "Who is Cyclops's brother?",
-      "options": ["Quicksilver", "Havok", "Bishop", "Wolverine", "Gambit"],
-      "answer": "Havok"
-    },
-    {
-      "question": "Moira MacTaggert runs what facility?",
-      "options": ["The HAARP facility in Alaska", "Area 51", "Mutant Research on Muir Island", "Asteroid M", "A Sentinel manufacturing plant in Germany"],
-      "answer": "Mutant Research on Muir Island"
-    },
-    {
-      "question": "Who is not truly a mutant?",
-      "options": ["Angel", "Juggernaut", "Magneto", "Marrow", "Jubilee"],
-      "answer": "Juggernaut"
-    },
-    {
-      "question": "Wolverine was forced to slay the father of the woman he loved. What was the father's name?",
-      "options": ["Shingen", "Hiro Takachiho", "Shiro", "Gogo Tomago", "Karma"],
-      "answer": "Shingen"
-    },
-    {
-      "question": "Cyclops's father was the leader of which group?",
-      "options": ["The Starjammers", "The Shi'Ar", "The Brood", "Th Hellfire Club", "Department H"],
-      "answer": "The Starjammers"
-    },
-    {
-      "question": "Who Developed Sentinels as a deterrent to mutants?",
-      "options": ["Sebastian Shaw", "Amahl Farouk", "'Black' Tom Cassidy", "James MacDonald Hudson", "Bolivar Trask"],
-      "answer": "Bolivar Trask"
-    },
-    {
-      "question": "The original X-MEN went to he Coffee A-Go-Go to listen to a beatnik known as:",
-      "options": ["Bernard the Poet", "Calvin Rankin", "Kurt Wagner", "Mikhail Rasputin", "Cameron Hodge"],
-      "answer": "Bernard the Poet"
-    },
-    {
-      "question": "Magneto's outer space base, Asteroid M, has also been referred to as:",
-      "options": ["Avalon", "Camelot", "Plan 9", "The Inner Sanctum", "Genosha"],
-      "answer": "Avalon"
-    },
-    {
-      "question": "Who wears a helmet to protect against psionic attacks?",
-      "options": ["Multipleman", "Juggernaut", "Sprite", "Bishop", "Cable"],
-      "answer": "Juggernaut"
-    },
-    {
-      "question": "The metal bonded to Wolverine's bones is:",
-      "options": ["Carbon Steel", "A poly-iron alloy", "Adamantium", "Tungsten", "Unknown"],
-      "answer": "Adamantium"
-    },
-    {
-      "question": "Which is a codename for Kitty Pryde?",
-      "options": ["Polaris", "Sprite", "Siryn", "Destiny", "Blink"],
-      "answer": "Sprite"
-    },
-    {
-      "question": "Toad's real name is:",
-      "options": ["James Hudson", "Mortimer Toynbee", "Clive Schneebly", "Wade Wilson", "Victor Creed"],
-      "answer": "Mortimer Toynbee"
-    },
-    {
-      "question": "Aside from being a powerful telepath, Emma Frost can also:",
-      "options": ["Generate force fields", "See through solid objects", "Change to diamond hard substance", "Time travel", "Teleport great distances"],
-      "answer": "Change to diamond hard substance"
-    },
-    {
-      "question": "Moira's son, Kevin MacTaggert, was also known as:",
-      "options": ["Enigma", "Proteus", "Varese", "Sauron", "Morrow"],
-      "answer": "Proteus"
-    },
-    {
-      "question": "For a short time, Jean Grey was a member of:",
-      "options": ["The Brotherhood", "The Hellfire Club", "The Morlocks", "The Brood", "The Four Horsemen"],
-      "answer": "The Hellfire Club"
-    },
-    {
-      "question": "Which X-MAN is immune to Rogue's power?",
-      "options": ["Jean Grey", "Banshee", "Colossus", "Gambit", "Beast"],
-      "answer": "Colossus"
-    },
-    {
-      "question": "Storm's biggest fear is:",
-      "options": ["Water", "Heights", "Enclosed spaces", "Death", "Aging"],
-      "answer": "Enclosed spaces"
-    },
-    {
-      "question": "Who in this group is a mutant?",
-      "options": ["Senator Robert Kelly", "Moira MacTaggert", "Juggernaut", "Bobby Drake", "Bolivar Trask"],
-      "answer": "Bobby Drake"
-    },
-    {
-      "question": "What is the Xavier Protocol?",
-      "options": ["Files listing the secret identities of all known mutants", "Passwords to access Cerebro", "Top secret scenarios for the Danger Room", "The Security code to destroy the X-Mansion", "Commands to control all satellite communications"],
-      "answer": "Files listing the secret identities of all known mutants"
-    },
-    {
-      "question": "Professor Xavier buil Cerebro with the aid of:",
-      "options": ["Magneto", "Beast", "Forge", "Wolverine", "Moira MacTaggert"],
-      "answer": "Magneto"
-    },
-    {
-      "question": "Forge is a member of which Native American tribe?",
-      "options": ["Sioux", "Apache", "Cheyenne", "Hopi", "Navajo"],
-      "answer": "Cheyenne"
-    },
-    {
-      "question": "The comic book X-MEN #1 featuring the X-MEN and Magneto appeared in:",
-      "options": ["May 1967", "July 1971", "January 1964", "November 1968", "September 1963"],
-      "answer": "September 1963"
-    },
-    {
-      "question": "Who is next in line to lead the X-MEN if Cyclops is unable to?",
-      "options": ["Beast", "Wolverine", "Storm", "Angel", "Jubilee"],
-      "answer": "Storm"
-    },
-    {
-      "question": "Psylocke is from:",
-      "options": ["England", "Australia", "Germany", "Russia", "Japan"],
-      "answer": "England"
-    },
-    {
-      "question": "Where did Jubilee live for a short time?",
-      "options": ["Hollywood shopping mall", "New York library", "Amuesement park in Texas", "Abandoned Chicago office building", "Church in Germany"],
-      "answer": "Hollywood shopping mall"
-    },
-    {
-      "question": "Cyclops derives the energy for his optic blast from:",
-      "options": ["Solar energy", "Electricity", "Gravity", "Mental power", "His emotions"],
-      "answer": "Solar energy"
-    },
-    {
-      "question": "When Shadow King first met Professor Xavier he was known as:",
-      "options": ["Garokk", "Tom Cassidy", "Kwannon", "Amahl Farouk", "Erik Lehnsherr"],
-      "answer": "Amahl Farouk"
-    },
-    {
-      "question": "The Morlock took their name from:",
-      "options": ["Their first leader", "The underground race in H.G. Wells' novel 'The Time Machine'", "An ancient Egyptian goddes", "A South American tribe", "A subway sign"],
-      "answer": "The underground race in H.G. Wells' novel 'The Time Machine'"
-    },
-    {
-      "question": "Gambit's power is the ability to:",
-      "options": ["Charge objects with kinetic energy", "Turn his flesh into metal", "Mentally control his enemies", "Produce fireworks from his hands", "Absorb another mutant's powers"],
-      "answer": "Charge objects with kinetic energy"
-    },
-    {
-      "question": "Jubilee is the unoficial side kick of which X-MAN?",
-      "options": ["Beast", "Angel", "Nightcrawler", "Storm", "Wolverine"],
-      "answer": "Wolverine"
-    },
-    {
-      "question": "Against her will, Psylocke's mind was transferred into the body of:",
-      "options": ["A ninja", "An android", "A mutant from another time-line", "A human", "An astral entity"],
-      "answer": "A ninja"
-    },
-    {
-      "question": "Juggernaut received his fantastic powers from:",
-      "options": ["A gem of Cyttorak", "The sorcerer Beroge", "An ancient Scottish curse", "The African priestess known as N'Dare", "Entering a secret chamber in a South American pyramid"],
-      "answer": "A gem of Cyttorak"
-    },
-    {
-      "question": "A nickname for Cyclops is:",
-      "options": ["Red", "Slim", "Bub", "Sunshine", "Commander Chaos"],
-      "answer": "Slim"
-    },
-    {
-      "question": "Sabretooth and Wolverine worked together doing covert operations for:",
-      "options": ["The Shi'ar", "Ahmet Abdol", "The CIA and Weapon X", "Interpol", "Alpha Flight"],
-      "answer": "The CIA and Weapon X"
-    },
-    {
-      "question": "Kitty Pryde has a pet drgon named:",
-      "options": ["Puff", "Lockheed", "Mirage", "Zeke", "Plume"],
-      "answer": "Lockheed"
-    },
-    {
-      "question": "One name Mystique goes by is:",
-      "options": ["Raven Darkholme", "Jasmine Post", "Guyrich", "Carol Hines", "Siryn"],
-      "answer": "Raven Darkholme"
-    },
-    {
-      "question": "Oneof Storm's favorite hobbies is:",
-      "options": ["Painting", "Swimming", "Archery", "Writing", "Gardening"],
-      "answer": "Gardening"
-    },
-    {
-      "question": "In addition to Wolverine, who has been an experiment of the Weapon X program?",
-      "options": ["Pyro", "Forge", "Sabretooth", "Psylocke", "Nightcrawler"],
-      "answer": "Sabretooth"
-    },
-    {
-      "question": "When did Colossus first turn into his metal form?",
-      "options": ["Saving peaple from a burning building", "Stopping a runaway tractor", "Being attacked by frightened villagers", "Protecting his brother from a thief", "When he was struck by lightning"],
-      "answer": "Stopping a runaway tractor"
-    },
-    {
-      "question": "The first five members of the X-MEN were:",
-      "options": ["Wolverine, Jean Grey, Cyclops, Psylocke and Jubilee", "Iceman, Jean Grey, Beast, Banshee and Cyclops", "Cyclops, Iceman, Angel, Beast and Jean Grey", "Nightcrawler, Jubilee, Wolverine, Avalanche and Emma Frost", "Jean Grey, Rogue, Cyclops, Psylocke and Beast"],
-      "answer": "Cyclops, Iceman, Angel, Beast and Jean Grey"
-    },
-    {
-      "question": "When do a mutant's powers normally first activate?",
-      "options": ["During the teenage years", "First meeting another mutant", "When scanned by Cerebo", "A lunar eclipse", "Summer Solstice"],
-      "answer": "During the teenage years"
-    },
-    //x-men legends 2
-    {
-        "question": "Sabretooth's archenemy is:",
-        "options": ["Magneto", "Cyclops", "Wolverine", "Professor X", "Gambit"],
-        "answer": "Wolverine"
-      },
-      {
-        "question": "In the video game X-Men: Legends, Iceman had a crush on:",
-        "options": ["Jean Grey", "Storm", "Alison Crestmere", "Rogue", "Kitty Pryde"],
-        "answer": "Alison Crestmere"
-      },
-      {
-        "question": "Juggernaut first appeared in X-Men number:",
-        "options": ["10", "12", "15", "20", "8"],
-        "answer": "12"
-      },
-      {
-        "question": "As a young man, Gambit wed an assassin named:",
-        "options": ["Mystique", "Rogue", "Bella Donna Boudreaux", "Lady Deathstrike", "Polaris"],
-        "answer": "Bella Donna Boudreaux"
-      },
-      {
-        "question": "What is Victor Creed's mutant code name?",
-        "options": ["Wolverine", "Juggernaut", "Sabretooth", "Blob", "Pyro"],
-        "answer": "Sabretooth"
-      },
-      {
-        "question": "Forge has been romantically linked to:",
-        "options": ["Jean Grey", "Rogue", "Storm", "Mystique", "Polaris"],
-        "answer": "Storm"
-      },
-      {
-        "question": "While growing up in an orphanage, Cyclops was bullied by a boy named Nathan, who was really:",
-        "options": ["Magneto", "Apocalypse", "Mr. Sinister", "Sabretooth", "Juggernaut"],
-        "answer": "Mr. Sinister"
-      },
-      {
-        "question": "Which is true of Colossus in his armored form?",
-        "options": ["He becomes weaker", "He can't move", "Even his eyeballs become steel-like.", "He loses his mutant ability", "He becomes invisible"],
-        "answer": "Even his eyeballs become steel-like."
-      },
-      {
-        "question": "Beast was born a mutant because:",
-        "options": ["He was bitten by a radioactive spider", "He was exposed to cosmic rays", "His father was exposed to a massive amount of radiation", "He was born on Asteroid M", "He was a test subject for Weapon X"],
-        "answer": "His father was exposed to a massive amount of radiation"
-      },
-      {
-        "question": "What is Apocalypse's real name?",
-        "options": ["Victor Creed", "Erik Lehnsherr", "En Sabah Nur", "Nathan Essex", "Remy LeBeau"],
-        "answer": "En Sabah Nur"
-      },
-      {
-        "question": "Before joining the X-Men, Angel was a crime fighter who worked under the name:",
-        "options": ["The Protector", "Night Eagle", "Avenging Angel", "Sky Knight", "The Guardian"],
-        "answer": "Avenging Angel"
-      },
-      {
-        "question": "Abyss is able to:",
-        "options": ["Fly", "Control the weather", "Pull enemies into an inter-dimensional cavity in his chest", "Teleport", "Manipulate metal"],
-        "answer": "Pull enemies into an inter-dimensional cavity in his chest"
-      },
-      {
-        "question": "Blink's real name is:",
-        "options": ["Raven Darkholme", "Clarice Ferguson", "Lorna Dane", "Yuriko Oyama", "Jean Grey"],
-        "answer": "Clarice Ferguson"
-      },
-      {
-        "question": "What is Lorna Dane's X-Men code name?",
-        "options": ["Mystique", "Polaris", "Lady Deathstrike", "Blink", "Rogue"],
-        "answer": "Polaris"
-      },
-      {
-        "question": "Blob is originally from:",
-        "options": ["New York", "Genosha", "Lubbock, Texas", "Dunfee, Illinois", "Asteroid M"],
-        "answer": "Lubbock, Texas"
-      },
-      {
-        "question": "Grizzly worked for which team?",
-        "options": ["The Brotherhood", "The Hellfire Club", "Six Pack", "The Reavers", "The Exiles"],
-        "answer": "Six Pack"
-      },
-      {
-        "question": "Why does Lady Deathstrike hate Wolverine?",
-        "options": ["He killed her father", "She thinks he stole her father's work in adamantium.", "He destroyed her lab", "He defeated her in combat", "He is Magneto's ally"],
-        "answer": "She thinks he stole her father's work in adamantium."
-      },
-      {
-        "question": "Quicksilver's mutant power is:",
-        "options": ["Telepathy", "Super strength", "Super speed", "Flight", "Teleportation"],
-        "answer": "Super speed"
-      },
-      {
-        "question": "What is Polaris' mutant power?",
-        "options": ["Telekinesis", "Weather manipulation", "Magnetic Manipulation", "Shapeshifting", "Energy absorption"],
-        "answer": "Magnetic Manipulation"
-      },
-      {
-        "question": "Blink's protector is:",
-        "options": ["Wolverine", "Cyclops", "Sabretooth", "Beast", "Iceman"],
-        "answer": "Sabretooth"
-      },
-      {
-        "question": "Which X-Man saved Polaris from Mesmero?",
-        "options": ["Wolverine", "Cyclops", "Iceman", "Beast", "Angel"],
-        "answer": "Iceman"
-      },
-      {
-        "question": "Before joining the Brotherhood, Blob worked at:",
-        "options": ["A factory", "A bank", "A traveling circus", "A laboratory", "A school"],
-        "answer": "A traveling circus"
-      },
-      {
-        "question": "What color hair does Polaris have?",
-        "options": ["Red", "Blue", "Green", "Black", "Blonde"],
-        "answer": "Green"
-      },
-      {
-        "question": "Quicksilver and his sister were raised by:",
-        "options": ["Scientists", "The government", "Gypsies", "Aliens", "Robots"],
-        "answer": "Gypsies"
-      },
-      {
-        "question": "What secret project did Wolverine and Sabretooth both belong to?",
-        "options": ["Project Nimrod", "Project Wideawake", "Weapon X", "Project Pegasus", "Project Cadmus"],
-        "answer": "Weapon X"
-      },
-      {
-        "question": "Cable, Domino, Grizzly, George Washington Bridge, Hammer and Kane together form what group?",
-        "options": ["The Brotherhood", "The Hellfire Club", "Six Pack", "The Reavers", "The Exiles"],
-        "answer": "Six Pack"
-      },
-      {
-        "question": "Blink is able to teleport:",
-        "options": ["Only short distances", "As far away as the moon.", "Only within the same room", "Only to places she has seen before", "Only in emergencies"],
-        "answer": "As far away as the moon."
-      },
-      {
-        "question": "Zealot is the bitter enemy of:",
-        "options": ["Professor X", "Wolverine", "Magneto", "Apocalypse", "Sabretooth"],
-        "answer": "Magneto"
-      },
-      {
-        "question": "Quicksilver's real name is:",
-        "options": ["Victor Creed", "Erik Lehnsherr", "Pietro Maximoff", "Nathan Essex", "Remy LeBeau"],
-        "answer": "Pietro Maximoff"
-      },
-      {
-        "question": "Sabretooth made his debut in which Marvel comic book?",
-        "options": ["X-Men", "The Incredible Hulk", "Iron Fist", "Spider-Man", "Wolverine"],
-        "answer": "Iron Fist"
-      },
-      {
-        "question": "Jean's psychic powers awoke when:",
-        "options": ["She was attacked by a Sentinel", "She was exposed to radiation", "Her friend was hit by a car.", "She was kidnapped by aliens", "She was born"],
-        "answer": "Her friend was hit by a car."
-      },
-      {
-        "question": "Juggernaut frequently partners up with which of the following mutants?",
-        "options": ["Magneto", "Sabretooth", "Black Tom Cassidy", "Blob", "Pyro"],
-        "answer": "Black Tom Cassidy"
-      },
-      {
-        "question": "Who did Sabretooth have a son with?",
-        "options": ["Mystique", "Rogue", "Lady Deathstrike", "Polaris", "Storm"],
-        "answer": "Mystique"
-      },
-      {
-        "question": "What is Lady Deathstrike's real name?",
-        "options": ["Raven Darkholme", "Clarice Ferguson", "Lorna Dane", "Yuriko Oyama", "Jean Grey"],
-        "answer": "Yuriko Oyama"
-      },
-      {
-        "question": "Who are the children of Magneto?",
-        "options": ["Wolverine and Sabretooth", "Cyclops and Havok", "Scarlet Witch and Quicksilver", "Rogue and Gambit", "Beast and Angel"],
-        "answer": "Scarlet Witch and Quicksilver"
-      },
-      {
-        "question": "Which Marvel hero's comic did Mystique first appear in 1978?",
-        "options": ["X-Men", "The Avengers", "Ms. Marvel", "Spider-Man", "Iron Man"],
-        "answer": "Ms. Marvel"
-      },
-      {
-        "question": "Lady Deathstrike's father developed a process for:",
-        "options": ["Creating Sentinels", "Controlling mutants", "Bonding Adamantium to bone", "Teleporting", "Manipulating weather"],
-        "answer": "Bonding Adamantium to bone"
-      },
-      {
-        "question": "Abyss works for:",
-        "options": ["Magneto", "Professor X", "Apocalypse", "Sabretooth", "Juggernaut"],
-        "answer": "Apocalypse"
-      },
-      {
-        "question": "Where is Genosha located?",
-        "options": ["The Atlantic Ocean", "The Pacific Ocean", "The Indian Ocean", "The Arctic Ocean", "The Mediterranean Sea"],
-        "answer": "The Indian Ocean"
-      },
-      {
-        "question": "Professor Xavier attended which university?",
-        "options": ["Harvard", "Oxford", "Cambridge", "Yale", "Princeton"],
-        "answer": "Oxford"
-      },
-      {
-        "question": "On average, if Rogue touches a mutant for a minute, how long does she retain that mutant's powers?",
-        "options": ["10 minutes", "30 minutes", "60 minutes", "2 hours", "Indefinitely"],
-        "answer": "60 minutes"
-      },
-      {
-        "question": "Which of these mutants can't fly?",
-        "options": ["Angel", "Storm", "Wolverine", "Jean Grey", "Iceman"],
-        "answer": "Wolverine"
-      },
-      {
-        "question": "What time traveling team of mutants does Blink belong to?",
-        "options": ["X-Force", "New Mutants", "Exiles", "Alpha Flight", "The Brotherhood"],
-        "answer": "Exiles"
-      },
-      {
-        "question": "Who here is not a mutant?",
-        "options": ["Nightcrawler", "Juggernaut", "Storm", "Iceman", "Beast"],
-        "answer": "Juggernaut"
-      },
-      {
-        "question": "What group of criminals did Lady Deathstrike join after her attempt to kill Wolverine failed?",
-        "options": ["The Brotherhood", "The Hellfire Club", "The Reavers", "The Exiles", "The Marauders"],
-        "answer": "The Reavers"
-      },
-      {
-        "question": "Blob is able to generate:",
-        "options": ["Force fields", "A gravitational force that makes him immovable", "Teleportation portals", "Energy blasts", "Illusions"],
-        "answer": "A gravitational force that makes him immovable"
-      },
-      {
-        "question": "What X-Man did Polaris have a relationship with?",
-        "options": ["Wolverine", "Cyclops", "Havok", "Iceman", "Beast"],
-        "answer": "Havok"
-      },
-      {
-        "question": "Forge was contracted by the U.S. government to develop a way to detect an alien race known as:",
-        "options": ["The Shi'ar", "The Kree", "The Skrulls", "The Dire Wraiths", "The Brood"],
-        "answer": "The Dire Wraiths"
-      },
-      {
-        "question": "Who is Sabretooth's son?",
-        "options": ["Wolverine", "Graydon Creed", "Quicksilver", "Juggernaut", "Gambit"],
-        "answer": "Graydon Creed"
-      },
-      {
-        "question": "Beast was born in:",
-        "options": ["New York City", "Genosha", "Lubbock, Texas", "Dunfee, Illinois", "Asteroid M"],
-        "answer": "Dunfee, Illinois"
-      },
-      {
-        "question": "Angel is:",
-        "options": ["Poor", "Middle Class", "Extremely wealthy", "Of average means", "A former criminal"],
-        "answer": "Extremely wealthy"
-      },
-      {
-        "question": "Wolverine made his debut in 1974 in which comic book series?",
-        "options": ["X-Men", "Spider-Man", "The Avengers", "Incredible Hulk", "Fantastic Four"],
-        "answer": "Incredible Hulk"
-      },
-      {
-        "question": "In the video game X-Men Legends, what was the name of the base Magneto had in orbit of Earth?",
-        "options": ["Asteroid X", "Asteroid Z", "Asteroid M", "Avalon", "Genosha"],
-        "answer": "Asteroid M"
-      },
-      {
-        "question": "Which of the following X-Men was at one time Apocalypse's horseman Death?",
-        "options": ["Cyclops", "Storm", "Wolverine", "Colossus", "Iceman"],
-        "answer": "Wolverine"
-      },
-      {
-        "question": "Destiny belonged to which super villain team?",
-        "options": ["The Hellfire Club", "The Reavers", "The Marauders", "The Brotherhood of Evil Mutants", "The Serpent Society"],
-        "answer": "The Brotherhood of Evil Mutants"
-      },
-      {
-        "question": "Garokk was originally:",
-        "options": ["A mutant", "A scientist", "A British sailor", "A soldier", "A king"],
-        "answer": "A British sailor"
-      },
-      {
-        "question": "In the video game X-Men Legends, who was the first playable character at the very beginning in New York City?",
-        "options": ["Cyclops", "Iceman", "Wolverine", "Storm", "Jean Grey"],
-        "answer": "Wolverine"
-      },
-      {
-        "question": "How many fingers does Nightcrawler have on each hand?",
-        "options": ["Four", "Five", "Three", "Two", "Six"],
-        "answer": "Three"
-      },
-      {
-        "question": "Who is Ka-Zar's wife?",
-        "options": ["Mystique", "Rogue", "Shanna O'Hara", "Lady Deathstrike", "Polaris"],
-        "answer": "Shanna O'Hara"
-      },
-      {
-        "question": "Which person is Mystique not connected to?",
-        "options": ["Destiny", "Rogue", "Nightcrawler", "Mikhail Rasputin", "Sabretooth"],
-        "answer": "Mikhail Rasputin"
-      },
-      {
-        "question": "Which X-Man was involved romantically with Magneto?",
-        "options": ["Jean Grey", "Storm", "Rogue", "Kitty Pryde", "Psylocke"],
-        "answer": "Rogue"
-      },
-      {
-        "question": "Joseph is a clone of which mutant?",
-        "options": ["Professor X", "Apocalypse", "Magneto", "Sabretooth", "Juggernaut"],
-        "answer": "Magneto"
-      },
-      {
-        "question": "Iceman's real name is:",
-        "options": ["Bobby Drake", "Scott Summers", "Hank McCoy", "Warren Worthington III", "Piotr Rasputin"],
-        "answer": "Bobby Drake"
-      },
-      {
-        "question": "Who is not a member of the Brotherhood?",
-        "options": ["Toad", "Blob", "Mystique", "Lupa", "Pyro"],
-        "answer": "Lupa"
-      },
-      {
-        "question": "As a boy, Nightcrawler's hero was:",
-        "options": ["Buster Keaton", "Charlie Chaplin", "Errol Flynn", "Harold Lloyd", "Cary Grant"],
-        "answer": "Errol Flynn"
-      },
-      {
-        "question": "Who served alongside Cable in his mercenary group, Six Pack?",
-        "options": ["Mystique", "Rogue", "Domino", "Lady Deathstrike", "Polaris"],
-        "answer": "Domino"
-      },
-      {
-        "question": "What is Bishop's mutant power?",
-        "options": ["Telepathy", "Telekinesis", "Absorb energy and rechannel it", "Shapeshifting", "Weather manipulation"],
-        "answer": "Absorb energy and rechannel it"
-      },
-      {
-        "question": "Ka-Zar's father came to the Savage Land in search of what?",
-        "options": ["Vibranium", "Adamantium", "Anti-metal", "Uru", "Mysterium"],
-        "answer": "Anti-metal"
-      },
-      {
-        "question": "What are Forge's powers?",
-        "options": ["Telepathy", "Telekinesis", "Inventing new technology and mystic powers", "Shapeshifting", "Weather manipulation"],
-        "answer": "Inventing new technology and mystic powers"
-      },
-      {
-        "question": "Ka-Zar was originally named:",
-        "options": ["Kevin Plunder", "Victor Creed", "Erik Lehnsherr", "Nathan Essex", "Remy LeBeau"],
-        "answer": "Kevin Plunder"
-      },
-      {
-        "question": "Colossus' brother Mikhail first appeared in Uncanny X-Men number:",
-        "options": ["280", "285", "290", "295", "300"],
-        "answer": "285"
-      },
-      {
-        "question": "What evil villain is also known as Cain Marko?",
-        "options": ["Magneto", "Apocalypse", "Juggernaut", "Sabretooth", "Blob"],
-        "answer": "Juggernaut"
-      },
-      {
-        "question": "Heather Cameron is known as which X-Man?",
-        "options": ["Rogue", "Storm", "Lifeguard", "Kitty Pryde", "Psylocke"],
-        "answer": "Lifeguard"
-      },
-      {
-        "question": "Magneto first appeared in 1963 X-Men number:",
-        "options": ["1", "5", "10", "15", "20"],
-        "answer": "1"
-      },
-      {
-        "question": "What name does Magneto go by?",
-        "options": ["Victor Creed", "Erik Lehnsherr", "Nathan Essex", "Remy LeBeau", "Cain Marko"],
-        "answer": "Erik Lehnsherr"
-      },
-      {
-        "question": "Mikhail es el hermano de:",
-        "options": ["Wolverine", "Cyclops", "Colossus", "Iceman", "Beast"],
-        "answer": "Colossus"
-      },
-      {
-        "question": "Colossus first learned he could turn into metal when he:",
-        "options": ["Was attacked by a Sentinel", "Saved his sister from a runaway tractor.", "Was exposed to radiation", "Was born", "Was trained by Magneto"],
-        "answer": "Saved his sister from a runaway tractor."
-      },
-      {
-        "question": "In the video game, X-Men: Legends, what was the code name of the young woman the X-Men saved in New York City from Blob and Mystique?",
-        "options": ["Rogue", "Storm", "Magma", "Kitty Pryde", "Psylocke"],
-        "answer": "Magma"
-      },
-      {
-        "question": "Bishop is a time traveler from which century?",
-        "options": ["20th", "21st", "22nd", "23rd", "24th"],
-        "answer": "21st"
-      },
-      {
-        "question": "What is Omega Red's real name?",
-        "options": ["Victor Creed", "Erik Lehnsherr", "Arkady Gregorovich", "Nathan Essex", "Remy LeBeau"],
-        "answer": "Arkady Gregorovich"
-      },
-      {
-        "question": "Nightcrawler was once the leader of which of the following groups?",
-        "options": ["The Brotherhood", "The Hellfire Club", "Excalibur", "The Reavers", "The Marauders"],
-        "answer": "Excalibur"
-      },
-      {
-        "question": "Pyro's real name is:",
-        "options": ["John Allerdyce", "Victor Creed", "Erik Lehnsherr", "Nathan Essex", "Remy LeBeau"],
-        "answer": "St. John Allerdyce"
-      },
-      {
-        "question": "Approximately how old is Apocalypse?",
-        "options": ["1000 yrs old", "2000 yrs old", "3000 yrs old", "4000 yrs old", "5000 yrs old"],
-        "answer": "5000 yrs old"
-      },
-      {
-        "question": "What is Sauron's real name?",
-        "options": ["Victor Creed", "Erik Lehnsherr", "Karl Lykos", "Nathan Essex", "Remy LeBeau"],
-        "answer": "Karl Lykos"
-      },
-      {
-        "question": "Shanna at one time:",
-        "options": ["Was a queen", "Worked at a zoo in New York City", "Was a pirate", "Was a scientist", "Was a politician"],
-        "answer": "Worked at a zoo in New York City"
-      },
-      {
-        "question": "Death, War, Pestilence, and Famine together form what group?",
-        "options": ["The Brotherhood", "The Hellfire Club", "The Four Horsemen", "The Reavers", "The Marauders"],
-        "answer": "The Four Horsemen"
-      },
-      {
-        "question": "What is Pyro's mutant ability?",
-        "options": ["Telepathy", "Telekinesis", "He can control fire.", "Shapeshifting", "Weather manipulation"],
-        "answer": "He can control fire."
-      },
-      {
-        "question": "What is Sunfire's real name?",
-        "options": ["Victor Creed", "Erik Lehnsherr", "Shiro Yoshida", "Nathan Essex", "Remy LeBeau"],
-        "answer": "Shiro Yoshida"
-      },
-      {
-        "question": "Ororo Munroe's X-Men code name is:",
-        "options": ["Mystique", "Rogue", "Storm", "Kitty Pryde", "Psylocke"],
-        "answer": "Storm"
-      },
-      {
-        "question": "Omega Red's arm coils are made from what material?",
-        "options": ["Adamantium", "Vibranium", "Carbonadium", "Uru", "Mysterium"],
-        "answer": "Carbonadium"
-      },
-      {
-        "question": "Toad first appeared in:",
-        "options": ["X-Men number 1", "X-Men number 2", "X-Men number 3", "X-Men number 4", "X-Men number 5"],
-        "answer": "X-Men number 4"
-      },
-      {
-        "question": "Where is the Savage Land located?",
-        "options": ["Africa", "South America", "Asia", "Antarctica", "Australia"],
-        "answer": "Antarctica"
-      },
-      {
-        "question": "Who is Mystique's best friend?",
-        "options": ["Rogue", "Storm", "Destiny", "Kitty Pryde", "Psylocke"],
-        "answer": "Destiny"
-      },
-      {
-        "question": "The Savage Land is protected from freezing temperatures by:",
-        "options": ["Magic", "Alien Technology", "Mutant powers", "Volcanic activity", "A force field"],
-        "answer": "Alien Technology"
-      },
-      {
-        "question": "Mikhail Rasputin has been:",
-        "options": ["A king", "A scientist", "A Russian cosmonaut", "A pirate", "A politician"],
-        "answer": "A Russian cosmonaut"
-      },
-      {
-        "question": "Nightcrawler grew up working in a circus as:",
-        "options": ["A clown", "A ringmaster", "An acrobat", "A magician", "A strongman"],
-        "answer": "An acrobat"
-      },
-      {
-        "question": "What animal protected Ka-Zar as he grew up in the Savage Land?",
-        "options": ["A lion", "A bear", "A sabretooth tiger", "A wolf", "A gorilla"],
-        "answer": "A sabretooth tiger"
-      },
-      {
-        "question": "What was Shanna known as in the Savage Land?",
-        "options": ["Shanna the Queen", "Shanna the Warrior", "Shanna the She-Devil", "Shanna the Huntress", "Shanna the Sorceress"],
-        "answer": "Shanna the She-Devil"
-      },
-      {
-        "question": "Garokk was ship wrecked in the Savage Land in what time period?",
-        "options": ["1200s", "1300s", "1400s", "1500s", "1600s"],
-        "answer": "1400s"
-      },
-      {
-        "question": "Bishop has a sister named:",
-        "options": ["Mystique", "Rogue", "Shard", "Kitty Pryde", "Psylocke"],
-        "answer": "Shard"
-      },
-      {
-        "question": "Sunfire's sister's code name was:",
-        "options": ["Sunstorm", "Sunray", "Sunpyre", "Solaris", "Sunspot"],
-        "answer": "Sunpyre"
-      },
-      {
-        "question": "Wolverine wound up killing the father of this woman he loved:",
-        "options": ["Jean Grey", "Storm", "Mariko Yashido", "Silver Fox", "Rose O'Hara"],
-        "answer": "Mariko Yashido"
-      },
-      {
-        "question": "What Hellfire Club leader first appeared in X-Men number 129 in 1980?",
-        "options": ["Emma Frost", "Magneto", "Sebastian Shaw", "Mr. Sinister", "Apocalypse"],
-        "answer": "Sebastian Shaw"
-      },
-      {
-        "question": "Storm was once the leader of which of the following groups?",
-        "options": ["The Brotherhood", "The Hellfire Club", "The Morlocks", "The Reavers", "The Marauders"],
-        "answer": "The Morlocks"
-      },
-      {
-        "question": "What is Heather Hudson's Alpha Flight code name?",
-        "options": ["Guardian", "Sasquatch", "Vindicator", "Shaman", "Puck"],
-        "answer": "Vindicator"
-      },
-      {
-        "question": "Who oversaw the Weapon X program during Wolverine's transformation?",
-        "options": ["Magneto", "Apocalypse", "The Professor", "Mr. Sinister", "Bolivar Trask"],
-        "answer": "The Professor"
-      },
-      {
-        "question": "Who is not a member of Alpha Flight?",
-        "options": ["Guardian", "Sasquatch", "Puck", "Prism", "Shaman"],
-        "answer": "Prism"
-      },
-      {
-        "question": "Cyclops's father is the captain of a spaceship named:",
-        "options": ["The Blackbird", "The Quinjet", "The Starjammer", "The Milano", "The Helicarrier"],
-        "answer": "The Starjammer"
-      },
-      {
-        "question": "Which super team was Wolverine originally intended to lead?",
-        "options": ["The Avengers", "The Defenders", "Alpha Flight", "The X-Men", "The Fantastic Four"],
-        "answer": "Alpha Flight"
-      },
-      {
-        "question": "Who is the leader of the team known as the Hellions?",
-        "options": ["Magneto", "Apocalypse", "Emma Frost", "Sebastian Shaw", "Mr. Sinister"],
-        "answer": "Emma Frost"
-      },
-      {
-        "question": "Who is Heather Hudson's husband?",
-        "options": ["Wolverine", "Cyclops", "Guardian", "Beast", "Iceman"],
-        "answer": "Guardian"
-      },
-      {
-        "question": "There is speculation that Professor Xavier's father at one time:",
-        "options": ["Was a mutant", "Was a member of the Hellfire Club", "Was part of the Weapon X project that worked on Wolverine.", "Was a member of the Brotherhood", "Was a Sentinel creator"],
-        "answer": "Was part of the Weapon X project that worked on Wolverine."
-      },
-      {
-        "question": "Havok's real name is:",
-        "options": ["Scott Summers", "Alex Summers", "Nathan Summers", "Gabriel Summers", "Christopher Summers"],
-        "answer": "Alex Summers"
-      },
-      {
-        "question": "What is James MacDonald Hudson's Alpha Flight code name?",
-        "options": ["Vindicator", "Sasquatch", "Guardian", "Shaman", "Puck"],
-        "answer": "Guardian"
-      },
-      {
-        "question": "Which of the following X-Men has also been a member of The Avengers?",
-        "options": ["Cyclops", "Storm", "Wolverine", "Beast", "Iceman"],
-        "answer": "Wolverine"
-      },
-      {
-        "question": "Who saved Apocalypse as a child?",
-        "options": ["Magneto", "Mr. Sinister", "Baal", "Sebastian Shaw", "Emma Frost"],
-        "answer": "Baal"
-      },
-      {
-        "question": "The process of bonding Adamantium to Wolverine's bones would have killed him if not for:",
-        "options": ["Magneto's powers", "Apocalypse's intervention", "Wolverine's healing power", "Professor X's telepathy", "Emma Frost's abilities"],
-        "answer": "Wolverine's healing power"
-      },
-      {
-        "question": "What super hero team does Heather Hudson belong to?",
-        "options": ["The Avengers", "The Defenders", "Alpha Flight", "The X-Men", "The Fantastic Four"],
-        "answer": "Alpha Flight"
-      },
-      {
-        "question": "What is Sebastian Shaw's title in the Hellfire Club?",
-        "options": ["White King", "Black King", "Red King", "Gray King", "Purple King"],
-        "answer": "Black King"
-      },
-      {
-        "question": "Toad is from:",
-        "options": ["America", "Canada", "England", "Australia", "Germany"],
-        "answer": "England"
-      },
-      {
-        "question": "Ororo Monroe, better known as Storm, first appeared in 1975 on which comic book?",
-        "options": ["X-Men #1", "Avengers #1", "Fantastic Four #1", "X-Men Giant-Size #1", "Incredible Hulk #1"],
-        "answer": "X-Men Giant-Size #1"
-      },
-      {
-        "question": "Where did Juggernaut find the Ruby of Cyttorak?",
-        "options": ["Egypt", "India", "Korea", "Peru", "Greece"],
-        "answer": "Korea"
-      },
-      {
-        "question": "Jean Grey's main powers are:",
-        "options": ["Telepathy, Flight", "Telekinesis, Super Strength", "Telekinesis, Telepathy", "Teleportation, Telekinesis", "Telepathy, Shapeshifting"],
-        "answer": "Telekinesis, Telepathy"
-      },
-      {
-        "question": "Which super team does James MacDonald Hudson belong to?",
-        "options": ["The Avengers", "The Defenders", "Alpha Flight", "The X-Men", "The Fantastic Four"],
-        "answer": "Alpha Flight"
-      },
-      {
-        "question": "Sebastian Shaw belongs to which New York Social Club?",
-        "options": ["The Avengers Mansion", "The Baxter Building", "The Hellfire Club", "The Daily Bugle", "The Sanctum Sanctorum"],
-        "answer": "The Hellfire Club"
-      },
-      {
-        "question": "Apocalypse first appeared in X-Factor number 5 in:",
-        "options": ["1980", "1983", "1986", "1989", "1992"],
-        "answer": "1986"
-      },
-      {
-        "question": "Who headed the facility failed Weapon X experiments, like Deadpool, were sent to?",
-        "options": ["Magneto", "Apocalypse", "Dr. Killebrew", "Mr. Sinister", "Sebastian Shaw"],
-        "answer": "Dr. Killebrew"
-      },
-      {
-        "question": "Cable founded which team comprised mostly from former Xavier school students?",
-        "options": ["The Brotherhood", "The Hellfire Club", "X-Force", "The Reavers", "The Marauders"],
-        "answer": "X-Force"
-      },
-      {
-        "question": "The leader of the Brotherhood is:",
-        "options": ["Magneto", "Apocalypse", "Mr. Sinister", "Sebastian Shaw", "Emma Frost"],
-        "answer": "Magneto"
-      },
-      {
-        "question": "What is Sebastian Shaw's mutant power?",
-        "options": ["Telepathy", "Telekinesis", "Absorb and rechannel energy", "Shapeshifting", "Weather manipulation"],
-        "answer": "Absorb and rechannel energy"
-      },
-      {
-        "question": "Who did Apocalypse kidnap and raise to be as cruel as he is?",
-        "options": ["Wolverine", "Cyclops", "Stryfe", "Beast", "Iceman"],
-        "answer": "Stryfe"
-      },
-      {
-        "question": "Who took control of Iceman's body and discovered his powers were greater than he realized?",
-        "options": ["Magneto", "Apocalypse", "Emma Frost", "Mr. Sinister", "Sebastian Shaw"],
-        "answer": "Emma Frost"
-      },
-      {
-        "question": "Who is James MacDonald Hudson's wife?",
-        "options": ["Mystique", "Rogue", "Vindicator", "Lady Deathstrike", "Polaris"],
-        "answer": "Vindicator"
-      },
-      {
-        "question": "Sugar Man is originally from a timeline where:",
-        "options": ["The X-Men are evil", "Mutants rule the world", "Xavier is dead and Apocalypse nearly rules the world", "Humans and mutants live in peace", "The Avengers are the villains"],
-        "answer": "Xavier is dead and Apocalypse nearly rules the world"
-      },
-      {
-        "question": "Magneto once raised a mysterious city from the ocean in what part of the world?",
-        "options": ["The Atlantic Ocean", "The Pacific Ocean", "The Indian Ocean", "The Bermuda Triangle", "The Arctic Ocean"],
-        "answer": "The Bermuda Triangle"
-      },
-      {
-        "question": "Who was not a subject of the Weapon X project?",
-        "options": ["Wolverine", "Deadpool", "Sabretooth", "Shard", "Maverick"],
-        "answer": "Shard"
-      },
-      {
-        "question": "Betsy Braddock is known as which X-Man?",
-        "options": ["Rogue", "Storm", "Psylocke", "Kitty Pryde", "Magik"],
-        "answer": "Psylocke"
-      },
-      {
-        "question": "Scarlet Witch's real name is:",
-        "options": ["Raven Darkholme", "Clarice Ferguson", "Wanda Maximoff", "Yuriko Oyama", "Jean Grey"],
-        "answer": "Wanda Maximoff"
-      },
-      {
-        "question": "Rogue first appeared in which 1981 comic book?",
-        "options": ["X-Men #1", "Avengers #1", "Fantastic Four #1", "Avengers Annual #10", "Incredible Hulk #1"],
-        "answer": "Avengers Annual #10"
-      },
-      {
-        "question": "Before turning to crime, Pyro was a:",
-        "options": ["Scientist", "Soldier", "Writer", "Teacher", "Doctor"],
-        "answer": "Writer"
-      },
-      {
-        "question": "Who were students of Emma Frost?",
-        "options": ["The Brotherhood", "The Hellfire Club", "The Stepford Cuckoos", "The Reavers", "The Marauders"],
-        "answer": "The Stepford Cuckoos"
-      },
-      {
-        "question": "The Weapon X facility is located in:",
-        "options": ["America", "Canada", "England", "Australia", "Germany"],
-        "answer": "Canada"
-      },
-      {
-        "question": "Infinite Soldiers are clones created by:",
-        "options": ["Magneto", "Apocalypse", "Mr. Sinister", "Sebastian Shaw", "Emma Frost"],
-        "answer": "Mister Sinister"
-      },
-      {
-        "question": "Sugar Man is a traveler from which alternate reality?",
-        "options": ["Earth-X", "Days of Future Past", "The Age of Apocalypse", "House of M", "Ultimate Universe"],
-        "answer": "The Age of Apocalypse"
-      },
-      {
-        "question": "Sunfire is a member of Japanese super hero team known in English as:",
-        "options": ["The Rising Sun", "The Samurai Seven", "Big Hero 6", "The Crimson Blades", "The Atomic Brigade"],
-        "answer": "Big Hero 6"
-      },
-      {
-        "question": "After escaping from the Weapon X facility Wolverine was discovered and befriended by:",
-        "options": ["Charles Xavier", "Erik Lehnsherr", "James and Heather Hudson", "Reed Richards", "Tony Stark"],
-        "answer": "James and Heather Hudson"
-      },
-      {
-        "question": "What is untrue of Guardian?",
-        "options": ["Is a mutant", "Is married to Vindicator", "Is a member of Alpha Flight", "Wears a suit of armor", "Has a wife named Heather"],
-        "answer": "Is a mutant"
-      },
-      {
-        "question": "What does Rogue absorb when she touches someone?",
-        "options": ["Memories", "Powers", "Life force", "All of the above", "None of the above"],
-        "answer": "All of the above"
-      },
-      {
-        "question": "While working for the government in Dallas, Texas, Forge had a penthouse known as:",
-        "options": ["The Danger Room", "The Cerebro Suite", "Eagle's Nest", "The Blackbird Hangar", "The Xavier Institute Annex"],
-        "answer": "Eagle's Nest"
-      },
-      {
-        "question": "What color is Beast's fur?",
-        "options": ["Brown", "Black", "Blue", "Gray", "White"],
-        "answer": "Blue"
-      },
-      {
-        "question": "Nick Fury is the leader of:",
-        "options": ["Hydra", "AIM", "SHIELD", "The Hand", "The Brotherhood"],
-        "answer": "SHIELD"
-      },
-      {
-        "question": "The mutant sewer dwellers of New York City are known as:",
-        "options": ["The Underground", "The Tunnelers", "The Morlocks", "The Subterraneans", "The Lost Ones"],
-        "answer": "The Morlocks"
-      },
-      {
-        "question": "What is Wolverine's real name?",
-        "options": ["Logan Howlett", "James Howlett", "Victor Creed", "John Wraith", "Remy LeBeau"],
-        "answer": "James Howlett"
-      },
-      {
-        "question": "Moira MacTaggert's Mutant Research Center is located:",
-        "options": ["Genosha", "Asteroid M", "Muir Island", "Madripoor", "Savage Land"],
-        "answer": "Muir Island"
-      },
-      {
-        "question": "In World War II, Nick Fury commanded:",
-        "options": ["The Invaders", "The Howling Commandos", "The Liberators", "The Freedom Fighters", "The Allied Forces"],
-        "answer": "The Howling Commandos"
-      },
-      {
-        "question": "Angel's secondary mutation allows him to:",
-        "options": ["Control the weather", "Teleport", "Accelerate his healing factor.", "Manipulate metal", "Become invisible"],
-        "answer": "Accelerate his healing factor."
-      },
-      {
-        "question": "Banshee has the mutant power to:",
-        "options": ["Control minds", "Generate a sonic scream.", "Manipulate time", "Control metal", "Fly"],
-        "answer": "Generate a sonic scream."
-      },
-      {
-        "question": "Bastion assembled which organization?",
-        "options": ["The Brotherhood", "The Hellfire Club", "Operation: Zero Tolerance", "The Reavers", "The Marauders"],
-        "answer": "Operation: Zero Tolerance"
-      },
-      {
-        "question": "What is the Black Queen's real name?",
-        "options": ["Emma Frost", "Mystique", "Selene", "Lady Deathstrike", "Madelyne Pryor"],
-        "answer": "Selene"
-      },
-      {
-        "question": "What is the name of the machine Professor Charles Xavier uses to find mutants around the world?",
-        "options": ["The Mutant Detector", "The X-Ray", "Cerebro", "The Mutant Scanner", "The Mutant Locator"],
-        "answer": "Cerebro"
-      },
-      {
-        "question": "Deadpool wears a mask:",
-        "options": ["To hide his identity", "To intimidate his enemies", "To cover his scarred face", "To protect himself from telepaths", "To enhance his powers"],
-        "answer": "To cover his scarred face"
-      },
-      {
-        "question": "Banshee's daughter uses the code name:",
-        "options": ["Rogue", "Storm", "Syrin", "Kitty Pryde", "Psylocke"],
-        "answer": "Syrin"
-      },
-      {
-        "question": "Who is the evil clone of Cable?",
-        "options": ["Magneto", "Apocalypse", "Stryfe", "Mr. Sinister", "Sebastian Shaw"],
-        "answer": "Stryfe"
-      },
-      {
-        "question": "Colossus's sister's code name was:",
-        "options": ["Rogue", "Storm", "Magik", "Kitty Pryde", "Psylocke"],
-        "answer": "Magik"
-      },
-      {
-        "question": "What is Professor Xavier's middle name?",
-        "options": ["Michael", "Edward", "Francis", "John", "Robert"],
-        "answer": "Francis"
-      },
-      {
-        "question": "What is the Black Queen's mutant ability?",
-        "options": ["Telepathy", "Telekinesis", "Drain other's life force to maintain her beauty.", "Shapeshifting", "Weather manipulation"],
-        "answer": "Drain other's life force to maintain her beauty."
-      },
-      {
-        "question": "Who is the great-grandfather of Bishop?",
-        "options": ["Wolverine", "Cyclops", "Gateway", "Beast", "Iceman"],
-        "answer": "Gateway"
-      },
-      {
-        "question": "Sean Cassiday, better known as Banshee, first appeared in 1967 in which comic book?",
-        "options": ["X-Men #1", "Avengers #1", "Fantastic Four #1", "Uncanny X-Men #28", "Incredible Hulk #1"],
-        "answer": "Uncanny X-Men #28"
-      },
-      {
-        "question": "Magneto once disguised himself as what mutant to infiltrate the Xavier Institute?",
-        "options": ["Mystique", "Rogue", "Xorn", "Lady Deathstrike", "Polaris"],
-        "answer": "Xorn"
-      },
-      {
-        "question": "Sunfire's powers first manifested when:",
-        "options": ["He was born", "He was exposed to cosmic rays", "He touched radioactive soil", "He was bitten by a radioactive spider", "He was trained by Magneto"],
-        "answer": "He touched radioactive soil"
-      },
-      {
-        "question": "Deadpool is a victim of:",
-        "options": ["Hydra", "AIM", "Weapon X", "The Hand", "The Brotherhood"],
-        "answer": "Weapon X"
-      },
-      {
-        "question": "Scarlet Witch's power is the ability to:",
-        "options": ["Control minds", "Manipulate time", "Affect probability and make the improbably become possible", "Control metal", "Fly"],
-        "answer": "Affect probability and make the improbably become possible"
-      },
-      {
-        "question": "Who is Banshee's cousin?",
-        "options": ["Wolverine", "Cyclops", "Black Tom Cassidy", "Beast", "Iceman"],
-        "answer": "Black Tom Cassidy"
-      },
-      {
-        "question": "What was the name of the boy Rogue kissed and almost killed just as her powers were beginning to emerge?",
-        "options": ["Bobby Drake", "Scott Summers", "Cody Robbins", "Warren Worthington III", "Piotr Rasputin"],
-        "answer": "Cody Robbins"
-      },
-      {
-        "question": "Who is Kitty Pryde's loyal companion?",
-        "options": ["Lockheed", "Puff", "Zeke", "Mirage", "Plume"],
-        "answer": "Lockheed"
-      },
-      Claro, aquí tienes las restantes 25 preguntas en formato JSON con opciones y respuestas:
+[
+  {
+    "question": "Rogue had once been romantically involved with which evil mutant?",
+    "options": ["Arcade", "Shadow King", "Pyro", "Magneto", "Avalanche"],
+    "answer": "Magneto"
+  },
+  {
+    "question": "The address for the X-Mansion is:",
+    "options": [
+      "2112 Raven's Peak",
+      "1407 Graymalkin Lane",
+      "413 Xavier Ridge",
+      "1001 Whitestone Place",
+      "1515 Camelot Boulevard"
+    ],
+    "answer": "1407 Graymalkin Lane"
+  },
+  {
+    "question": "Of these characters, which was the first X-MAN:",
+    "options": ["Puck", "Beast", "Angel", "Banshee", "Cyclops"],
+    "answer": "Cyclops"
+  },
+  {
+    "question": "Who isn't a member of the Brotherhood?",
+    "options": ["Toad", "Mystique", "Gateway", "Blob", "Avalanche"],
+    "answer": "Gateway"
+  },
+  {
+    "question": "Name the machine Xavier uses to augment his psychic powers.",
+    "options": [
+      "Chronomancer",
+      "Astral Energizer",
+      "Fixx",
+      "The Oracle",
+      "Cerebro"
+    ],
+    "answer": "Cerebro"
+  },
+  {
+    "question": "Why can't Cyclops control his optic blast?",
+    "options": [
+      "Head trauma suffere as a child.",
+      "Due to the build up of power.",
+      "He didn't receive training as a child.",
+      "He ingested a poison as a teenager.",
+      "Professor Xavier is still unsure."
+    ],
+    "answer": "Head trauma suffere as a child."
+  },
+  {
+    "question": "Gambit's father trained him to ba a:",
+    "options": ["Thief", "Ninja", "Plumber", "Boxer", "Cryptologist"],
+    "answer": "Thief"
+  },
+  {
+    "question": "Nightcrawler is originally from:",
+    "options": ["Canada", "Spain", "America", "Egypt", "Germany"],
+    "answer": "Germany"
+  },
+  {
+    "question": "When Jean Grey is overwhelmed by her powers she becomes:",
+    "options": [
+      "The Phoenix",
+      "The White Queen",
+      "Dazzler",
+      "Mystique",
+      "Cerebro"
+    ],
+    "answer": "The Phoenix"
+  },
+  {
+    "question": "Who is Cyclops's brother?",
+    "options": ["Quicksilver", "Havok", "Bishop", "Wolverine", "Gambit"],
+    "answer": "Havok"
+  },
+  {
+    "question": "Moira MacTaggert runs what facility?",
+    "options": [
+      "The HAARP facility in Alaska",
+      "Area 51",
+      "Mutant Research on Muir Island",
+      "Asteroid M",
+      "A Sentinel manufacturing plant in Germany"
+    ],
+    "answer": "Mutant Research on Muir Island"
+  },
+  {
+    "question": "Who is not truly a mutant?",
+    "options": ["Angel", "Juggernaut", "Magneto", "Marrow", "Jubilee"],
+    "answer": "Juggernaut"
+  },
+  {
+    "question": "Wolverine was forced to slay the father of the woman he loved. What was the father's name?",
+    "options": ["Shingen", "Hiro Takachiho", "Shiro", "Gogo Tomago", "Karma"],
+    "answer": "Shingen"
+  },
+  {
+    "question": "Cyclops's father was the leader of which group?",
+    "options": [
+      "The Starjammers",
+      "The Shi'Ar",
+      "The Brood",
+      "Th Hellfire Club",
+      "Department H"
+    ],
+    "answer": "The Starjammers"
+  },
+  {
+    "question": "Who Developed Sentinels as a deterrent to mutants?",
+    "options": [
+      "Sebastian Shaw",
+      "Amahl Farouk",
+      "'Black' Tom Cassidy",
+      "James MacDonald Hudson",
+      "Bolivar Trask"
+    ],
+    "answer": "Bolivar Trask"
+  },
+  {
+    "question": "The original X-MEN went to he Coffee A-Go-Go to listen to a beatnik known as:",
+    "options": [
+      "Bernard the Poet",
+      "Calvin Rankin",
+      "Kurt Wagner",
+      "Mikhail Rasputin",
+      "Cameron Hodge"
+    ],
+    "answer": "Bernard the Poet"
+  },
+  {
+    "question": "Magneto's outer space base, Asteroid M, has also been referred to as:",
+    "options": ["Avalon", "Camelot", "Plan 9", "The Inner Sanctum", "Genosha"],
+    "answer": "Avalon"
+  },
+  {
+    "question": "Who wears a helmet to protect against psionic attacks?",
+    "options": ["Multipleman", "Juggernaut", "Sprite", "Bishop", "Cable"],
+    "answer": "Juggernaut"
+  },
+  {
+    "question": "The metal bonded to Wolverine's bones is:",
+    "options": [
+      "Carbon Steel",
+      "A poly-iron alloy",
+      "Adamantium",
+      "Tungsten",
+      "Unknown"
+    ],
+    "answer": "Adamantium"
+  },
+  {
+    "question": "Which is a codename for Kitty Pryde?",
+    "options": ["Polaris", "Sprite", "Siryn", "Destiny", "Blink"],
+    "answer": "Sprite"
+  },
+  {
+    "question": "Toad's real name is:",
+    "options": [
+      "James Hudson",
+      "Mortimer Toynbee",
+      "Clive Schneebly",
+      "Wade Wilson",
+      "Victor Creed"
+    ],
+    "answer": "Mortimer Toynbee"
+  },
+  {
+    "question": "Aside from being a powerful telepath, Emma Frost can also:",
+    "options": [
+      "Generate force fields",
+      "See through solid objects",
+      "Change to diamond hard substance",
+      "Time travel",
+      "Teleport great distances"
+    ],
+    "answer": "Change to diamond hard substance"
+  },
+  {
+    "question": "Moira's son, Kevin MacTaggert, was also known as:",
+    "options": ["Enigma", "Proteus", "Varese", "Sauron", "Morrow"],
+    "answer": "Proteus"
+  },
+  {
+    "question": "For a short time, Jean Grey was a member of:",
+    "options": [
+      "The Brotherhood",
+      "The Hellfire Club",
+      "The Morlocks",
+      "The Brood",
+      "The Four Horsemen"
+    ],
+    "answer": "The Hellfire Club"
+  },
+  {
+    "question": "Which X-MAN is immune to Rogue's power?",
+    "options": ["Jean Grey", "Banshee", "Colossus", "Gambit", "Beast"],
+    "answer": "Colossus"
+  },
+  {
+    "question": "Storm's biggest fear is:",
+    "options": ["Water", "Heights", "Enclosed spaces", "Death", "Aging"],
+    "answer": "Enclosed spaces"
+  },
+  {
+    "question": "Who in this group is a mutant?",
+    "options": [
+      "Senator Robert Kelly",
+      "Moira MacTaggert",
+      "Juggernaut",
+      "Bobby Drake",
+      "Bolivar Trask"
+    ],
+    "answer": "Bobby Drake"
+  },
+  {
+    "question": "What is the Xavier Protocol?",
+    "options": [
+      "Files listing the secret identities of all known mutants",
+      "Passwords to access Cerebro",
+      "Top secret scenarios for the Danger Room",
+      "The Security code to destroy the X-Mansion",
+      "Commands to control all satellite communications"
+    ],
+    "answer": "Files listing the secret identities of all known mutants"
+  },
+  {
+    "question": "Professor Xavier buil Cerebro with the aid of:",
+    "options": ["Magneto", "Beast", "Forge", "Wolverine", "Moira MacTaggert"],
+    "answer": "Magneto"
+  },
+  {
+    "question": "Forge is a member of which Native American tribe?",
+    "options": ["Sioux", "Apache", "Cheyenne", "Hopi", "Navajo"],
+    "answer": "Cheyenne"
+  },
+  {
+    "question": "The comic book X-MEN #1 featuring the X-MEN and Magneto appeared in:",
+    "options": [
+      "May 1967",
+      "July 1971",
+      "January 1964",
+      "November 1968",
+      "September 1963"
+    ],
+    "answer": "September 1963"
+  },
+  {
+    "question": "Who is next in line to lead the X-MEN if Cyclops is unable to?",
+    "options": ["Beast", "Wolverine", "Storm", "Angel", "Jubilee"],
+    "answer": "Storm"
+  },
+  {
+    "question": "Psylocke is from:",
+    "options": ["England", "Australia", "Germany", "Russia", "Japan"],
+    "answer": "England"
+  },
+  {
+    "question": "Where did Jubilee live for a short time?",
+    "options": [
+      "Hollywood shopping mall",
+      "New York library",
+      "Amuesement park in Texas",
+      "Abandoned Chicago office building",
+      "Church in Germany"
+    ],
+    "answer": "Hollywood shopping mall"
+  },
+  {
+    "question": "Cyclops derives the energy for his optic blast from:",
+    "options": [
+      "Solar energy",
+      "Electricity",
+      "Gravity",
+      "Mental power",
+      "His emotions"
+    ],
+    "answer": "Solar energy"
+  },
+  {
+    "question": "When Shadow King first met Professor Xavier he was known as:",
+    "options": [
+      "Garokk",
+      "Tom Cassidy",
+      "Kwannon",
+      "Amahl Farouk",
+      "Erik Lehnsherr"
+    ],
+    "answer": "Amahl Farouk"
+  },
+  {
+    "question": "The Morlock took their name from:",
+    "options": [
+      "Their first leader",
+      "The underground race in H.G. Wells' novel 'The Time Machine'",
+      "An ancient Egyptian goddes",
+      "A South American tribe",
+      "A subway sign"
+    ],
+    "answer": "The underground race in H.G. Wells' novel 'The Time Machine'"
+  },
+  {
+    "question": "Gambit's power is the ability to:",
+    "options": [
+      "Charge objects with kinetic energy",
+      "Turn his flesh into metal",
+      "Mentally control his enemies",
+      "Produce fireworks from his hands",
+      "Absorb another mutant's powers"
+    ],
+    "answer": "Charge objects with kinetic energy"
+  },
+  {
+    "question": "Jubilee is the unoficial side kick of which X-MAN?",
+    "options": ["Beast", "Angel", "Nightcrawler", "Storm", "Wolverine"],
+    "answer": "Wolverine"
+  },
+  {
+    "question": "Against her will, Psylocke's mind was transferred into the body of:",
+    "options": [
+      "A ninja",
+      "An android",
+      "A mutant from another time-line",
+      "A human",
+      "An astral entity"
+    ],
+    "answer": "A ninja"
+  },
+  {
+    "question": "Juggernaut received his fantastic powers from:",
+    "options": [
+      "A gem of Cyttorak",
+      "The sorcerer Beroge",
+      "An ancient Scottish curse",
+      "The African priestess known as N'Dare",
+      "Entering a secret chamber in a South American pyramid"
+    ],
+    "answer": "A gem of Cyttorak"
+  },
+  {
+    "question": "A nickname for Cyclops is:",
+    "options": ["Red", "Slim", "Bub", "Sunshine", "Commander Chaos"],
+    "answer": "Slim"
+  },
+  {
+    "question": "Sabretooth and Wolverine worked together doing covert operations for:",
+    "options": [
+      "The Shi'ar",
+      "Ahmet Abdol",
+      "The CIA and Weapon X",
+      "Interpol",
+      "Alpha Flight"
+    ],
+    "answer": "The CIA and Weapon X"
+  },
+  {
+    "question": "Kitty Pryde has a pet drgon named:",
+    "options": ["Puff", "Lockheed", "Mirage", "Zeke", "Plume"],
+    "answer": "Lockheed"
+  },
+  {
+    "question": "One name Mystique goes by is:",
+    "options": [
+      "Raven Darkholme",
+      "Jasmine Post",
+      "Guyrich",
+      "Carol Hines",
+      "Siryn"
+    ],
+    "answer": "Raven Darkholme"
+  },
+  {
+    "question": "Oneof Storm's favorite hobbies is:",
+    "options": ["Painting", "Swimming", "Archery", "Writing", "Gardening"],
+    "answer": "Gardening"
+  },
+  {
+    "question": "In addition to Wolverine, who has been an experiment of the Weapon X program?",
+    "options": ["Pyro", "Forge", "Sabretooth", "Psylocke", "Nightcrawler"],
+    "answer": "Sabretooth"
+  },
+  {
+    "question": "When did Colossus first turn into his metal form?",
+    "options": [
+      "Saving peaple from a burning building",
+      "Stopping a runaway tractor",
+      "Being attacked by frightened villagers",
+      "Protecting his brother from a thief",
+      "When he was struck by lightning"
+    ],
+    "answer": "Stopping a runaway tractor"
+  },
+  {
+    "question": "The first five members of the X-MEN were:",
+    "options": [
+      "Wolverine, Jean Grey, Cyclops, Psylocke and Jubilee",
+      "Iceman, Jean Grey, Beast, Banshee and Cyclops",
+      "Cyclops, Iceman, Angel, Beast and Jean Grey",
+      "Nightcrawler, Jubilee, Wolverine, Avalanche and Emma Frost",
+      "Jean Grey, Rogue, Cyclops, Psylocke and Beast"
+    ],
+    "answer": "Cyclops, Iceman, Angel, Beast and Jean Grey"
+  },
+  {
+    "question": "When do a mutant's powers normally first activate?",
+    "options": [
+      "During the teenage years",
+      "First meeting another mutant",
+      "When scanned by Cerebo",
+      "A lunar eclipse",
+      "Summer Solstice"
+    ],
+    "answer": "During the teenage years"
+  },
 
-JSON
-
-{
-  "questions": [
-    {
-      "question": "Which of Apocalypse's four horsemen is Archangel?",
-      "options": ["War", "Pestilence", "Death", "Famine", "All of the above"],
-      "answer": "Death"
-    },
-    {
-      "question": "As a child, Storm was a:",
-      "options": ["Princess", "Thief", "Pickpocket in Cairo, Egypt", "Scientist", "Sorceress"],
-      "answer": "Pickpocket in Cairo, Egypt"
-    },
-    {
-      "question": "Toad is devoted to:",
-      "options": ["Professor X", "Apocalypse", "Magneto", "Mr. Sinister", "Sebastian Shaw"],
-      "answer": "Magneto"
-    },
-    {
-      "question": "How many Adamantium claws does Wolverine have on each hand?",
-      "options": ["Two", "Three", "Four", "Five", "Six"],
-      "answer": "Three"
-    },
-    {
-      "question": "Deadpool joined the Weapon X program because:",
-      "options": ["He was forced", "He was recruited", "He had cancer", "He wanted to be a hero", "He was paid"],
-      "answer": "He had cancer"
-    },
-    {
-      "question": "Who has not served in the Hellfire Club's inner circle?",
-      "options": ["Emma Frost", "Sebastian Shaw", "Lorna Dane", "Donald Pierce", "Selene"],
-      "answer": "Lorna Dane"
-    },
-    {
-      "question": "Which Hellfire Club member is really a non-mutant cyborg?",
-      "options": ["Emma Frost", "Sebastian Shaw", "Donald Pierce", "Selene", "Madelyne Pryor"],
-      "answer": "Donald Pierce"
-    },
-    {
-      "question": "What was Emma Frost's title in the Hellfire Club?",
-      "options": ["Black Queen", "White Queen", "Red Queen", "Gray Queen", "Purple Queen"],
-      "answer": "White Queen"
-    },
-    {
-      "question": "Who was Kitty Pryde's mentor?",
-      "options": ["Professor X", "Cyclops", "Wolverine", "Beast", "Iceman"],
-      "answer": "Wolverine"
-    },
-    {
-      "question": "Moira MacTaggert had a son named Kevin who also went by the name of:",
-      "options": ["Proteus", "Legion", "Stryfe", "Vulcan", "Madrox"],
-      "answer": "Proteus"
-    },
-    {
-      "question": "Which X-Man is romantically involved with Kitty Pryde?",
-      "options": ["Wolverine", "Cyclops", "Colossus", "Beast", "Iceman"],
-      "answer": "Colossus"
-    },
-    {
-      "question": "Lockheed, Kitty Pryde's small dragon companion, first appeared on which Aliens' homeworld?",
-      "options": ["The Shi'ar", "The Kree", "The Brood", "The Skrulls", "The Phalanx"],
-      "answer": "The Brood"
-    },
-    {
-      "question": "Where do Wolverine's claws appear?",
-      "options": ["Between his fingers", "From his wrists", "Between his knuckles", "From his elbows", "From his shoulders"],
-      "answer": "Between his knuckles"
-    },
-    {
-      "question": "What is Marrow's real name?",
-      "options": ["Sarah", "Rachel", "Susan", "Mary", "Jane"],
-      "answer": "Sarah"
-    },
-    {
-      "question": "In the video game X-Men Legends: The Rise of Apocalypse, what is the name of Magneto's secret hideaway near Genosha?",
-      "options": ["Avalon", "Sanctuary", "Asteroid M", "Genosha Prime", "The Citadel"],
-      "answer": "Sanctuary"
-    },
-    {
-      "question": "Bastion is really:",
-      "options": ["A mutant", "An alien", "A robot", "A hybrid Sentinel in disguise", "A clone"],
-      "answer": "A hybrid Sentinel in disguise"
-    },
-    {
-      "question": "For a time, Bishop worked:",
-      "options": ["As a teacher", "As a scientist", "As a detective", "As a soldier", "As a politician"],
-      "answer": "As a detective"
-    },
-    {
-      "question": "Forge was trained in magic by:",
-      "options": ["Dr. Strange", "Agatha Harkness", "The Cheyenne Shaman Naze", "The Ancient One", "Zatanna"],
-      "answer": "The Cheyenne Shaman Naze"
-    },
-    {
-      "question": "The Hellfire Club originally started in:",
-      "options": ["America", "Canada", "England", "Australia", "Germany"],
-      "answer": "London"
-    },
-    {
-      "question": "In the video game X-Men: Legends, who is the leader of the Morlocks?",
-      "options": ["Callisto", "Masque", "Marrow", "Sunder", "Scaleface"],
-      "answer": "Marrow"
-    },
-    {
-      "question": "For a time, Banshee worked for:",
-      "options": ["Interpol", "SHIELD", "The FBI", "The CIA", "MI6"],
-      "answer": "Interpol"
-    },
-    {
-      "question": "What is the name of the room where the X-Men do their training exercises?",
-      "options": ["The War Room", "The Training Center", "The Danger Room", "The Simulation Chamber", "The Battle Arena"],
-      "answer": "The Danger Room"
-    },
-    {
-      "question": "In the Hellfire Club, Sebastian Shaw goes by the code name:",
-      "options": ["White King", "Black King", "Red King", "Gray King", "Purple King"],
-      "answer": "Black King"
-    },
-    {
-      "question": "Deadpool possesses the ability to:",
-      "options": ["Telepathy", "Telekinesis", "Heal quickly", "Shapeshifting", "Weather manipulation"],
-      "answer": "Heal quickly"
-    },
-    {
-      "question": "Nick Fury is blind in which eye?",
-      "options": ["Right", "Left", "Both", "Neither", "Changes frequently"],
-      "answer": "Left"
-    },
-    {
-        "question": "Beast grew blue fur because of:",
-        "options": ["A curse", "A mutation", "A serum he took", "An experiment", "An accident"],
-        "answer": "A serum he took"
-      },
-      {
-        "question": "Cable's hair is what color?",
-        "options": ["Black", "Brown", "White", "Red", "Blonde"],
-        "answer": "White"
-      },
-      {
-        "question": "Which of the following X-Men was at one time a host for Apocalypse?",
-        "options": ["Wolverine", "Storm", "Cyclops", "Beast", "Iceman"],
-        "answer": "Cyclops"
-      },
-      {
-        "question": "Ahmet Abdol is also known as:",
-        "options": ["Living Pharaoh", "Living Monolith", "Living Mummy", "Living Statue", "Living Titan"],
-        "answer": "Living Monolith"
-      },
-      {
-        "question": "In X-Men Legends 2 - Rise of Apocalypse, who was responsible for transforming the X-Man Angel into Archangel?",
-        "options": ["Magneto", "Apocalypse", "Mr. Sinister", "Sebastian Shaw", "Emma Frost"],
-        "answer": "Mr. Sinister"
-      },
-      {
-        "question": "Bishop was a part of what security force in the future?",
-        "options": ["SHIELD", "SWORD", "Xavier Security Enforcers", "The Time Variance Authority", "The Future Foundation"],
-        "answer": "Xavier Security Enforcers"
-      },
-      {
-        "question": "Scott Summers works under the code name:",
-        "options": ["Havok", "Cyclops", "Vulcan", "Cable", "Bishop"],
-        "answer": "Cyclops"
-      },
-      {
-        "question": "Colossus has a brother named:",
-        "options": ["Pietro", "Alex", "Mikhail", "Nathan", "Gabriel"],
-        "answer": "Mikhail"
-      },
-      {
-        "question": "Who is the one person Havok's power can't hurt?",
-        "options": ["Professor X", "Magneto", "Scott Summers", "Apocalypse", "Mr. Sinister"],
-        "answer": "Scott Summers"
-      },
-      {
-        "question": "Which two X-Men were at different times Death, one of Apocalypse's four horsemen?",
-        "options": ["Cyclops and Havok", "Beast and Iceman", "Wolverine and Angel", "Storm and Jean Grey", "Colossus and Nightcrawler"],
-        "answer": "Wolverine and Angel"
-      },
-      {
-        "question": "When Bobby Drake's powers first activated he:",
-        "options": ["Joined the X-Men immediately", "Was attacked by a mob", "Was locked in jail for his own protection", "Was recruited by Magneto", "Became a villain"],
-        "answer": "Was locked in jail for his own protection"
-      },
-      {
-        "question": "When consumed by her powers, Jean Grey becomes:",
-        "options": ["The White Queen", "The Dark Phoenix", "The Goblin Queen", "The Enchantress", "The Sorceress Supreme"],
-        "answer": "The Dark Phoenix"
-      },
-      {
-        "question": "What is Mister Sinister's real name?",
-        "options": ["Victor Creed", "Erik Lehnsherr", "Nathaniel Essex", "Nathan Summers", "Remy LeBeau"],
-        "answer": "Nathaniel Essex"
-      },
-      {
-        "question": "Bishop's sister is named:",
-        "options": ["Mystique", "Rogue", "Shard", "Kitty Pryde", "Psylocke"],
-        "answer": "Shard"
-      },
-      {
-        "question": "What is the name of Apocalypse's 4 lieutenants?",
-        "options": ["The Brotherhood", "The Hellfire Club", "The Four Horsemen", "The Reavers", "The Marauders"],
-        "answer": "The Four Horsemen"
-      },
-      {
-        "question": "What was Juggernaut's occupation when he found the Ruby of Cyttorak?",
-        "options": ["Scientist", "Thief", "Soldier", "Professor", "Explorer"],
-        "answer": "Soldier"
-      },
-      {
-        "question": "Madeline Pryor was:",
-        "options": ["A mutant", "An alien", "Created by Mister Sinister to be an exact copy of Jean Grey", "A time traveler", "A robot"],
-        "answer": "Created by Mister Sinister to be an exact copy of Jean Grey"
-      },
-      {
-        "question": "Where was Apocalypse born?",
-        "options": ["America", "Canada", "Egypt", "Australia", "Germany"],
-        "answer": "Egypt"
-      },
-      {
-        "question": "Who was Bishop pursuing through time when he first encountered the X-Men?",
-        "options": ["Magneto", "Apocalypse", "Trevor Fitzroy", "Mr. Sinister", "Sebastian Shaw"],
-        "answer": "Trevor Fitzroy"
-      },
-      {
-        "question": "Who is not related to Scott Summers?",
-        "options": ["Havok", "Vulcan", "Cable", "Mr. Sinister", "Christopher Summers"],
-        "answer": "Mr. Sinister"
-      },
-      {
-        "question": "Gambit is from:",
-        "options": ["New York", "Chicago", "New Orleans", "Los Angeles", "Miami"],
-        "answer": "New Orleans"
-      },
-      {
-        "question": "Apocalypse's Horsemen first appeared in 1987 in which comic book?",
-        "options": ["X-Men #1", "Avengers #1", "Fantastic Four #1", "X-Factor", "Incredible Hulk #1"],
-        "answer": "X-Factor"
-      },
-      {
-        "question": "Who did Magneto have twins with?",
-        "options": ["Mystique", "Rogue", "Magda", "Lady Deathstrike", "Polaris"],
-        "answer": "Magda"
-      },
-      {
-        "question": "What mutant team did Forge and Mystique belong to?",
-        "options": ["The Brotherhood", "The Hellfire Club", "X-Factor", "The Reavers", "The Marauders"],
-        "answer": "X-Factor"
-      },
-      {
-        "question": "What is the sound made when Nightcrawler teleports?",
-        "options": ["Boom", "Zap", "Bamf", "Whoosh", "Clang"],
-        "answer": "Bamf"
-      },
-      {
-        "question": "Who did Rogue permanently absorb the powers of?",
-        "options": ["Storm", "Jean Grey", "Ms. Marvel", "Scarlet Witch", "Polaris"],
-        "answer": "Ms. Marvel"
-      },
-      {
-        "question": "What color hair does Ororo have?",
-        "options": ["Black", "Brown", "White", "Red", "Blonde"],
-        "answer": "White"
-      },
-      {
-        "question": "Which Alien race have the X-Men never encountered?",
-        "options": ["Shi'ar", "Kree", "Skrulls", "Brood", "Phalanx"],
-        "answer": "Skrulls"
-      },
-      {
-        "question": "Which of the following is not one of Wolverine's alias'?",
-        "options": ["Weapon X", "Patch", "Logan", "War", "James Howlett"],
-        "answer": "War"
-      },
-      {
-        "question": "What is the other team that Nightcrawler and Shadowcat serve together on?",
-        "options": ["The Avengers", "The Defenders", "Excalibur", "Alpha Flight", "The Fantastic Four"],
-        "answer": "Excalibur"
-      },
-      {
-        "question": "Gambit's real name is:",
-        "options": ["Victor Creed", "Erik Lehnsherr", "Remy LeBeau", "Nathan Essex", "Cain Marko"],
-        "answer": "Remy LeBeau"
-      },
-      {
-        "question": "Who is Kurt Wagner's adopted sister?",
-        "options": ["Mystique", "Rogue", "Shard", "Kitty Pryde", "Psylocke"],
-        "answer": "Rogue"
-      },
-      {
-        "question": "Professor Charles Xavier lost the use of his legs:",
-        "options": ["In a car accident", "While battling Magneto", "While battling a tyrant named Lucifer in the Himalayas", "In a Sentinel attack", "In a training accident"],
-        "answer": "While battling a tyrant named Lucifer in the Himalayas"
-      },
-      {
-        "question": "Scarlet Witch first appearance was in X-Men number 4 in:",
-        "options": ["1960", "1962", "1964", "1966", "1968"],
-        "answer": "1964"
-      },
-      {
-        "question": "Who trained Storm in the ways of thievery as a child?",
-        "options": ["Magneto", "Apocalypse", "Achmed El-Gibar", "Mr. Sinister", "Sebastian Shaw"],
-        "answer": "Achmed El-Gibar"
-      },
-      {
-        "question": "Who is considered by some to be the very first mutant?",
-        "options": ["Magneto", "Apocalypse", "Mr. Sinister", "Sebastian Shaw", "Emma Frost"],
-        "answer": "Apocalypse"
-      },
-      {
-        "question": "Which member of the X-Men had previously worked for Mister Sinister?",
-        "options": ["Wolverine", "Cyclops", "Gambit", "Beast", "Iceman"],
-        "answer": "Gambit"
-      },
-      {
-        "question": "What was Mr. Sinister's occupation when he met Apocalypse?",
-        "options": ["Soldier", "Thief", "Geneticist", "Professor", "Explorer"],
-        "answer": "Geneticist"
-      },
-      {
-        "question": "Colossus is romantically involved with:",
-        "options": ["Mystique", "Rogue", "Kitty Pryde", "Lady Deathstrike", "Polaris"],
-        "answer": "Kitty Pryde"
-      },
-      {
-        "question": "Which mutant is from the future?",
-        "options": ["Gambit", "Rogue", "Bishop", "Nightcrawler", "Storm"],
-        "answer": "Bishop"
-      },
-      {
-        "question": "Who formed the X-Men?",
-        "options": ["Magneto", "Apocalypse", "Professor Charles Xavier", "Mr. Sinister", "Sebastian Shaw"],
-        "answer": "Professor Charles Xavier"
-      },
-      {
-        "question": "Before turning into the Living Monolith, Ahmet Abdol had been a:",
-        "options": ["Soldier", "Thief", "Professor of Archeology", "Explorer", "Politician"],
-        "answer": "Professor of Archeology"
-      },
-      {
-        "question": "Sunfire is from:",
-        "options": ["America", "Canada", "Japan", "Australia", "Germany"],
-        "answer": "Japan"
-      },
-      {
-        "question": "What color are Nightcrawler's eyes?",
-        "options": ["Red", "Blue", "Yellow", "Green", "Brown"],
-        "answer": "Yellow"
-      },
-      {
-        "question": "What material is used in Cyclops's visor?",
-        "options": ["Adamantium", "Vibranium", "Ruby Quartz", "Steel", "Titanium"],
-        "answer": "Ruby Quartz"
-      },
-      {
-        "question": "When Jean was manipulated into working for the Hellfire Club, she was known as:",
-        "options": ["The White Queen", "The Dark Phoenix", "The Goblin Queen", "The Black Queen", "The Enchantress"],
-        "answer": "The Black Queen"
-      },
-      {
-        "question": "Rogue is from:",
-        "options": ["New York", "California", "Mississippi", "Texas", "Florida"],
-        "answer": "Mississippi"
-      },
-      {
-        "question": "Scarlet Witch has a brother named:",
-        "options": ["Pietro", "Alex", "Mikhail", "Nathan", "Gabriel"],
-        "answer": "Pietro"
-      },
-      {
-        "question": "Who proposed the Mutant Registration Act?",
-        "options": ["Professor X", "Magneto", "Senator Robert Kelly", "Mr. Sinister", "Sebastian Shaw"],
-        "answer": "Senator Robert Kelly"
-      },
-      {
-        "question": "What are the first names of Iceman's parents?",
-        "options": ["John and Mary", "Robert and Susan", "William and Madeline", "Richard and Martha", "George and Jane"],
-        "answer": "William and Madeline"
-      }
-  ]
-}
+  {
+    "question": "Sabretooth's archenemy is:",
+    "options": ["Magneto", "Cyclops", "Wolverine", "Professor X", "Gambit"],
+    "answer": "Wolverine"
+  },
+  {
+    "question": "In the video game X-Men: Legends, Iceman had a crush on:",
+    "options": [
+      "Jean Grey",
+      "Storm",
+      "Alison Crestmere",
+      "Rogue",
+      "Kitty Pryde"
+    ],
+    "answer": "Alison Crestmere"
+  },
+  {
+    "question": "Juggernaut first appeared in X-Men number:",
+    "options": ["10", "12", "15", "20", "8"],
+    "answer": "12"
+  },
+  {
+    "question": "As a young man, Gambit wed an assassin named:",
+    "options": [
+      "Mystique",
+      "Rogue",
+      "Bella Donna Boudreaux",
+      "Lady Deathstrike",
+      "Polaris"
+    ],
+    "answer": "Bella Donna Boudreaux"
+  },
+  {
+    "question": "What is Victor Creed's mutant code name?",
+    "options": ["Wolverine", "Juggernaut", "Sabretooth", "Blob", "Pyro"],
+    "answer": "Sabretooth"
+  },
+  {
+    "question": "Forge has been romantically linked to:",
+    "options": ["Jean Grey", "Rogue", "Storm", "Mystique", "Polaris"],
+    "answer": "Storm"
+  },
+  {
+    "question": "While growing up in an orphanage, Cyclops was bullied by a boy named Nathan, who was really:",
+    "options": [
+      "Magneto",
+      "Apocalypse",
+      "Mr. Sinister",
+      "Sabretooth",
+      "Juggernaut"
+    ],
+    "answer": "Mr. Sinister"
+  },
+  {
+    "question": "Which is true of Colossus in his armored form?",
+    "options": [
+      "He becomes weaker",
+      "He can't move",
+      "Even his eyeballs become steel-like.",
+      "He loses his mutant ability",
+      "He becomes invisible"
+    ],
+    "answer": "Even his eyeballs become steel-like."
+  },
+  {
+    "question": "Beast was born a mutant because:",
+    "options": [
+      "He was bitten by a radioactive spider",
+      "He was exposed to cosmic rays",
+      "His father was exposed to a massive amount of radiation",
+      "He was born on Asteroid M",
+      "He was a test subject for Weapon X"
+    ],
+    "answer": "His father was exposed to a massive amount of radiation"
+  },
+  {
+    "question": "What is Apocalypse's real name?",
+    "options": [
+      "Victor Creed",
+      "Erik Lehnsherr",
+      "En Sabah Nur",
+      "Nathan Essex",
+      "Remy LeBeau"
+    ],
+    "answer": "En Sabah Nur"
+  },
+  {
+    "question": "Before joining the X-Men, Angel was a crime fighter who worked under the name:",
+    "options": [
+      "The Protector",
+      "Night Eagle",
+      "Avenging Angel",
+      "Sky Knight",
+      "The Guardian"
+    ],
+    "answer": "Avenging Angel"
+  },
+  {
+    "question": "Abyss is able to:",
+    "options": [
+      "Fly",
+      "Control the weather",
+      "Pull enemies into an inter-dimensional cavity in his chest",
+      "Teleport",
+      "Manipulate metal"
+    ],
+    "answer": "Pull enemies into an inter-dimensional cavity in his chest"
+  },
+  {
+    "question": "Blink's real name is:",
+    "options": [
+      "Raven Darkholme",
+      "Clarice Ferguson",
+      "Lorna Dane",
+      "Yuriko Oyama",
+      "Jean Grey"
+    ],
+    "answer": "Clarice Ferguson"
+  },
+  {
+    "question": "What is Lorna Dane's X-Men code name?",
+    "options": ["Mystique", "Polaris", "Lady Deathstrike", "Blink", "Rogue"],
+    "answer": "Polaris"
+  },
+  {
+    "question": "Blob is originally from:",
+    "options": [
+      "New York",
+      "Genosha",
+      "Lubbock, Texas",
+      "Dunfee, Illinois",
+      "Asteroid M"
+    ],
+    "answer": "Lubbock, Texas"
+  },
+  {
+    "question": "Grizzly worked for which team?",
+    "options": [
+      "The Brotherhood",
+      "The Hellfire Club",
+      "Six Pack",
+      "The Reavers",
+      "The Exiles"
+    ],
+    "answer": "Six Pack"
+  },
+  {
+    "question": "Why does Lady Deathstrike hate Wolverine?",
+    "options": [
+      "He killed her father",
+      "She thinks he stole her father's work in adamantium.",
+      "He destroyed her lab",
+      "He defeated her in combat",
+      "He is Magneto's ally"
+    ],
+    "answer": "She thinks he stole her father's work in adamantium."
+  },
+  {
+    "question": "Quicksilver's mutant power is:",
+    "options": [
+      "Telepathy",
+      "Super strength",
+      "Super speed",
+      "Flight",
+      "Teleportation"
+    ],
+    "answer": "Super speed"
+  },
+  {
+    "question": "What is Polaris' mutant power?",
+    "options": [
+      "Telekinesis",
+      "Weather manipulation",
+      "Magnetic Manipulation",
+      "Shapeshifting",
+      "Energy absorption"
+    ],
+    "answer": "Magnetic Manipulation"
+  },
+  {
+    "question": "Blink's protector is:",
+    "options": ["Wolverine", "Cyclops", "Sabretooth", "Beast", "Iceman"],
+    "answer": "Sabretooth"
+  },
+  {
+    "question": "Which X-Man saved Polaris from Mesmero?",
+    "options": ["Wolverine", "Cyclops", "Iceman", "Beast", "Angel"],
+    "answer": "Iceman"
+  },
+  {
+    "question": "Before joining the Brotherhood, Blob worked at:",
+    "options": [
+      "A factory",
+      "A bank",
+      "A traveling circus",
+      "A laboratory",
+      "A school"
+    ],
+    "answer": "A traveling circus"
+  },
+  {
+    "question": "What color hair does Polaris have?",
+    "options": ["Red", "Blue", "Green", "Black", "Blonde"],
+    "answer": "Green"
+  },
+  {
+    "question": "Quicksilver and his sister were raised by:",
+    "options": ["Scientists", "The government", "Gypsies", "Aliens", "Robots"],
+    "answer": "Gypsies"
+  },
+  {
+    "question": "What secret project did Wolverine and Sabretooth both belong to?",
+    "options": [
+      "Project Nimrod",
+      "Project Wideawake",
+      "Weapon X",
+      "Project Pegasus",
+      "Project Cadmus"
+    ],
+    "answer": "Weapon X"
+  },
+  {
+    "question": "Cable, Domino, Grizzly, George Washington Bridge, Hammer and Kane together form what group?",
+    "options": [
+      "The Brotherhood",
+      "The Hellfire Club",
+      "Six Pack",
+      "The Reavers",
+      "The Exiles"
+    ],
+    "answer": "Six Pack"
+  },
+  {
+    "question": "Blink is able to teleport:",
+    "options": [
+      "Only short distances",
+      "As far away as the moon.",
+      "Only within the same room",
+      "Only to places she has seen before",
+      "Only in emergencies"
+    ],
+    "answer": "As far away as the moon."
+  },
+  {
+    "question": "Zealot is the bitter enemy of:",
+    "options": [
+      "Professor X",
+      "Wolverine",
+      "Magneto",
+      "Apocalypse",
+      "Sabretooth"
+    ],
+    "answer": "Magneto"
+  },
+  {
+    "question": "Quicksilver's real name is:",
+    "options": [
+      "Victor Creed",
+      "Erik Lehnsherr",
+      "Pietro Maximoff",
+      "Nathan Essex",
+      "Remy LeBeau"
+    ],
+    "answer": "Pietro Maximoff"
+  },
+  {
+    "question": "Sabretooth made his debut in which Marvel comic book?",
+    "options": [
+      "X-Men",
+      "The Incredible Hulk",
+      "Iron Fist",
+      "Spider-Man",
+      "Wolverine"
+    ],
+    "answer": "Iron Fist"
+  },
+  {
+    "question": "Jean's psychic powers awoke when:",
+    "options": [
+      "She was attacked by a Sentinel",
+      "She was exposed to radiation",
+      "Her friend was hit by a car.",
+      "She was kidnapped by aliens",
+      "She was born"
+    ],
+    "answer": "Her friend was hit by a car."
+  },
+  {
+    "question": "Juggernaut frequently partners up with which of the following mutants?",
+    "options": ["Magneto", "Sabretooth", "Black Tom Cassidy", "Blob", "Pyro"],
+    "answer": "Black Tom Cassidy"
+  },
+  {
+    "question": "Who did Sabretooth have a son with?",
+    "options": ["Mystique", "Rogue", "Lady Deathstrike", "Polaris", "Storm"],
+    "answer": "Mystique"
+  },
+  {
+    "question": "What is Lady Deathstrike's real name?",
+    "options": [
+      "Raven Darkholme",
+      "Clarice Ferguson",
+      "Lorna Dane",
+      "Yuriko Oyama",
+      "Jean Grey"
+    ],
+    "answer": "Yuriko Oyama"
+  },
+  {
+    "question": "Who are the children of Magneto?",
+    "options": [
+      "Wolverine and Sabretooth",
+      "Cyclops and Havok",
+      "Scarlet Witch and Quicksilver",
+      "Rogue and Gambit",
+      "Beast and Angel"
+    ],
+    "answer": "Scarlet Witch and Quicksilver"
+  },
+  {
+    "question": "Which Marvel hero's comic did Mystique first appear in 1978?",
+    "options": [
+      "X-Men",
+      "The Avengers",
+      "Ms. Marvel",
+      "Spider-Man",
+      "Iron Man"
+    ],
+    "answer": "Ms. Marvel"
+  },
+  {
+    "question": "Lady Deathstrike's father developed a process for:",
+    "options": [
+      "Creating Sentinels",
+      "Controlling mutants",
+      "Bonding Adamantium to bone",
+      "Teleporting",
+      "Manipulating weather"
+    ],
+    "answer": "Bonding Adamantium to bone"
+  },
+  {
+    "question": "Abyss works for:",
+    "options": [
+      "Magneto",
+      "Professor X",
+      "Apocalypse",
+      "Sabretooth",
+      "Juggernaut"
+    ],
+    "answer": "Apocalypse"
+  },
+  {
+    "question": "Where is Genosha located?",
+    "options": [
+      "The Atlantic Ocean",
+      "The Pacific Ocean",
+      "The Indian Ocean",
+      "The Arctic Ocean",
+      "The Mediterranean Sea"
+    ],
+    "answer": "The Indian Ocean"
+  },
+  {
+    "question": "Professor Xavier attended which university?",
+    "options": ["Harvard", "Oxford", "Cambridge", "Yale", "Princeton"],
+    "answer": "Oxford"
+  },
+  {
+    "question": "On average, if Rogue touches a mutant for a minute, how long does she retain that mutant's powers?",
+    "options": [
+      "10 minutes",
+      "30 minutes",
+      "60 minutes",
+      "2 hours",
+      "Indefinitely"
+    ],
+    "answer": "60 minutes"
+  },
+  {
+    "question": "Which of these mutants can't fly?",
+    "options": ["Angel", "Storm", "Wolverine", "Jean Grey", "Iceman"],
+    "answer": "Wolverine"
+  },
+  {
+    "question": "What time traveling team of mutants does Blink belong to?",
+    "options": [
+      "X-Force",
+      "New Mutants",
+      "Exiles",
+      "Alpha Flight",
+      "The Brotherhood"
+    ],
+    "answer": "Exiles"
+  },
+  {
+    "question": "Who here is not a mutant?",
+    "options": ["Nightcrawler", "Juggernaut", "Storm", "Iceman", "Beast"],
+    "answer": "Juggernaut"
+  },
+  {
+    "question": "What group of criminals did Lady Deathstrike join after her attempt to kill Wolverine failed?",
+    "options": [
+      "The Brotherhood",
+      "The Hellfire Club",
+      "The Reavers",
+      "The Exiles",
+      "The Marauders"
+    ],
+    "answer": "The Reavers"
+  },
+  {
+    "question": "Blob is able to generate:",
+    "options": [
+      "Force fields",
+      "A gravitational force that makes him immovable",
+      "Teleportation portals",
+      "Energy blasts",
+      "Illusions"
+    ],
+    "answer": "A gravitational force that makes him immovable"
+  },
+  {
+    "question": "What X-Man did Polaris have a relationship with?",
+    "options": ["Wolverine", "Cyclops", "Havok", "Iceman", "Beast"],
+    "answer": "Havok"
+  },
+  {
+    "question": "Forge was contracted by the U.S. government to develop a way to detect an alien race known as:",
+    "options": [
+      "The Shi'ar",
+      "The Kree",
+      "The Skrulls",
+      "The Dire Wraiths",
+      "The Brood"
+    ],
+    "answer": "The Dire Wraiths"
+  },
+  {
+    "question": "Who is Sabretooth's son?",
+    "options": [
+      "Wolverine",
+      "Graydon Creed",
+      "Quicksilver",
+      "Juggernaut",
+      "Gambit"
+    ],
+    "answer": "Graydon Creed"
+  },
+  {
+    "question": "Beast was born in:",
+    "options": [
+      "New York City",
+      "Genosha",
+      "Lubbock, Texas",
+      "Dunfee, Illinois",
+      "Asteroid M"
+    ],
+    "answer": "Dunfee, Illinois"
+  },
+  {
+    "question": "Angel is:",
+    "options": [
+      "Poor",
+      "Middle Class",
+      "Extremely wealthy",
+      "Of average means",
+      "A former criminal"
+    ],
+    "answer": "Extremely wealthy"
+  },
+  {
+    "question": "Wolverine made his debut in 1974 in which comic book series?",
+    "options": [
+      "X-Men",
+      "Spider-Man",
+      "The Avengers",
+      "Incredible Hulk",
+      "Fantastic Four"
+    ],
+    "answer": "Incredible Hulk"
+  },
+  {
+    "question": "In the video game X-Men Legends, what was the name of the base Magneto had in orbit of Earth?",
+    "options": ["Asteroid X", "Asteroid Z", "Asteroid M", "Avalon", "Genosha"],
+    "answer": "Asteroid M"
+  },
+  {
+    "question": "Which of the following X-Men was at one time Apocalypse's horseman Death?",
+    "options": ["Cyclops", "Storm", "Wolverine", "Colossus", "Iceman"],
+    "answer": "Wolverine"
+  },
+  {
+    "question": "Destiny belonged to which super villain team?",
+    "options": [
+      "The Hellfire Club",
+      "The Reavers",
+      "The Marauders",
+      "The Brotherhood of Evil Mutants",
+      "The Serpent Society"
+    ],
+    "answer": "The Brotherhood of Evil Mutants"
+  },
+  {
+    "question": "Garokk was originally:",
+    "options": [
+      "A mutant",
+      "A scientist",
+      "A British sailor",
+      "A soldier",
+      "A king"
+    ],
+    "answer": "A British sailor"
+  },
+  {
+    "question": "In the video game X-Men Legends, who was the first playable character at the very beginning in New York City?",
+    "options": ["Cyclops", "Iceman", "Wolverine", "Storm", "Jean Grey"],
+    "answer": "Wolverine"
+  },
+  {
+    "question": "How many fingers does Nightcrawler have on each hand?",
+    "options": ["Four", "Five", "Three", "Two", "Six"],
+    "answer": "Three"
+  },
+  {
+    "question": "Who is Ka-Zar's wife?",
+    "options": [
+      "Mystique",
+      "Rogue",
+      "Shanna O'Hara",
+      "Lady Deathstrike",
+      "Polaris"
+    ],
+    "answer": "Shanna O'Hara"
+  },
+  {
+    "question": "Which person is Mystique not connected to?",
+    "options": [
+      "Destiny",
+      "Rogue",
+      "Nightcrawler",
+      "Mikhail Rasputin",
+      "Sabretooth"
+    ],
+    "answer": "Mikhail Rasputin"
+  },
+  {
+    "question": "Which X-Man was involved romantically with Magneto?",
+    "options": ["Jean Grey", "Storm", "Rogue", "Kitty Pryde", "Psylocke"],
+    "answer": "Rogue"
+  },
+  {
+    "question": "Joseph is a clone of which mutant?",
+    "options": [
+      "Professor X",
+      "Apocalypse",
+      "Magneto",
+      "Sabretooth",
+      "Juggernaut"
+    ],
+    "answer": "Magneto"
+  },
+  {
+    "question": "Iceman's real name is:",
+    "options": [
+      "Bobby Drake",
+      "Scott Summers",
+      "Hank McCoy",
+      "Warren Worthington III",
+      "Piotr Rasputin"
+    ],
+    "answer": "Bobby Drake"
+  },
+  {
+    "question": "Who is not a member of the Brotherhood?",
+    "options": ["Toad", "Blob", "Mystique", "Lupa", "Pyro"],
+    "answer": "Lupa"
+  },
+  {
+    "question": "As a boy, Nightcrawler's hero was:",
+    "options": [
+      "Buster Keaton",
+      "Charlie Chaplin",
+      "Errol Flynn",
+      "Harold Lloyd",
+      "Cary Grant"
+    ],
+    "answer": "Errol Flynn"
+  },
+  {
+    "question": "Who served alongside Cable in his mercenary group, Six Pack?",
+    "options": ["Mystique", "Rogue", "Domino", "Lady Deathstrike", "Polaris"],
+    "answer": "Domino"
+  },
+  {
+    "question": "What is Bishop's mutant power?",
+    "options": [
+      "Telepathy",
+      "Telekinesis",
+      "Absorb energy and rechannel it",
+      "Shapeshifting",
+      "Weather manipulation"
+    ],
+    "answer": "Absorb energy and rechannel it"
+  },
+  {
+    "question": "Ka-Zar's father came to the Savage Land in search of what?",
+    "options": ["Vibranium", "Adamantium", "Anti-metal", "Uru", "Mysterium"],
+    "answer": "Anti-metal"
+  },
+  {
+    "question": "What are Forge's powers?",
+    "options": [
+      "Telepathy",
+      "Telekinesis",
+      "Inventing new technology and mystic powers",
+      "Shapeshifting",
+      "Weather manipulation"
+    ],
+    "answer": "Inventing new technology and mystic powers"
+  },
+  {
+    "question": "Ka-Zar was originally named:",
+    "options": [
+      "Kevin Plunder",
+      "Victor Creed",
+      "Erik Lehnsherr",
+      "Nathan Essex",
+      "Remy LeBeau"
+    ],
+    "answer": "Kevin Plunder"
+  },
+  {
+    "question": "Colossus' brother Mikhail first appeared in Uncanny X-Men number:",
+    "options": ["280", "285", "290", "295", "300"],
+    "answer": "285"
+  },
+  {
+    "question": "What evil villain is also known as Cain Marko?",
+    "options": ["Magneto", "Apocalypse", "Juggernaut", "Sabretooth", "Blob"],
+    "answer": "Juggernaut"
+  },
+  {
+    "question": "Heather Cameron is known as which X-Man?",
+    "options": ["Rogue", "Storm", "Lifeguard", "Kitty Pryde", "Psylocke"],
+    "answer": "Lifeguard"
+  },
+  {
+    "question": "Magneto first appeared in 1963 X-Men number:",
+    "options": ["1", "5", "10", "15", "20"],
+    "answer": "1"
+  },
+  {
+    "question": "What name does Magneto go by?",
+    "options": [
+      "Victor Creed",
+      "Erik Lehnsherr",
+      "Nathan Essex",
+      "Remy LeBeau",
+      "Cain Marko"
+    ],
+    "answer": "Erik Lehnsherr"
+  },
+  {
+    "question": "Mikhail es el hermano de:",
+    "options": ["Wolverine", "Cyclops", "Colossus", "Iceman", "Beast"],
+    "answer": "Colossus"
+  },
+  {
+    "question": "Colossus first learned he could turn into metal when he:",
+    "options": [
+      "Was attacked by a Sentinel",
+      "Saved his sister from a runaway tractor.",
+      "Was exposed to radiation",
+      "Was born",
+      "Was trained by Magneto"
+    ],
+    "answer": "Saved his sister from a runaway tractor."
+  },
+  {
+    "question": "In the video game, X-Men: Legends, what was the code name of the young woman the X-Men saved in New York City from Blob and Mystique?",
+    "options": ["Rogue", "Storm", "Magma", "Kitty Pryde", "Psylocke"],
+    "answer": "Magma"
+  },
+  {
+    "question": "Bishop is a time traveler from which century?",
+    "options": ["20th", "21st", "22nd", "23rd", "24th"],
+    "answer": "21st"
+  },
+  {
+    "question": "What is Omega Red's real name?",
+    "options": [
+      "Victor Creed",
+      "Erik Lehnsherr",
+      "Arkady Gregorovich",
+      "Nathan Essex",
+      "Remy LeBeau"
+    ],
+    "answer": "Arkady Gregorovich"
+  },
+  {
+    "question": "Nightcrawler was once the leader of which of the following groups?",
+    "options": [
+      "The Brotherhood",
+      "The Hellfire Club",
+      "Excalibur",
+      "The Reavers",
+      "The Marauders"
+    ],
+    "answer": "Excalibur"
+  },
+  {
+    "question": "Pyro's real name is:",
+    "options": [
+      "John Allerdyce",
+      "Victor Creed",
+      "Erik Lehnsherr",
+      "Nathan Essex",
+      "Remy LeBeau"
+    ],
+    "answer": "St. John Allerdyce"
+  },
+  {
+    "question": "Approximately how old is Apocalypse?",
+    "options": [
+      "1000 yrs old",
+      "2000 yrs old",
+      "3000 yrs old",
+      "4000 yrs old",
+      "5000 yrs old"
+    ],
+    "answer": "5000 yrs old"
+  },
+  {
+    "question": "What is Sauron's real name?",
+    "options": [
+      "Victor Creed",
+      "Erik Lehnsherr",
+      "Karl Lykos",
+      "Nathan Essex",
+      "Remy LeBeau"
+    ],
+    "answer": "Karl Lykos"
+  },
+  {
+    "question": "Shanna at one time:",
+    "options": [
+      "Was a queen",
+      "Worked at a zoo in New York City",
+      "Was a pirate",
+      "Was a scientist",
+      "Was a politician"
+    ],
+    "answer": "Worked at a zoo in New York City"
+  },
+  {
+    "question": "Death, War, Pestilence, and Famine together form what group?",
+    "options": [
+      "The Brotherhood",
+      "The Hellfire Club",
+      "The Four Horsemen",
+      "The Reavers",
+      "The Marauders"
+    ],
+    "answer": "The Four Horsemen"
+  },
+  {
+    "question": "What is Pyro's mutant ability?",
+    "options": [
+      "Telepathy",
+      "Telekinesis",
+      "He can control fire.",
+      "Shapeshifting",
+      "Weather manipulation"
+    ],
+    "answer": "He can control fire."
+  },
+  {
+    "question": "What is Sunfire's real name?",
+    "options": [
+      "Victor Creed",
+      "Erik Lehnsherr",
+      "Shiro Yoshida",
+      "Nathan Essex",
+      "Remy LeBeau"
+    ],
+    "answer": "Shiro Yoshida"
+  },
+  {
+    "question": "Ororo Munroe's X-Men code name is:",
+    "options": ["Mystique", "Rogue", "Storm", "Kitty Pryde", "Psylocke"],
+    "answer": "Storm"
+  },
+  {
+    "question": "Omega Red's arm coils are made from what material?",
+    "options": ["Adamantium", "Vibranium", "Carbonadium", "Uru", "Mysterium"],
+    "answer": "Carbonadium"
+  },
+  {
+    "question": "Toad first appeared in:",
+    "options": [
+      "X-Men number 1",
+      "X-Men number 2",
+      "X-Men number 3",
+      "X-Men number 4",
+      "X-Men number 5"
+    ],
+    "answer": "X-Men number 4"
+  },
+  {
+    "question": "Where is the Savage Land located?",
+    "options": ["Africa", "South America", "Asia", "Antarctica", "Australia"],
+    "answer": "Antarctica"
+  },
+  {
+    "question": "Who is Mystique's best friend?",
+    "options": ["Rogue", "Storm", "Destiny", "Kitty Pryde", "Psylocke"],
+    "answer": "Destiny"
+  },
+  {
+    "question": "The Savage Land is protected from freezing temperatures by:",
+    "options": [
+      "Magic",
+      "Alien Technology",
+      "Mutant powers",
+      "Volcanic activity",
+      "A force field"
+    ],
+    "answer": "Alien Technology"
+  },
+  {
+    "question": "Mikhail Rasputin has been:",
+    "options": [
+      "A king",
+      "A scientist",
+      "A Russian cosmonaut",
+      "A pirate",
+      "A politician"
+    ],
+    "answer": "A Russian cosmonaut"
+  },
+  {
+    "question": "Nightcrawler grew up working in a circus as:",
+    "options": [
+      "A clown",
+      "A ringmaster",
+      "An acrobat",
+      "A magician",
+      "A strongman"
+    ],
+    "answer": "An acrobat"
+  },
+  {
+    "question": "What animal protected Ka-Zar as he grew up in the Savage Land?",
+    "options": [
+      "A lion",
+      "A bear",
+      "A sabretooth tiger",
+      "A wolf",
+      "A gorilla"
+    ],
+    "answer": "A sabretooth tiger"
+  },
+  {
+    "question": "What was Shanna known as in the Savage Land?",
+    "options": [
+      "Shanna the Queen",
+      "Shanna the Warrior",
+      "Shanna the She-Devil",
+      "Shanna the Huntress",
+      "Shanna the Sorceress"
+    ],
+    "answer": "Shanna the She-Devil"
+  },
+  {
+    "question": "Garokk was ship wrecked in the Savage Land in what time period?",
+    "options": ["1200s", "1300s", "1400s", "1500s", "1600s"],
+    "answer": "1400s"
+  },
+  {
+    "question": "Bishop has a sister named:",
+    "options": ["Mystique", "Rogue", "Shard", "Kitty Pryde", "Psylocke"],
+    "answer": "Shard"
+  },
+  {
+    "question": "Sunfire's sister's code name was:",
+    "options": ["Sunstorm", "Sunray", "Sunpyre", "Solaris", "Sunspot"],
+    "answer": "Sunpyre"
+  },
+  {
+    "question": "Wolverine wound up killing the father of this woman he loved:",
+    "options": [
+      "Jean Grey",
+      "Storm",
+      "Mariko Yashido",
+      "Silver Fox",
+      "Rose O'Hara"
+    ],
+    "answer": "Mariko Yashido"
+  },
+  {
+    "question": "What Hellfire Club leader first appeared in X-Men number 129 in 1980?",
+    "options": [
+      "Emma Frost",
+      "Magneto",
+      "Sebastian Shaw",
+      "Mr. Sinister",
+      "Apocalypse"
+    ],
+    "answer": "Sebastian Shaw"
+  },
+  {
+    "question": "Storm was once the leader of which of the following groups?",
+    "options": [
+      "The Brotherhood",
+      "The Hellfire Club",
+      "The Morlocks",
+      "The Reavers",
+      "The Marauders"
+    ],
+    "answer": "The Morlocks"
+  },
+  {
+    "question": "What is Heather Hudson's Alpha Flight code name?",
+    "options": ["Guardian", "Sasquatch", "Vindicator", "Shaman", "Puck"],
+    "answer": "Vindicator"
+  },
+  {
+    "question": "Who oversaw the Weapon X program during Wolverine's transformation?",
+    "options": [
+      "Magneto",
+      "Apocalypse",
+      "The Professor",
+      "Mr. Sinister",
+      "Bolivar Trask"
+    ],
+    "answer": "The Professor"
+  },
+  {
+    "question": "Who is not a member of Alpha Flight?",
+    "options": ["Guardian", "Sasquatch", "Puck", "Prism", "Shaman"],
+    "answer": "Prism"
+  },
+  {
+    "question": "Cyclops's father is the captain of a spaceship named:",
+    "options": [
+      "The Blackbird",
+      "The Quinjet",
+      "The Starjammer",
+      "The Milano",
+      "The Helicarrier"
+    ],
+    "answer": "The Starjammer"
+  },
+  {
+    "question": "Which super team was Wolverine originally intended to lead?",
+    "options": [
+      "The Avengers",
+      "The Defenders",
+      "Alpha Flight",
+      "The X-Men",
+      "The Fantastic Four"
+    ],
+    "answer": "Alpha Flight"
+  },
+  {
+    "question": "Who is the leader of the team known as the Hellions?",
+    "options": [
+      "Magneto",
+      "Apocalypse",
+      "Emma Frost",
+      "Sebastian Shaw",
+      "Mr. Sinister"
+    ],
+    "answer": "Emma Frost"
+  },
+  {
+    "question": "Who is Heather Hudson's husband?",
+    "options": ["Wolverine", "Cyclops", "Guardian", "Beast", "Iceman"],
+    "answer": "Guardian"
+  },
+  {
+    "question": "There is speculation that Professor Xavier's father at one time:",
+    "options": [
+      "Was a mutant",
+      "Was a member of the Hellfire Club",
+      "Was part of the Weapon X project that worked on Wolverine.",
+      "Was a member of the Brotherhood",
+      "Was a Sentinel creator"
+    ],
+    "answer": "Was part of the Weapon X project that worked on Wolverine."
+  },
+  {
+    "question": "Havok's real name is:",
+    "options": [
+      "Scott Summers",
+      "Alex Summers",
+      "Nathan Summers",
+      "Gabriel Summers",
+      "Christopher Summers"
+    ],
+    "answer": "Alex Summers"
+  },
+  {
+    "question": "What is James MacDonald Hudson's Alpha Flight code name?",
+    "options": ["Vindicator", "Sasquatch", "Guardian", "Shaman", "Puck"],
+    "answer": "Guardian"
+  },
+  {
+    "question": "Which of the following X-Men has also been a member of The Avengers?",
+    "options": ["Cyclops", "Storm", "Wolverine", "Beast", "Iceman"],
+    "answer": "Wolverine"
+  },
+  {
+    "question": "Who saved Apocalypse as a child?",
+    "options": [
+      "Magneto",
+      "Mr. Sinister",
+      "Baal",
+      "Sebastian Shaw",
+      "Emma Frost"
+    ],
+    "answer": "Baal"
+  },
+  {
+    "question": "The process of bonding Adamantium to Wolverine's bones would have killed him if not for:",
+    "options": [
+      "Magneto's powers",
+      "Apocalypse's intervention",
+      "Wolverine's healing power",
+      "Professor X's telepathy",
+      "Emma Frost's abilities"
+    ],
+    "answer": "Wolverine's healing power"
+  },
+  {
+    "question": "What super hero team does Heather Hudson belong to?",
+    "options": [
+      "The Avengers",
+      "The Defenders",
+      "Alpha Flight",
+      "The X-Men",
+      "The Fantastic Four"
+    ],
+    "answer": "Alpha Flight"
+  },
+  {
+    "question": "What is Sebastian Shaw's title in the Hellfire Club?",
+    "options": [
+      "White King",
+      "Black King",
+      "Red King",
+      "Gray King",
+      "Purple King"
+    ],
+    "answer": "Black King"
+  },
+  {
+    "question": "Toad is from:",
+    "options": ["America", "Canada", "England", "Australia", "Germany"],
+    "answer": "England"
+  },
+  {
+    "question": "Ororo Monroe, better known as Storm, first appeared in 1975 on which comic book?",
+    "options": [
+      "X-Men #1",
+      "Avengers #1",
+      "Fantastic Four #1",
+      "X-Men Giant-Size #1",
+      "Incredible Hulk #1"
+    ],
+    "answer": "X-Men Giant-Size #1"
+  },
+  {
+    "question": "Where did Juggernaut find the Ruby of Cyttorak?",
+    "options": ["Egypt", "India", "Korea", "Peru", "Greece"],
+    "answer": "Korea"
+  },
+  {
+    "question": "Jean Grey's main powers are:",
+    "options": [
+      "Telepathy, Flight",
+      "Telekinesis, Super Strength",
+      "Telekinesis, Telepathy",
+      "Teleportation, Telekinesis",
+      "Telepathy, Shapeshifting"
+    ],
+    "answer": "Telekinesis, Telepathy"
+  },
+  {
+    "question": "Which super team does James MacDonald Hudson belong to?",
+    "options": [
+      "The Avengers",
+      "The Defenders",
+      "Alpha Flight",
+      "The X-Men",
+      "The Fantastic Four"
+    ],
+    "answer": "Alpha Flight"
+  },
+  {
+    "question": "Sebastian Shaw belongs to which New York Social Club?",
+    "options": [
+      "The Avengers Mansion",
+      "The Baxter Building",
+      "The Hellfire Club",
+      "The Daily Bugle",
+      "The Sanctum Sanctorum"
+    ],
+    "answer": "The Hellfire Club"
+  },
+  {
+    "question": "Apocalypse first appeared in X-Factor number 5 in:",
+    "options": ["1980", "1983", "1986", "1989", "1992"],
+    "answer": "1986"
+  },
+  {
+    "question": "Who headed the facility failed Weapon X experiments, like Deadpool, were sent to?",
+    "options": [
+      "Magneto",
+      "Apocalypse",
+      "Dr. Killebrew",
+      "Mr. Sinister",
+      "Sebastian Shaw"
+    ],
+    "answer": "Dr. Killebrew"
+  },
+  {
+    "question": "Cable founded which team comprised mostly from former Xavier school students?",
+    "options": [
+      "The Brotherhood",
+      "The Hellfire Club",
+      "X-Force",
+      "The Reavers",
+      "The Marauders"
+    ],
+    "answer": "X-Force"
+  },
+  {
+    "question": "The leader of the Brotherhood is:",
+    "options": [
+      "Magneto",
+      "Apocalypse",
+      "Mr. Sinister",
+      "Sebastian Shaw",
+      "Emma Frost"
+    ],
+    "answer": "Magneto"
+  },
+  {
+    "question": "What is Sebastian Shaw's mutant power?",
+    "options": [
+      "Telepathy",
+      "Telekinesis",
+      "Absorb and rechannel energy",
+      "Shapeshifting",
+      "Weather manipulation"
+    ],
+    "answer": "Absorb and rechannel energy"
+  },
+  {
+    "question": "Who did Apocalypse kidnap and raise to be as cruel as he is?",
+    "options": ["Wolverine", "Cyclops", "Stryfe", "Beast", "Iceman"],
+    "answer": "Stryfe"
+  },
+  {
+    "question": "Who took control of Iceman's body and discovered his powers were greater than he realized?",
+    "options": [
+      "Magneto",
+      "Apocalypse",
+      "Emma Frost",
+      "Mr. Sinister",
+      "Sebastian Shaw"
+    ],
+    "answer": "Emma Frost"
+  },
+  {
+    "question": "Who is James MacDonald Hudson's wife?",
+    "options": [
+      "Mystique",
+      "Rogue",
+      "Vindicator",
+      "Lady Deathstrike",
+      "Polaris"
+    ],
+    "answer": "Vindicator"
+  },
+  {
+    "question": "Sugar Man is originally from a timeline where:",
+    "options": [
+      "The X-Men are evil",
+      "Mutants rule the world",
+      "Xavier is dead and Apocalypse nearly rules the world",
+      "Humans and mutants live in peace",
+      "The Avengers are the villains"
+    ],
+    "answer": "Xavier is dead and Apocalypse nearly rules the world"
+  },
+  {
+    "question": "Magneto once raised a mysterious city from the ocean in what part of the world?",
+    "options": [
+      "The Atlantic Ocean",
+      "The Pacific Ocean",
+      "The Indian Ocean",
+      "The Bermuda Triangle",
+      "The Arctic Ocean"
+    ],
+    "answer": "The Bermuda Triangle"
+  },
+  {
+    "question": "Who was not a subject of the Weapon X project?",
+    "options": ["Wolverine", "Deadpool", "Sabretooth", "Shard", "Maverick"],
+    "answer": "Shard"
+  },
+  {
+    "question": "Betsy Braddock is known as which X-Man?",
+    "options": ["Rogue", "Storm", "Psylocke", "Kitty Pryde", "Magik"],
+    "answer": "Psylocke"
+  },
+  {
+    "question": "Scarlet Witch's real name is:",
+    "options": [
+      "Raven Darkholme",
+      "Clarice Ferguson",
+      "Wanda Maximoff",
+      "Yuriko Oyama",
+      "Jean Grey"
+    ],
+    "answer": "Wanda Maximoff"
+  },
+  {
+    "question": "Rogue first appeared in which 1981 comic book?",
+    "options": [
+      "X-Men #1",
+      "Avengers #1",
+      "Fantastic Four #1",
+      "Avengers Annual #10",
+      "Incredible Hulk #1"
+    ],
+    "answer": "Avengers Annual #10"
+  },
+  {
+    "question": "Before turning to crime, Pyro was a:",
+    "options": ["Scientist", "Soldier", "Writer", "Teacher", "Doctor"],
+    "answer": "Writer"
+  },
+  {
+    "question": "Who were students of Emma Frost?",
+    "options": [
+      "The Brotherhood",
+      "The Hellfire Club",
+      "The Stepford Cuckoos",
+      "The Reavers",
+      "The Marauders"
+    ],
+    "answer": "The Stepford Cuckoos"
+  },
+  {
+    "question": "The Weapon X facility is located in:",
+    "options": ["America", "Canada", "England", "Australia", "Germany"],
+    "answer": "Canada"
+  },
+  {
+    "question": "Infinite Soldiers are clones created by:",
+    "options": [
+      "Magneto",
+      "Apocalypse",
+      "Mr. Sinister",
+      "Sebastian Shaw",
+      "Emma Frost"
+    ],
+    "answer": "Mister Sinister"
+  },
+  {
+    "question": "Sugar Man is a traveler from which alternate reality?",
+    "options": [
+      "Earth-X",
+      "Days of Future Past",
+      "The Age of Apocalypse",
+      "House of M",
+      "Ultimate Universe"
+    ],
+    "answer": "The Age of Apocalypse"
+  },
+  {
+    "question": "Sunfire is a member of Japanese super hero team known in English as:",
+    "options": [
+      "The Rising Sun",
+      "The Samurai Seven",
+      "Big Hero 6",
+      "The Crimson Blades",
+      "The Atomic Brigade"
+    ],
+    "answer": "Big Hero 6"
+  },
+  {
+    "question": "After escaping from the Weapon X facility Wolverine was discovered and befriended by:",
+    "options": [
+      "Charles Xavier",
+      "Erik Lehnsherr",
+      "James and Heather Hudson",
+      "Reed Richards",
+      "Tony Stark"
+    ],
+    "answer": "James and Heather Hudson"
+  },
+  {
+    "question": "What is untrue of Guardian?",
+    "options": [
+      "Is a mutant",
+      "Is married to Vindicator",
+      "Is a member of Alpha Flight",
+      "Wears a suit of armor",
+      "Has a wife named Heather"
+    ],
+    "answer": "Is a mutant"
+  },
+  {
+    "question": "What does Rogue absorb when she touches someone?",
+    "options": [
+      "Memories",
+      "Powers",
+      "Life force",
+      "All of the above",
+      "None of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "While working for the government in Dallas, Texas, Forge had a penthouse known as:",
+    "options": [
+      "The Danger Room",
+      "The Cerebro Suite",
+      "Eagle's Nest",
+      "The Blackbird Hangar",
+      "The Xavier Institute Annex"
+    ],
+    "answer": "Eagle's Nest"
+  },
+  {
+    "question": "What color is Beast's fur?",
+    "options": ["Brown", "Black", "Blue", "Gray", "White"],
+    "answer": "Blue"
+  },
+  {
+    "question": "Nick Fury is the leader of:",
+    "options": ["Hydra", "AIM", "SHIELD", "The Hand", "The Brotherhood"],
+    "answer": "SHIELD"
+  },
+  {
+    "question": "The mutant sewer dwellers of New York City are known as:",
+    "options": [
+      "The Underground",
+      "The Tunnelers",
+      "The Morlocks",
+      "The Subterraneans",
+      "The Lost Ones"
+    ],
+    "answer": "The Morlocks"
+  },
+  {
+    "question": "What is Wolverine's real name?",
+    "options": [
+      "Logan Howlett",
+      "James Howlett",
+      "Victor Creed",
+      "John Wraith",
+      "Remy LeBeau"
+    ],
+    "answer": "James Howlett"
+  },
+  {
+    "question": "Moira MacTaggert's Mutant Research Center is located:",
+    "options": [
+      "Genosha",
+      "Asteroid M",
+      "Muir Island",
+      "Madripoor",
+      "Savage Land"
+    ],
+    "answer": "Muir Island"
+  },
+  {
+    "question": "In World War II, Nick Fury commanded:",
+    "options": [
+      "The Invaders",
+      "The Howling Commandos",
+      "The Liberators",
+      "The Freedom Fighters",
+      "The Allied Forces"
+    ],
+    "answer": "The Howling Commandos"
+  },
+  {
+    "question": "Angel's secondary mutation allows him to:",
+    "options": [
+      "Control the weather",
+      "Teleport",
+      "Accelerate his healing factor.",
+      "Manipulate metal",
+      "Become invisible"
+    ],
+    "answer": "Accelerate his healing factor."
+  },
+  {
+    "question": "Banshee has the mutant power to:",
+    "options": [
+      "Control minds",
+      "Generate a sonic scream.",
+      "Manipulate time",
+      "Control metal",
+      "Fly"
+    ],
+    "answer": "Generate a sonic scream."
+  },
+  {
+    "question": "Bastion assembled which organization?",
+    "options": [
+      "The Brotherhood",
+      "The Hellfire Club",
+      "Operation: Zero Tolerance",
+      "The Reavers",
+      "The Marauders"
+    ],
+    "answer": "Operation: Zero Tolerance"
+  },
+  {
+    "question": "What is the Black Queen's real name?",
+    "options": [
+      "Emma Frost",
+      "Mystique",
+      "Selene",
+      "Lady Deathstrike",
+      "Madelyne Pryor"
+    ],
+    "answer": "Selene"
+  },
+  {
+    "question": "What is the name of the machine Professor Charles Xavier uses to find mutants around the world?",
+    "options": [
+      "The Mutant Detector",
+      "The X-Ray",
+      "Cerebro",
+      "The Mutant Scanner",
+      "The Mutant Locator"
+    ],
+    "answer": "Cerebro"
+  },
+  {
+    "question": "Deadpool wears a mask:",
+    "options": [
+      "To hide his identity",
+      "To intimidate his enemies",
+      "To cover his scarred face",
+      "To protect himself from telepaths",
+      "To enhance his powers"
+    ],
+    "answer": "To cover his scarred face"
+  },
+  {
+    "question": "Banshee's daughter uses the code name:",
+    "options": ["Rogue", "Storm", "Syrin", "Kitty Pryde", "Psylocke"],
+    "answer": "Syrin"
+  },
+  {
+    "question": "Who is the evil clone of Cable?",
+    "options": [
+      "Magneto",
+      "Apocalypse",
+      "Stryfe",
+      "Mr. Sinister",
+      "Sebastian Shaw"
+    ],
+    "answer": "Stryfe"
+  },
+  {
+    "question": "Colossus's sister's code name was:",
+    "options": ["Rogue", "Storm", "Magik", "Kitty Pryde", "Psylocke"],
+    "answer": "Magik"
+  },
+  {
+    "question": "What is Professor Xavier's middle name?",
+    "options": ["Michael", "Edward", "Francis", "John", "Robert"],
+    "answer": "Francis"
+  },
+  {
+    "question": "What is the Black Queen's mutant ability?",
+    "options": [
+      "Telepathy",
+      "Telekinesis",
+      "Drain other's life force to maintain her beauty.",
+      "Shapeshifting",
+      "Weather manipulation"
+    ],
+    "answer": "Drain other's life force to maintain her beauty."
+  },
+  {
+    "question": "Who is the great-grandfather of Bishop?",
+    "options": ["Wolverine", "Cyclops", "Gateway", "Beast", "Iceman"],
+    "answer": "Gateway"
+  },
+  {
+    "question": "Sean Cassiday, better known as Banshee, first appeared in 1967 in which comic book?",
+    "options": [
+      "X-Men #1",
+      "Avengers #1",
+      "Fantastic Four #1",
+      "Uncanny X-Men #28",
+      "Incredible Hulk #1"
+    ],
+    "answer": "Uncanny X-Men #28"
+  },
+  {
+    "question": "Magneto once disguised himself as what mutant to infiltrate the Xavier Institute?",
+    "options": ["Mystique", "Rogue", "Xorn", "Lady Deathstrike", "Polaris"],
+    "answer": "Xorn"
+  },
+  {
+    "question": "Sunfire's powers first manifested when:",
+    "options": [
+      "He was born",
+      "He was exposed to cosmic rays",
+      "He touched radioactive soil",
+      "He was bitten by a radioactive spider",
+      "He was trained by Magneto"
+    ],
+    "answer": "He touched radioactive soil"
+  },
+  {
+    "question": "Deadpool is a victim of:",
+    "options": ["Hydra", "AIM", "Weapon X", "The Hand", "The Brotherhood"],
+    "answer": "Weapon X"
+  },
+  {
+    "question": "Scarlet Witch's power is the ability to:",
+    "options": [
+      "Control minds",
+      "Manipulate time",
+      "Affect probability and make the improbably become possible",
+      "Control metal",
+      "Fly"
+    ],
+    "answer": "Affect probability and make the improbably become possible"
+  },
+  {
+    "question": "Who is Banshee's cousin?",
+    "options": ["Wolverine", "Cyclops", "Black Tom Cassidy", "Beast", "Iceman"],
+    "answer": "Black Tom Cassidy"
+  },
+  {
+    "question": "What was the name of the boy Rogue kissed and almost killed just as her powers were beginning to emerge?",
+    "options": [
+      "Bobby Drake",
+      "Scott Summers",
+      "Cody Robbins",
+      "Warren Worthington III",
+      "Piotr Rasputin"
+    ],
+    "answer": "Cody Robbins"
+  },
+  {
+    "question": "Who is Kitty Pryde's loyal companion?",
+    "options": ["Lockheed", "Puff", "Zeke", "Mirage", "Plume"],
+    "answer": "Lockheed"
+  },
+  {
+    "question": "Which of Apocalypse's four horsemen is Archangel?",
+    "options": ["War", "Pestilence", "Death", "Famine", "All of the above"],
+    "answer": "Death"
+  },
+  {
+    "question": "As a child, Storm was a:",
+    "options": [
+      "Princess",
+      "Thief",
+      "Pickpocket in Cairo, Egypt",
+      "Scientist",
+      "Sorceress"
+    ],
+    "answer": "Pickpocket in Cairo, Egypt"
+  },
+  {
+    "question": "Toad is devoted to:",
+    "options": [
+      "Professor X",
+      "Apocalypse",
+      "Magneto",
+      "Mr. Sinister",
+      "Sebastian Shaw"
+    ],
+    "answer": "Magneto"
+  },
+  {
+    "question": "How many Adamantium claws does Wolverine have on each hand?",
+    "options": ["Two", "Three", "Four", "Five", "Six"],
+    "answer": "Three"
+  },
+  {
+    "question": "Deadpool joined the Weapon X program because:",
+    "options": [
+      "He was forced",
+      "He was recruited",
+      "He had cancer",
+      "He wanted to be a hero",
+      "He was paid"
+    ],
+    "answer": "He had cancer"
+  },
+  {
+    "question": "Who has not served in the Hellfire Club's inner circle?",
+    "options": [
+      "Emma Frost",
+      "Sebastian Shaw",
+      "Lorna Dane",
+      "Donald Pierce",
+      "Selene"
+    ],
+    "answer": "Lorna Dane"
+  },
+  {
+    "question": "Which Hellfire Club member is really a non-mutant cyborg?",
+    "options": [
+      "Emma Frost",
+      "Sebastian Shaw",
+      "Donald Pierce",
+      "Selene",
+      "Madelyne Pryor"
+    ],
+    "answer": "Donald Pierce"
+  },
+  {
+    "question": "What was Emma Frost's title in the Hellfire Club?",
+    "options": [
+      "Black Queen",
+      "White Queen",
+      "Red Queen",
+      "Gray Queen",
+      "Purple Queen"
+    ],
+    "answer": "White Queen"
+  },
+  {
+    "question": "Who was Kitty Pryde's mentor?",
+    "options": ["Professor X", "Cyclops", "Wolverine", "Beast", "Iceman"],
+    "answer": "Wolverine"
+  },
+  {
+    "question": "Moira MacTaggert had a son named Kevin who also went by the name of:",
+    "options": ["Proteus", "Legion", "Stryfe", "Vulcan", "Madrox"],
+    "answer": "Proteus"
+  },
+  {
+    "question": "Which X-Man is romantically involved with Kitty Pryde?",
+    "options": ["Wolverine", "Cyclops", "Colossus", "Beast", "Iceman"],
+    "answer": "Colossus"
+  },
+  {
+    "question": "Lockheed, Kitty Pryde's small dragon companion, first appeared on which Aliens' homeworld?",
+    "options": [
+      "The Shi'ar",
+      "The Kree",
+      "The Brood",
+      "The Skrulls",
+      "The Phalanx"
+    ],
+    "answer": "The Brood"
+  },
+  {
+    "question": "Where do Wolverine's claws appear?",
+    "options": [
+      "Between his fingers",
+      "From his wrists",
+      "Between his knuckles",
+      "From his elbows",
+      "From his shoulders"
+    ],
+    "answer": "Between his knuckles"
+  },
+  {
+    "question": "What is Marrow's real name?",
+    "options": ["Sarah", "Rachel", "Susan", "Mary", "Jane"],
+    "answer": "Sarah"
+  },
+  {
+    "question": "In the video game X-Men Legends: The Rise of Apocalypse, what is the name of Magneto's secret hideaway near Genosha?",
+    "options": [
+      "Avalon",
+      "Sanctuary",
+      "Asteroid M",
+      "Genosha Prime",
+      "The Citadel"
+    ],
+    "answer": "Sanctuary"
+  },
+  {
+    "question": "Bastion is really:",
+    "options": [
+      "A mutant",
+      "An alien",
+      "A robot",
+      "A hybrid Sentinel in disguise",
+      "A clone"
+    ],
+    "answer": "A hybrid Sentinel in disguise"
+  },
+  {
+    "question": "For a time, Bishop worked:",
+    "options": [
+      "As a teacher",
+      "As a scientist",
+      "As a detective",
+      "As a soldier",
+      "As a politician"
+    ],
+    "answer": "As a detective"
+  },
+  {
+    "question": "Forge was trained in magic by:",
+    "options": [
+      "Dr. Strange",
+      "Agatha Harkness",
+      "The Cheyenne Shaman Naze",
+      "The Ancient One",
+      "Zatanna"
+    ],
+    "answer": "The Cheyenne Shaman Naze"
+  },
+  {
+    "question": "The Hellfire Club originally started in:",
+    "options": ["America", "Canada", "England", "Australia", "Germany"],
+    "answer": "London"
+  },
+  {
+    "question": "In the video game X-Men: Legends, who is the leader of the Morlocks?",
+    "options": ["Callisto", "Masque", "Marrow", "Sunder", "Scaleface"],
+    "answer": "Marrow"
+  },
+  {
+    "question": "For a time, Banshee worked for:",
+    "options": ["Interpol", "SHIELD", "The FBI", "The CIA", "MI6"],
+    "answer": "Interpol"
+  },
+  {
+    "question": "What is the name of the room where the X-Men do their training exercises?",
+    "options": [
+      "The War Room",
+      "The Training Center",
+      "The Danger Room",
+      "The Simulation Chamber",
+      "The Battle Arena"
+    ],
+    "answer": "The Danger Room"
+  },
+  {
+    "question": "In the Hellfire Club, Sebastian Shaw goes by the code name:",
+    "options": [
+      "White King",
+      "Black King",
+      "Red King",
+      "Gray King",
+      "Purple King"
+    ],
+    "answer": "Black King"
+  },
+  {
+    "question": "Deadpool possesses the ability to:",
+    "options": [
+      "Telepathy",
+      "Telekinesis",
+      "Heal quickly",
+      "Shapeshifting",
+      "Weather manipulation"
+    ],
+    "answer": "Heal quickly"
+  },
+  {
+    "question": "Nick Fury is blind in which eye?",
+    "options": ["Right", "Left", "Both", "Neither", "Changes frequently"],
+    "answer": "Left"
+  },
+  {
+    "question": "Beast grew blue fur because of:",
+    "options": [
+      "A curse",
+      "A mutation",
+      "A serum he took",
+      "An experiment",
+      "An accident"
+    ],
+    "answer": "A serum he took"
+  },
+  {
+    "question": "Cable's hair is what color?",
+    "options": ["Black", "Brown", "White", "Red", "Blonde"],
+    "answer": "White"
+  },
+  {
+    "question": "Which of the following X-Men was at one time a host for Apocalypse?",
+    "options": ["Wolverine", "Storm", "Cyclops", "Beast", "Iceman"],
+    "answer": "Cyclops"
+  },
+  {
+    "question": "Ahmet Abdol is also known as:",
+    "options": [
+      "Living Pharaoh",
+      "Living Monolith",
+      "Living Mummy",
+      "Living Statue",
+      "Living Titan"
+    ],
+    "answer": "Living Monolith"
+  },
+  {
+    "question": "In X-Men Legends 2 - Rise of Apocalypse, who was responsible for transforming the X-Man Angel into Archangel?",
+    "options": [
+      "Magneto",
+      "Apocalypse",
+      "Mr. Sinister",
+      "Sebastian Shaw",
+      "Emma Frost"
+    ],
+    "answer": "Mr. Sinister"
+  },
+  {
+    "question": "Bishop was a part of what security force in the future?",
+    "options": [
+      "SHIELD",
+      "SWORD",
+      "Xavier Security Enforcers",
+      "The Time Variance Authority",
+      "The Future Foundation"
+    ],
+    "answer": "Xavier Security Enforcers"
+  },
+  {
+    "question": "Scott Summers works under the code name:",
+    "options": ["Havok", "Cyclops", "Vulcan", "Cable", "Bishop"],
+    "answer": "Cyclops"
+  },
+  {
+    "question": "Colossus has a brother named:",
+    "options": ["Pietro", "Alex", "Mikhail", "Nathan", "Gabriel"],
+    "answer": "Mikhail"
+  },
+  {
+    "question": "Who is the one person Havok's power can't hurt?",
+    "options": [
+      "Professor X",
+      "Magneto",
+      "Scott Summers",
+      "Apocalypse",
+      "Mr. Sinister"
+    ],
+    "answer": "Scott Summers"
+  },
+  {
+    "question": "Which two X-Men were at different times Death, one of Apocalypse's four horsemen?",
+    "options": [
+      "Cyclops and Havok",
+      "Beast and Iceman",
+      "Wolverine and Angel",
+      "Storm and Jean Grey",
+      "Colossus and Nightcrawler"
+    ],
+    "answer": "Wolverine and Angel"
+  },
+  {
+    "question": "When Bobby Drake's powers first activated he:",
+    "options": [
+      "Joined the X-Men immediately",
+      "Was attacked by a mob",
+      "Was locked in jail for his own protection",
+      "Was recruited by Magneto",
+      "Became a villain"
+    ],
+    "answer": "Was locked in jail for his own protection"
+  },
+  {
+    "question": "When consumed by her powers, Jean Grey becomes:",
+    "options": [
+      "The White Queen",
+      "The Dark Phoenix",
+      "The Goblin Queen",
+      "The Enchantress",
+      "The Sorceress Supreme"
+    ],
+    "answer": "The Dark Phoenix"
+  },
+  {
+    "question": "What is Mister Sinister's real name?",
+    "options": [
+      "Victor Creed",
+      "Erik Lehnsherr",
+      "Nathaniel Essex",
+      "Nathan Summers",
+      "Remy LeBeau"
+    ],
+    "answer": "Nathaniel Essex"
+  },
+  {
+    "question": "Bishop's sister is named:",
+    "options": ["Mystique", "Rogue", "Shard", "Kitty Pryde", "Psylocke"],
+    "answer": "Shard"
+  },
+  {
+    "question": "What is the name of Apocalypse's 4 lieutenants?",
+    "options": [
+      "The Brotherhood",
+      "The Hellfire Club",
+      "The Four Horsemen",
+      "The Reavers",
+      "The Marauders"
+    ],
+    "answer": "The Four Horsemen"
+  },
+  {
+    "question": "What was Juggernaut's occupation when he found the Ruby of Cyttorak?",
+    "options": ["Scientist", "Thief", "Soldier", "Professor", "Explorer"],
+    "answer": "Soldier"
+  },
+  {
+    "question": "Madeline Pryor was:",
+    "options": [
+      "A mutant",
+      "An alien",
+      "Created by Mister Sinister to be an exact copy of Jean Grey",
+      "A time traveler",
+      "A robot"
+    ],
+    "answer": "Created by Mister Sinister to be an exact copy of Jean Grey"
+  },
+  {
+    "question": "Where was Apocalypse born?",
+    "options": ["America", "Canada", "Egypt", "Australia", "Germany"],
+    "answer": "Egypt"
+  },
+  {
+    "question": "Who was Bishop pursuing through time when he first encountered the X-Men?",
+    "options": [
+      "Magneto",
+      "Apocalypse",
+      "Trevor Fitzroy",
+      "Mr. Sinister",
+      "Sebastian Shaw"
+    ],
+    "answer": "Trevor Fitzroy"
+  },
+  {
+    "question": "Who is not related to Scott Summers?",
+    "options": [
+      "Havok",
+      "Vulcan",
+      "Cable",
+      "Mr. Sinister",
+      "Christopher Summers"
+    ],
+    "answer": "Mr. Sinister"
+  },
+  {
+    "question": "Gambit is from:",
+    "options": ["New York", "Chicago", "New Orleans", "Los Angeles", "Miami"],
+    "answer": "New Orleans"
+  },
+  {
+    "question": "Apocalypse's Horsemen first appeared in 1987 in which comic book?",
+    "options": [
+      "X-Men #1",
+      "Avengers #1",
+      "Fantastic Four #1",
+      "X-Factor",
+      "Incredible Hulk #1"
+    ],
+    "answer": "X-Factor"
+  },
+  {
+    "question": "Who did Magneto have twins with?",
+    "options": ["Mystique", "Rogue", "Magda", "Lady Deathstrike", "Polaris"],
+    "answer": "Magda"
+  },
+  {
+    "question": "What mutant team did Forge and Mystique belong to?",
+    "options": [
+      "The Brotherhood",
+      "The Hellfire Club",
+      "X-Factor",
+      "The Reavers",
+      "The Marauders"
+    ],
+    "answer": "X-Factor"
+  },
+  {
+    "question": "What is the sound made when Nightcrawler teleports?",
+    "options": ["Boom", "Zap", "Bamf", "Whoosh", "Clang"],
+    "answer": "Bamf"
+  },
+  {
+    "question": "Who did Rogue permanently absorb the powers of?",
+    "options": ["Storm", "Jean Grey", "Ms. Marvel", "Scarlet Witch", "Polaris"],
+    "answer": "Ms. Marvel"
+  },
+  {
+    "question": "What color hair does Ororo have?",
+    "options": ["Black", "Brown", "White", "Red", "Blonde"],
+    "answer": "White"
+  },
+  {
+    "question": "Which Alien race have the X-Men never encountered?",
+    "options": ["Shi'ar", "Kree", "Skrulls", "Brood", "Phalanx"],
+    "answer": "Skrulls"
+  },
+  {
+    "question": "Which of the following is not one of Wolverine's alias'?",
+    "options": ["Weapon X", "Patch", "Logan", "War", "James Howlett"],
+    "answer": "War"
+  },
+  {
+    "question": "What is the other team that Nightcrawler and Shadowcat serve together on?",
+    "options": [
+      "The Avengers",
+      "The Defenders",
+      "Excalibur",
+      "Alpha Flight",
+      "The Fantastic Four"
+    ],
+    "answer": "Excalibur"
+  },
+  {
+    "question": "Gambit's real name is:",
+    "options": [
+      "Victor Creed",
+      "Erik Lehnsherr",
+      "Remy LeBeau",
+      "Nathan Essex",
+      "Cain Marko"
+    ],
+    "answer": "Remy LeBeau"
+  },
+  {
+    "question": "Who is Kurt Wagner's adopted sister?",
+    "options": ["Mystique", "Rogue", "Shard", "Kitty Pryde", "Psylocke"],
+    "answer": "Rogue"
+  },
+  {
+    "question": "Professor Charles Xavier lost the use of his legs:",
+    "options": [
+      "In a car accident",
+      "While battling Magneto",
+      "While battling a tyrant named Lucifer in the Himalayas",
+      "In a Sentinel attack",
+      "In a training accident"
+    ],
+    "answer": "While battling a tyrant named Lucifer in the Himalayas"
+  },
+  {
+    "question": "Scarlet Witch first appearance was in X-Men number 4 in:",
+    "options": ["1960", "1962", "1964", "1966", "1968"],
+    "answer": "1964"
+  },
+  {
+    "question": "Who trained Storm in the ways of thievery as a child?",
+    "options": [
+      "Magneto",
+      "Apocalypse",
+      "Achmed El-Gibar",
+      "Mr. Sinister",
+      "Sebastian Shaw"
+    ],
+    "answer": "Achmed El-Gibar"
+  },
+  {
+    "question": "Who is considered by some to be the very first mutant?",
+    "options": [
+      "Magneto",
+      "Apocalypse",
+      "Mr. Sinister",
+      "Sebastian Shaw",
+      "Emma Frost"
+    ],
+    "answer": "Apocalypse"
+  },
+  {
+    "question": "Which member of the X-Men had previously worked for Mister Sinister?",
+    "options": ["Wolverine", "Cyclops", "Gambit", "Beast", "Iceman"],
+    "answer": "Gambit"
+  },
+  {
+    "question": "What was Mr. Sinister's occupation when he met Apocalypse?",
+    "options": ["Soldier", "Thief", "Geneticist", "Professor", "Explorer"],
+    "answer": "Geneticist"
+  },
+  {
+    "question": "Colossus is romantically involved with:",
+    "options": [
+      "Mystique",
+      "Rogue",
+      "Kitty Pryde",
+      "Lady Deathstrike",
+      "Polaris"
+    ],
+    "answer": "Kitty Pryde"
+  },
+  {
+    "question": "Which mutant is from the future?",
+    "options": ["Gambit", "Rogue", "Bishop", "Nightcrawler", "Storm"],
+    "answer": "Bishop"
+  },
+  {
+    "question": "Who formed the X-Men?",
+    "options": [
+      "Magneto",
+      "Apocalypse",
+      "Professor Charles Xavier",
+      "Mr. Sinister",
+      "Sebastian Shaw"
+    ],
+    "answer": "Professor Charles Xavier"
+  },
+  {
+    "question": "Before turning into the Living Monolith, Ahmet Abdol had been a:",
+    "options": [
+      "Soldier",
+      "Thief",
+      "Professor of Archeology",
+      "Explorer",
+      "Politician"
+    ],
+    "answer": "Professor of Archeology"
+  },
+  {
+    "question": "Sunfire is from:",
+    "options": ["America", "Canada", "Japan", "Australia", "Germany"],
+    "answer": "Japan"
+  },
+  {
+    "question": "What color are Nightcrawler's eyes?",
+    "options": ["Red", "Blue", "Yellow", "Green", "Brown"],
+    "answer": "Yellow"
+  },
+  {
+    "question": "What material is used in Cyclops's visor?",
+    "options": ["Adamantium", "Vibranium", "Ruby Quartz", "Steel", "Titanium"],
+    "answer": "Ruby Quartz"
+  },
+  {
+    "question": "When Jean was manipulated into working for the Hellfire Club, she was known as:",
+    "options": [
+      "The White Queen",
+      "The Dark Phoenix",
+      "The Goblin Queen",
+      "The Black Queen",
+      "The Enchantress"
+    ],
+    "answer": "The Black Queen"
+  },
+  {
+    "question": "Rogue is from:",
+    "options": ["New York", "California", "Mississippi", "Texas", "Florida"],
+    "answer": "Mississippi"
+  },
+  {
+    "question": "Scarlet Witch has a brother named:",
+    "options": ["Pietro", "Alex", "Mikhail", "Nathan", "Gabriel"],
+    "answer": "Pietro"
+  },
+  {
+    "question": "Who proposed the Mutant Registration Act?",
+    "options": [
+      "Professor X",
+      "Magneto",
+      "Senator Robert Kelly",
+      "Mr. Sinister",
+      "Sebastian Shaw"
+    ],
+    "answer": "Senator Robert Kelly"
+  },
+  {
+    "question": "What are the first names of Iceman's parents?",
+    "options": [
+      "John and Mary",
+      "Robert and Susan",
+      "William and Madeline",
+      "Richard and Martha",
+      "George and Jane"
+    ],
+    "answer": "William and Madeline"
+  }
+]

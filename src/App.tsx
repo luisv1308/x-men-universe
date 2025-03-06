@@ -10,6 +10,8 @@ import SeriesDetailsPage from "./pages/SeriesDetailsPage.tsx";
 import ComicsDetailsPage from "./pages/ComicsDetailsPage.tsx";
 import SingleSeriesPage from "./pages/SingleSeriesPage.tsx";
 import SingleComicsPage from "./pages/SingleComicsPage.tsx";
+import QuizStartScreen from "./components/quiz/QuizStartScreen.tsx";
+import QuizScreen from "./components/quiz/QuizScreen.tsx";
 
 const App: React.FC = () => {
   return (
@@ -24,7 +26,6 @@ const App: React.FC = () => {
             path="/battle"
             element={<PlaceholderPage title="Battle Simulator" />}
           />
-          <Route path="/quiz" element={<PlaceholderPage title="Quiz" />} />
           <Route
             path="/timeline"
             element={<PlaceholderPage title="Línea de Tiempo" />}
@@ -33,6 +34,9 @@ const App: React.FC = () => {
           <Route path="/character/:id/comics" element={<ComicsDetailsPage />} />
           <Route path="/series/:id" element={<SingleSeriesPage />} />
           <Route path="/comics/:id" element={<SingleComicsPage />} />
+          {/* Quiz routes */}
+          <Route path="/quiz" element={<QuizStartScreen />} />
+          <Route path="/quiz/game" element={<QuizScreen />} />
         </Routes>
       </Layout>
     </Router>

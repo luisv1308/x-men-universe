@@ -58,3 +58,27 @@ button:hover {
   padding: 20px;
   text-align: center;
 }
+
+.quiz-button {
+  background-color: #0033a0; /* Azul Cyclops */
+  color: #ffcc00;
+  border: 3px solid #ffcc00;
+  padding: 10px 20px;
+  font-size: 18px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.quiz-button:hover {
+  filter: brightness(1.2);
+}
+
+.quiz-button.correct {
+  background-color: #00ff00 !important;
+  border-color: #ffffff !important;
+}
+
+.quiz-button.wrong {
+  background-color: #ff0000 !important;
+  border-color: #000000 !important;
+}

@@ -1,2674 +1,2636 @@
-{
-  "questions": [
-    {
-      "question": "¿Con qué mutante malvado Rogue había estado involucrada románticamente?",
-      "options": ["Arcade", "Shadow King", "Pyro", "Magneto", "Avalanche"],
-      "answer": "Magneto"
-    },
-    {
-      "question": "La dirección de la Mansión X es:",
-      "options": [
-        "2112 Raven's Peak",
-        "1407 Graymalkin Lane",
-        "413 Xavier Ridge",
-        "1001 Whitestone Place",
-        "1515 Camelot Boulevard"
-      ],
-      "answer": "1407 Graymalkin Lane"
-    },
-    {
-      "question": "De estos personajes, ¿cuál fue el primer X-MAN:",
-      "options": ["Puck", "Beast", "Angel", "Banshee", "Cyclops"],
-      "answer": "Cyclops"
-    },
-    {
-      "question": "¿Quién no es miembro Hermandad?",
-      "options": ["Toad", "Mystique", "Gateway", "Blob", "Avalanche"],
-      "answer": "Gateway"
-    },
-    {
-      "question": "Nombra la máquina que Xavier usa para aumentar sus poderes psíquicos.",
-      "options": [
-        "Chronomancer",
-        "Astral Energizer",
-        "Fixx",
-        "The Oracle",
-        "Cerebro"
-      ],
-      "answer": "Cerebro"
-    },
-    {
-      "question": "¿Por qué Cyclops no puede controlar su explosión óptica?",
-      "options": [
-        "Traumatismo craneal sufrido de niño.",
-        "Debido a la acumulación de poder.",
-        "No recibió entrenamiento de niño.",
-        "Ingirió un veneno de adolescente.",
-        "El profesor Xavier aún no está seguro."
-      ],
-      "answer": "Traumatismo craneal sufrido de niño."
-    },
-    {
-      "question": "El padre de Gambit lo entrenó para ser un:",
-      "options": ["Ladrón", "Ninja", "Fontanero", "Boxeador", "Criptólogo"],
-      "answer": "Ladrón"
-    },
-    {
-      "question": "Nightcrawler es originario de:",
-      "options": ["Canadá", "España", "América", "Egipto", "Alemania"],
-      "answer": "Alemania"
-    },
-    {
-      "question": "Cuando Jean Grey se ve abrumada por sus poderes, se convierte en:",
-      "options": [
-        "El Fénix",
-        "La Reina Blanca",
-        "Dazzler",
-        "Mística",
-        "Cerebro"
-      ],
-      "answer": "El Fénix"
-    },
-    {
-      "question": "¿Quién es el hermano de Cíclope?",
-      "options": ["Quicksilver", "Havok", "Obispo", "Wolverine", "Gambito"],
-      "answer": "Havok"
-    },
-    {
-      "question": "¿Qué instalación dirige Moira MacTaggert?",
-      "options": [
-        "La instalación HAARP en Alaska",
-        "Área 51",
-        "Investigación de mutantes en la Isla Muir",
-        "Asteroide M",
-        "Una planta de fabricación de Centinelas en Alemania"
-      ],
-      "answer": "Investigación de mutantes en la Isla Muir"
-    },
-    {
-      "question": "¿Quién no es verdaderamente un mutante?",
-      "options": ["Ángel", "Juggernaut", "Magneto", "Marrow", "Jubilee"],
-      "answer": "Juggernaut"
-    },
-    {
-      "question": "Wolverine se vio obligado a matar al padre de la mujer que amaba. ¿Cuál era el nombre del padre?",
-      "options": ["Shingen", "Hiro Takachiho", "Shiro", "Gogo Tomago", "Karma"],
-      "answer": "Shingen"
-    },
-    {
-      "question": "¿El padre de Cíclope era el líder de qué grupo?",
-      "options": [
-        "Los Starjammers",
-        "Los Shi'Ar",
-        "La prole",
-        "El Club del Fuego Infernal",
-        "Departamento H"
-      ],
-      "answer": "Los Starjammers"
-    },
-    {
-      "question": "¿Quién desarrolló los Centinelas como un elemento disuasorio para los mutantes?",
-      "options": [
-        "Sebastian Shaw",
-        "Amahl Farouk",
-        "'Black' Tom Cassidy",
-        "James MacDonald Hudson",
-        "Bolivar Trask"
-      ],
-      "answer": "Bolivar Trask"
-    },
-    {
-      "question": "Los X-MEN originales fueron al Coffee A-Go-Go para escuchar a un beatnik conocido como:",
-      "options": [
-        "Bernard el Poeta",
-        "Calvin Rankin",
-        "Kurt Wagner",
-        "Mikhail Rasputin",
-        "Cameron Hodge"
-      ],
-      "answer": "Bernard el Poeta"
-    },
-    {
-      "question": "La base espacial de Magneto, Asteroide M, también ha sido mencionada como:",
-      "options": [
-        "Avalon",
-        "Camelot",
-        "Plan 9",
-        "The Inner Sanctum",
-        "Genosha"
-      ],
-      "answer": "Avalon"
-    },
-    {
-      "question": "¿Quién usa un casco para protegerse de los ataques psiónicos?",
-      "options": ["Multipleman", "Juggernaut", "Sprite", "Bishop", "Cable"],
-      "answer": "Juggernaut"
-    },
-    {
-      "question": "El metal unido a los huesos de Wolverine es:",
-      "options": [
-        "Acero al carbono",
-        "Una aleación de polihierro",
-        "Adamantium",
-        "Tungsteno",
-        "Desconocido"
-      ],
-      "answer": "Adamantium"
-    },
-    {
-      "question": "¿Cuál es el nombre en clave de Kitty Pryde?",
-      "options": ["Polaris", "Sprite", "Siryn", "Destiny", "Blink"],
-      "answer": "Sprite"
-    },
-    {
-      "question": "El verdadero nombre de Toad es:",
-      "options": [
-        "James Hudson",
-        "Mortimer Toynbee",
-        "Clive Schneebly",
-        "Wade Wilson",
-        "Victor Creed"
-      ],
-      "answer": "Mortimer Toynbee"
-    },
-    {
-      "question": "Además de ser una poderosa telépata, Emma Frost también puede:",
-      "options": [
-        "Generar campos de fuerza",
-        "Ver a través de objetos sólidos",
-        "Cambiar a una sustancia dura como el diamante",
-        "Viajar en el tiempo",
-        "Teletransportarse a grandes distancias"
-      ],
-      "answer": "Cambiar a sustancia dura como el diamante"
-    },
-    {
-      "question": "El hijo de Moira, Kevin MacTaggert, también era conocido como:",
-      "options": ["Enigma", "Proteus", "Varese", "Sauron", "Morrow"],
-      "answer": "Proteus"
-    },
-    {
-      "question": "Por un corto tiempo, Jean Grey fue miembro de:",
-      "options": [
-        "La Hermandad",
-        "El Club del Fuego Infernal",
-        "Los Morlocks",
-        "La Generación",
-        "Los Cuatro Jinetes"
-      ],
-      "answer": "El Club del Fuego Infernal"
-    },
-    {
-      "question": "¿Qué X-MAN es inmune al poder de Rogue?",
-      "options": ["Jean Grey", "Banshee", "Coloso", "Gambito", "Bestia"],
-      "answer": "Coloso"
-    },
-    {
-      "question": "El mayor miedo de Storm es:",
-      "options": [
-        "Agua",
-        "Alturas",
-        "Espacios cerrados",
-        "Muerte",
-        "Envejecimiento"
-      ],
-      "answer": "Espacios cerrados"
-    },
-    {
-      "question": "¿Quién en este grupo es un mutante?",
-      "options": [
-        "Senador Robert Kelly",
-        "Moira MacTaggert",
-        "Juggernaut",
-        "Bobby Drake",
-        "Bolivar Trask"
-      ],
-      "answer": "Bobby Drake"
-    },
-    {
-      "question": "¿Qué es el Protocolo Xavier?",
-      "options": [
-        "Archivos que enumeran las identidades secretas de todos los mutantes conocidos",
-        "Contraseñas para acceder a Cerebro",
-        "Escenarios ultrasecretos para la Sala de Peligro",
-        "El código de seguridad para destruir la Mansión X",
-        "Comandos para controlar todas las comunicaciones por satélite"
-      ],
-      "answer": "Archivos que enumeran las identidades secretas de todos los mutantes conocidos"
-    },
-    {
-      "question": "El profesor Xavier construyó Cerebro con la ayuda de:",
-      "options": [
-        "Magneto",
-        "Bestia",
-        "Forge",
-        "Wolverine",
-        "Moira MacTaggert"
-      ],
-      "answer": "Magneto"
-    },
-    {
-      "question": "¿Forge es miembro de qué tribu nativa americana?",
-      "options": ["Sioux", "Apache", "Cheyenne", "Hopi", "Navajo"],
-      "answer": "Cheyenne"
-    },
-    {
-      "question": "El cómic X-MEN #1 con los X-MEN y Magneto apareció en:",
-      "options": [
-        "Mayo de 1967",
-        "Julio de 1971",
-        "Enero de 1964",
-        "Noviembre de 1968",
-        "Septiembre de 1963"
-      ],
-      "answer": "Septiembre de 1963"
-    },
-    {
-      "question": "¿Quién es el siguiente en la fila para liderar a los X-MEN si Cíclope no puede?",
-      "options": ["Bestia", "Wolverine", "Storm", "Angel", "Jubilee"],
-      "answer": "Storm"
-    },
-    {
-      "question": "Psylocke es de:",
-      "options": ["Inglaterra", "Australia", "Alemania", "Rusia", "Japón"],
-      "answer": "Inglaterra"
-    },
-    {
-      "question": "¿Dónde vivió Jubilee durante un corto tiempo?",
-      "options": [
-        "Centro comercial de Hollywood",
-        "Biblioteca de Nueva York",
-        "Parque de atracciones en Texas",
-        "Edificio de oficinas abandonado en Chicago",
-        "Iglesia en Alemania"
-      ],
-      "answer": "Centro comercial de Hollywood"
-    },
-    {
-      "question": "Cyclops obtiene la energía para su explosión óptica de:",
-      "options": [
-        "Energía solar",
-        "Electricidad",
-        "Gravedad",
-        "Poder mental",
-        "Sus emociones"
-      ],
-      "answer": "Energía solar"
-    },
-    {
-      "question": "Cuando Shadow King conoció al Profesor Xavier, era conocido como:",
-      "options": [
-        "Garokk",
-        "Tom Cassidy",
-        "Kwannon",
-        "Amahl Farouk",
-        "Erik Lehnsherr"
-      ],
-      "answer": "Amahl Farouk"
-    },
-    {
-      "question": "Los Morlock tomaron su nombre de:",
-      "options": [
-        "Su primer líder",
-        "La raza subterránea en la novela de H.G. Wells 'La máquina del tiempo'",
-        "Una antigua diosa egipcia",
-        "Una tribu sudamericana",
-        "Un cartel del metro"
-      ],
-      "answer": "La raza subterránea en la novela de H.G. Wells 'La máquina del tiempo'"
-    },
-    {
-      "question": "El poder de Gambit es la capacidad de:",
-      "options": [
-        "Cargar objetos con energía cinética",
-        "Convertir su carne en metal",
-        "Controlar mentalmente a sus enemigos",
-        "Producir fuegos artificiales con sus manos",
-        "Absorber los poderes de otros mutantes"
-      ],
-      "answer": "Cargar objetos con energía cinética"
-    },
-    {
-      "question": "Jubilee es el compañero no oficial de qué X-MAN?",
-      "options": ["Bestia", "Ángel", "Nightcrawler", "Tormenta", "Wolverine"],
-      "answer": "Wolverine"
-    },
-    {
-      "question": "Contra su voluntad, la mente de Psylocke fue transferida al cuerpo de:",
-      "options": [
-        "Un ninja",
-        "Un androide",
-        "Un mutante de otra línea temporal",
-        "Un humano",
-        "Una entidad astral"
-      ],
-      "answer": "Un ninja"
-    },
-    {
-      "question": "Juggernaut recibió sus fantásticos poderes de:",
-      "options": [
-        "Una gema de Cyttorak",
-        "El hechicero Beroge",
-        "Una antigua maldición escocesa",
-        "La sacerdotisa africana conocida como N'Dare",
-        "Entrar en una cámara secreta en una pirámide en sudamerica"
-      ],
-      "answer": "Una joya de Cyttorak"
-    },
-    {
-      "question": "Un apodo para Cyclops es:",
-      "options": ["Red", "Slim", "Bub", "Sunshine", "Commander Chaos"],
-      "answer": "Slim"
-    },
-    {
-      "question": "Sabretooth y Wolverine trabajaron juntos haciendo operaciones encubiertas para:",
-      "options": [
-        "The Shi'ar",
-        "Ahmet Abdol",
-        "La CIA y Weapon X",
-        "Interpol",
-        "Alpha Flight"
-      ],
-      "answer": "La CIA y Weapon X"
-    },
-    {
-      "question": "Kitty Pryde tiene un dragón mascota llamado:",
-      "options": ["Puff", "Lockheed", "Mirage", "Zeke", "Plume"],
-      "answer": "Lockheed"
-    },
-    {
-      "question": "Un nombre por el que se conoce a Mystique es:",
-      "options": [
-        "Raven Darkholme",
-        "Jasmine Post",
-        "Guyrich",
-        "Carol Hines",
-        "Siryn"
-      ],
-      "answer": "Raven Darkholme"
-    },
-    {
-      "question": "Uno de los pasatiempos favoritos de Storm es:",
-      "options": ["Pintar", "Nadar", "Tiro con arco", "Escribir", "Jardinería"],
-      "answer": "Jardinería"
-    },
-    {
-      "question": "Además de Wolverine, ¿quién ha sido un experimento del programa Arma X?",
-      "options": ["Pyro", "Forge", "Sabretooth", "Psylocke", "Nightcrawler"],
-      "answer": "Sabretooth"
-    },
-    {
-      "question": "¿Cuándo se transformó Coloso por primera vez en su forma de metal?",
-      "options": [
-        "Salvar a la gente de un edificio en llamas",
-        "Detener un tractor descontrolado",
-        "Ser atacado por aldeanos asustados",
-        "Protegiendo a su hermano de un ladrón",
-        "Cuando fue alcanzado por un rayo"
-      ],
-      "answer": "Deteniendo un tractor desbocado"
-    },
-    {
-      "question": "Los primeros cinco miembros de los X-MEN fueron:",
-      "options": [
-        "Wolverine, Jean Grey, Cyclops, Psylocke y Jubilee",
-        "Iceman, Jean Grey, Beast, Banshee y Cyclops",
-        "Cyclops, Iceman, Angel, Beast y Jean Grey",
-        "Nightcrawler, Jubilee, Wolverine, Avalanche y Emma Frost",
-        "Jean Grey, Rogue, Cyclops, Psylocke y Beast"
-      ],
-      "answer": "Cyclops, Iceman, Angel, Beast y Jean Grey"
-    },
-    {
-      "question": "¿Cuándo se activan normalmente por primera vez los poderes de un mutante?",
-      "options": [
-        "Durante la adolescencia",
-        "Primer encuentro con otro mutante",
-        "Cuando es escaneado por Cerebo",
-        "Un eclipse",
-        "Solsticio de verano"
-      ],
-      "answer": "Durante la adolescencia"
-    },
-    {
-      "question": "¿Cuál es el archienemigo de Dientes de Sable?",
-      "options": ["Magneto", "Cíclope", "Wolverine", "Profesor X", "Gambito"],
-      "answer": "Wolverine"
-    },
-    {
-      "question": "En el videojuego X-Men: Legends, ¿de quién estaba enamorado Hombre de Hielo?",
-      "options": [
-        "Jean Grey",
-        "Tormenta",
-        "Alison Crestmere",
-        "Pícara",
-        "Kitty Pryde"
-      ],
-      "answer": "Alison Crestmere"
-    },
-    {
-      "question": "¿En qué número de X-Men apareció Juggernaut por primera vez?",
-      "options": ["10", "12", "15", "20", "8"],
-      "answer": "12"
-    },
-    {
-      "question": "De joven, Gambito se casó con una asesina llamada:",
-      "options": [
-        "Mística",
-        "Pícara",
-        "Bella Donna Boudreaux",
-        "Lady Deathstrike",
-        "Polaris"
-      ],
-      "answer": "Bella Donna Boudreaux"
-    },
-    {
-      "question": "¿Cuál es el nombre clave mutante de Victor Creed?",
-      "options": ["Wolverine", "Juggernaut", "Dientes de Sable", "Blob", "Pyro"],
-      "answer": "Dientes de Sable"
-    },
-    {
-      "question": "¿Con quién ha estado Forge relacionado sentimentalmente?",
-      "options": ["Jean Grey", "Pícara", "Tormenta", "Mística", "Polaris"],
-      "answer": "Tormenta"
-    },
-    {
-      "question": "Mientras crecía en un orfanato, Cíclope era acosado por un chico llamado Nathan, quien en realidad era:",
-      "options": [
-        "Magneto",
-        "Apocalipsis",
-        "Mr. Siniestro",
-        "Dientes de Sable",
-        "Juggernaut"
-      ],
-      "answer": "Mr. Siniestro"
-    },
-    {
-      "question": "¿Qué es cierto sobre Coloso en su forma blindada?",
-      "options": [
-        "Se vuelve más débil",
-        "No puede moverse",
-        "Incluso sus globos oculares se vuelven como acero.",
-        "Pierde su habilidad mutante",
-        "Se vuelve invisible"
-      ],
-      "answer": "Incluso sus globos oculares se vuelven como acero."
-    },
-    {
-      "question": "¿Por qué nació Bestia como mutante?",
-      "options": [
-        "Fue mordido por una araña radioactiva",
-        "Fue expuesto a rayos cósmicos",
-        "Su padre fue expuesto a una gran cantidad de radiación",
-        "Nació en el Asteroide M",
-        "Fue un sujeto de prueba para Arma X"
-      ],
-      "answer": "Su padre fue expuesto a una gran cantidad de radiación"
-    },
-    {
-      "question": "¿Cuál es el nombre real de Apocalipsis?",
-      "options": [
-        "Victor Creed",
-        "Erik Lehnsherr",
-        "En Sabah Nur",
-        "Nathan Essex",
-        "Remy LeBeau"
-      ],
-      "answer": "En Sabah Nur"
-    },
-    {
-      "question": "Antes de unirse a los X-Men, Ángel era un luchador contra el crimen que trabajaba bajo el nombre de:",
-      "options": [
-        "El Protector",
-        "Águila Nocturna",
-        "Ángel Vengador",
-        "Caballero del Cielo",
-        "El Guardián"
-      ],
-      "answer": "Ángel Vengador"
-    },
-    {
-      "question": "¿Qué puede hacer Abyss?",
-      "options": [
-        "Volar",
-        "Controlar el clima",
-        "Arrastrar enemigos a una cavidad interdimensional en su pecho",
-        "Teletransportarse",
-        "Manipular metal"
-      ],
-      "answer": "Arrastrar enemigos a una cavidad interdimensional en su pecho"
-    },
-    {
-      "question": "¿Cuál es el nombre real de Blink?",
-      "options": [
-        "Raven Darkholme",
-        "Clarice Ferguson",
-        "Lorna Dane",
-        "Yuriko Oyama",
-        "Jean Grey"
-      ],
-      "answer": "Clarice Ferguson"
-    },
-    {
-      "question": "¿Cuál es el nombre clave de Lorna Dane en los X-Men?",
-      "options": ["Mística", "Polaris", "Lady Deathstrike", "Blink", "Pícara"],
-      "answer": "Polaris"
-    },
-    {
-      "question": "¿De dónde es originario Blob?",
-      "options": [
-        "Nueva York",
-        "Genosha",
-        "Lubbock, Texas",
-        "Dunfee, Illinois",
-        "Asteroide M"
-      ],
-      "answer": "Lubbock, Texas"
-    },
-    {
-      "question": "¿Para qué equipo trabajó Grizzly?",
-      "options": [
-        "La Hermandad",
-        "El Club Fuego Infernal",
-        "Six Pack",
-        "Los Reavers",
-        "Los Exiliados"
-      ],
-      "answer": "Six Pack"
-    },
-    {
-      "question": "¿Por qué Lady Deathstrike odia a Wolverine?",
-      "options": [
-        "Él mató a su padre",
-        "Ella cree que él robó el trabajo de su padre en adamantium.",
-        "Él destruyó su laboratorio",
-        "Él la derrotó en combate",
-        "Él es aliado de Magneto"
-      ],
-      "answer": "Ella cree que él robó el trabajo de su padre en adamantium."
-    },
-    {
-      "question": "¿Cuál es el poder mutante de Quicksilver?",
-      "options": [
-        "Telepatía",
-        "Super fuerza",
-        "Super velocidad",
-        "Vuelo",
-        "Teletransportación"
-      ],
-      "answer": "Super velocidad"
-    },
-    {
-      "question": "¿Cuál es el poder mutante de Polaris?",
-      "options": [
-        "Telequinesis",
-        "Manipulación del clima",
-        "Manipulación magnética",
-        "Cambio de forma",
-        "Absorción de energía"
-      ],
-      "answer": "Manipulación magnética"
-    },
-    {
-      "question": "¿Quién es el protector de Blink?",
-      "options": [
-        "Wolverine",
-        "Cíclope",
-        "Dientes de Sable",
-        "Bestia",
-        "Hombre de Hielo"
-      ],
-      "answer": "Dientes de Sable"
-    },
-    {
-      "question": "¿Qué X-Men salvó a Polaris de Mesmero?",
-      "options": ["Wolverine", "Cíclope", "Hombre de Hielo", "Bestia", "Ángel"],
-      "answer": "Hombre de Hielo"
-    },
-    {
-      "question": "Antes de unirse a la Hermandad, Blob trabajaba en:",
-      "options": [
-        "Una fábrica",
-        "Un banco",
-        "Un circo ambulante",
-        "Un laboratorio",
-        "Una escuela"
-      ],
-      "answer": "Un circo ambulante"
-    },
-    {
-      "question": "¿De qué color es el cabello de Polaris?",
-      "options": ["Rojo", "Azul", "Verde", "Negro", "Rubio"],
-      "answer": "Verde"
-    },
-    {
-      "question": "¿Quién crió a Quicksilver y a su hermana?",
-      "options": [
-        "Científicos",
-        "El gobierno",
-        "Gitanos",
-        "Alienígenas",
-        "Robots"
-      ],
-      "answer": "Gitanos"
-    },
-    {
-      "question": "¿A qué proyecto secreto pertenecieron tanto Wolverine como Sabretooth?",
-      "options": [
-        "Proyecto Nimrod",
-        "Proyecto Alerta Máxima",
-        "Arma X",
-        "Proyecto Pegaso",
-        "Proyecto Cadmo"
-      ],
-      "answer": "Arma X"
-    },
-    {
-      "question": "Cable, Domino, Grizzly, Puente George Washington, Hammer y Kane juntos forman ¿qué grupo?",
-      "options": [
-        "La Hermandad",
-        "El Club Fuego Infernal",
-        "Six Pack",
-        "Los Reavers",
-        "Los Exiliados"
-      ],
-      "answer": "Six Pack"
-    },
-    {
-      "question": "¿Blink es capaz de teletransportarse:",
-      "options": [
-        "Solo distancias cortas",
-        "Tan lejos como la luna.",
-        "Solo dentro de la misma habitación",
-        "Solo a lugares que ha visto antes",
-        "Solo en emergencias"
-      ],
-      "answer": "Tan lejos como la luna."
-    },
-    {
-      "question": "¿Zealot es el enemigo acérrimo de:",
-      "options": [
-        "Professor X",
-        "Wolverine",
-        "Magneto",
-        "Apocalipsis",
-        "Sabretooth"
-      ],
-      "answer": "Magneto"
-    },
-    {
-      "question": "¿Cuál es el nombre real de Quicksilver?",
-      "options": [
-        "Victor Creed",
-        "Erik Lehnsherr",
-        "Pietro Maximoff",
-        "Nathan Essex",
-        "Remy LeBeau"
-      ],
-      "answer": "Pietro Maximoff"
-    },
-    {
-      "question": "¿Sabretooth hizo su debut en qué cómic de Marvel?",
-      "options": [
-        "X-Men",
-        "El Increíble Hulk",
-        "Puño de Hierro",
-        "Spider-Man",
-        "Wolverine"
-      ],
-      "answer": "Puño de Hierro"
-    },
-    {
-      "question": "¿Los poderes psíquicos de Jean despertaron cuando:",
-      "options": [
-        "Fue atacada por un Centinela",
-        "Fue expuesta a radiación",
-        "Su amiga fue atropellada por un coche.",
-        "Fue secuestrada por alienígenas",
-        "Nació"
-      ],
-      "answer": "Su amiga fue atropellada por un coche."
-    },
-    {
-      "question": "¿Juggernaut se asocia frecuentemente con cuál de los siguientes mutantes?",
-      "options": ["Magneto", "Sabretooth", "Black Tom Cassidy", "Blob", "Pyro"],
-      "answer": "Black Tom Cassidy"
-    },
-    {
-      "question": "¿Con quién tuvo Sabretooth un hijo?",
-      "options": ["Mystique", "Rogue", "Lady Deathstrike", "Polaris", "Storm"],
-      "answer": "Mystique"
-    },
-    {
-      "question": "¿Cuál es el nombre real de Lady Deathstrike?",
-      "options": [
-        "Raven Darkholme",
-        "Clarice Ferguson",
-        "Lorna Dane",
-        "Yuriko Oyama",
-        "Jean Grey"
-      ],
-      "answer": "Yuriko Oyama"
-    },
-    {
-      "question": "¿Quiénes son los hijos de Magneto?",
-      "options": [
-        "Wolverine y Sabretooth",
-        "Cyclops y Havok",
-        "Scarlet Witch y Quicksilver",
-        "Rogue y Gambit",
-        "Beast y Angel"
-      ],
-      "answer": "Scarlet Witch y Quicksilver"
-    },
-    {
-      "question": "¿En qué cómic de un héroe de Marvel apareció Mystique por primera vez en 1978?",
-      "options": [
-        "X-Men",
-        "Los Vengadores",
-        "Ms. Marvel",
-        "Spider-Man",
-        "Iron Man"
-      ],
-      "answer": "Ms. Marvel"
-    },
-    {
-      "question": "El padre de Lady Deathstrike desarrolló un proceso para:",
-      "options": [
-        "Crear Centinelas",
-        "Controlar mutantes",
-        "Unir Adamantium al hueso",
-        "Teletransportarse",
-        "Manipular el clima"
-      ],
-      "answer": "Unir Adamantium al hueso"
-    },
-    {
-      "question": "Abyss trabaja para:",
-      "options": [
-        "Magneto",
-        "Professor X",
-        "Apocalypse",
-        "Sabretooth",
-        "Juggernaut"
-      ],
-      "answer": "Apocalypse"
-    },
-    {
-      "question": "¿Dónde está ubicada Genosha?",
-      "options": [
-        "El Océano Atlántico",
-        "El Océano Pacífico",
-        "El Océano Índico",
-        "El Océano Ártico",
-        "El Mar Mediterráneo"
-      ],
-      "answer": "El Océano Índico"
-    },
-    {
-      "question": "¿A qué universidad asistió el Professor Xavier?",
-      "options": ["Harvard", "Oxford", "Cambridge", "Yale", "Princeton"],
-      "answer": "Oxford"
-    },
-    {
-      "question": "En promedio, si Rogue toca a un mutante durante un minuto, ¿cuánto tiempo retiene los poderes de ese mutante?",
-      "options": [
-        "10 minutos",
-        "30 minutos",
-        "60 minutos",
-        "2 horas",
-        "Indefinidamente"
-      ],
-      "answer": "60 minutos"
-    },
-    {
-      "question": "¿Cuál de estos mutantes no puede volar?",
-      "options": ["Angel", "Storm", "Wolverine", "Jean Grey", "Iceman"],
-      "answer": "Wolverine"
-    },
-    {
-      "question": "¿A qué equipo de mutantes viajeros en el tiempo pertenece Blink?",
-      "options": [
-        "X-Force",
-        "New Mutants",
-        "Exiles",
-        "Alpha Flight",
-        "The Brotherhood"
-      ],
-      "answer": "Exiles"
-    },
-    {
-      "question": "¿Quién aquí no es un mutante?",
-      "options": ["Nightcrawler", "Juggernaut", "Storm", "Iceman", "Beast"],
-      "answer": "Juggernaut"
-    },
-    {
-      "question": "¿A qué grupo de criminales se unió Lady Deathstrike después de que su intento de matar a Wolverine fracasó?",
-      "options": [
-        "The Brotherhood",
-        "The Hellfire Club",
-        "The Reavers",
-        "The Exiles",
-        "The Marauders"
-      ],
-      "answer": "The Reavers"
-    },
-    {
-      "question": "¿Blob es capaz de generar:",
-      "options": [
-        "Campos de fuerza",
-        "Una fuerza gravitacional que lo hace inamovible",
-        "Portales de teletransportación",
-        "Ráfagas de energía",
-        "Ilusiones"
-      ],
-      "answer": "Una fuerza gravitacional que lo hace inamovible"
-    },
-    {
-      "question": "¿Con qué X-Man tuvo Polaris una relación?",
-      "options": ["Wolverine", "Cyclops", "Havok", "Iceman", "Beast"],
-      "answer": "Havok"
-    },
-    {
-      "question": "Forge fue contratado por el gobierno de EE.UU. para desarrollar una forma de detectar una raza alienígena conocida como:",
-      "options": [
-        "The Shi'ar",
-        "The Kree",
-        "The Skrulls",
-        "The Dire Wraiths",
-        "The Brood"
-      ],
-      "answer": "The Dire Wraiths"
-    },
-    {
-      "question": "¿Quién es el hijo de Sabretooth?",
-      "options": [
-        "Wolverine",
-        "Graydon Creed",
-        "Quicksilver",
-        "Juggernaut",
-        "Gambit"
-      ],
-      "answer": "Graydon Creed"
-    },
-    {
-      "question": "¿Dónde nació Beast?",
-      "options": [
-        "Ciudad de Nueva York",
-        "Genosha",
-        "Lubbock, Texas",
-        "Dunfee, Illinois",
-        "Asteroide M"
-      ],
-      "answer": "Dunfee, Illinois"
-    },
-    {
-      "question": "¿Angel es:",
-      "options": [
-        "Pobre",
-        "Clase media",
-        "Extremadamente rico",
-        "De recursos promedio",
-        "Un ex criminal"
-      ],
-      "answer": "Extremadamente rico"
-    },
-    {
-      "question": "¿Wolverine hizo su debut en 1974 en qué serie de cómics?",
-      "options": [
-        "X-Men",
-        "Spider-Man",
-        "The Avengers",
-        "Incredible Hulk",
-        "Fantastic Four"
-      ],
-      "answer": "Incredible Hulk"
-    },
-    {
-      "question": "En el videojuego X-Men Legends, ¿cuál era el nombre de la base que Magneto tenía en órbita alrededor de la Tierra?",
-      "options": [
-        "Asteroide X",
-        "Asteroide Z",
-        "Asteroide M",
-        "Avalon",
-        "Genosha"
-      ],
-      "answer": "Asteroide M"
-    },
-    {
-      "question": "¿Cuál de los siguientes X-Men fue en un momento el jinete Muerte de Apocalypse?",
-      "options": ["Cyclops", "Storm", "Wolverine", "Colossus", "Iceman"],
-      "answer": "Wolverine"
-    },
-    {
-      "question": "¿A qué equipo de supervillanos pertenecía Destiny?",
-      "options": [
-        "The Hellfire Club",
-        "The Reavers",
-        "The Marauders",
-        "The Brotherhood of Evil Mutants",
-        "The Serpent Society"
-      ],
-      "answer": "The Brotherhood of Evil Mutants"
-    },
-    {
-      "question": "¿Garokk era originalmente:",
-      "options": [
-        "Un mutante",
-        "Un científico",
-        "Un marinero británico",
-        "Un soldado",
-        "Un rey"
-      ],
-      "answer": "Un marinero británico"
-    },
-    {
-      "question": "En el videojuego X-Men Legends, ¿quién fue el primer personaje jugable al principio en la ciudad de Nueva York?",
-      "options": ["Cyclops", "Iceman", "Wolverine", "Storm", "Jean Grey"],
-      "answer": "Wolverine"
-    },
-    {
-      "question": "¿Cuántos dedos tiene Nightcrawler en cada mano?",
-      "options": ["Cuatro", "Cinco", "Tres", "Dos", "Seis"],
-      "answer": "Tres"
-    },
-    {
-      "question": "¿Quién es la esposa de Ka-Zar?",
-      "options": [
-        "Mystique",
-        "Rogue",
-        "Shanna O'Hara",
-        "Lady Deathstrike",
-        "Polaris"
-      ],
-      "answer": "Shanna O'Hara"
-    },
-    {
-      "question": "¿A qué persona no está conectada Mystique?",
-      "options": [
-        "Destiny",
-        "Rogue",
-        "Nightcrawler",
-        "Mikhail Rasputin",
-        "Sabretooth"
-      ],
-      "answer": "Mikhail Rasputin"
-    },
-    {
-      "question": "¿Qué X-Man estuvo involucrado románticamente con Magneto?",
-      "options": ["Jean Grey", "Storm", "Rogue", "Kitty Pryde", "Psylocke"],
-      "answer": "Rogue"
-    },
-    {
-      "question": "¿Joseph es un clon de qué mutante?",
-      "options": [
-        "Professor X",
-        "Apocalypse",
-        "Magneto",
-        "Sabretooth",
-        "Juggernaut"
-      ],
-      "answer": "Magneto"
-    },
-    {
-      "question": "¿Cuál es el nombre real de Iceman?",
-      "options": [
-        "Bobby Drake",
-        "Scott Summers",
-        "Hank McCoy",
-        "Warren Worthington III",
-        "Piotr Rasputin"
-      ],
-      "answer": "Bobby Drake"
-    },
-    {
-      "question": "¿Quién no es miembro de la Hermandad?",
-      "options": ["Toad", "Blob", "Mystique", "Lupa", "Pyro"],
-      "answer": "Lupa"
-    },
-    {
-      "question": "De niño, el héroe de Nightcrawler era:",
-      "options": [
-        "Buster Keaton",
-        "Charlie Chaplin",
-        "Errol Flynn",
-        "Harold Lloyd",
-        "Cary Grant"
-      ],
-      "answer": "Errol Flynn"
-    },
-    {
-      "question": "¿Quién sirvió junto a Cable en su grupo mercenario, Six Pack?",
-      "options": ["Mystique", "Rogue", "Domino", "Lady Deathstrike", "Polaris"],
-      "answer": "Domino"
-    },
-    {
-      "question": "¿Cuál es el poder mutante de Bishop?",
-      "options": [
-        "Telepatía",
-        "Telequinesis",
-        "Absorber energía y reencauzarla",
-        "Cambio de forma",
-        "Manipulación del clima"
-      ],
-      "answer": "Absorber energía y reencauzarla"
-    },
-    {
-      "question": "¿Qué buscaba el padre de Ka-Zar cuando llegó a la Tierra Salvaje?",
-      "options": ["Vibranium", "Adamantium", "Antimetal", "Uru", "Mysterium"],
-      "answer": "Antimetal"
-    },
-    {
-      "question": "¿Cuáles son los poderes de Forge?",
-      "options": [
-        "Telepatía",
-        "Telequinesis",
-        "Inventar nueva tecnología y poderes místicos",
-        "Cambio de forma",
-        "Manipulación del clima"
-      ],
-      "answer": "Inventar nueva tecnología y poderes místicos"
-    },
-    {
-      "question": "¿Cuál era el nombre original de Ka-Zar?",
-      "options": [
-        "Kevin Plunder",
-        "Victor Creed",
-        "Erik Lehnsherr",
-        "Nathan Essex",
-        "Remy LeBeau"
-      ],
-      "answer": "Kevin Plunder"
-    },
-    {
-      "question": "El hermano de Colossus, Mikhail, apareció por primera vez en el número de Uncanny X-Men:",
-      "options": ["280", "285", "290", "295", "300"],
-      "answer": "285"
-    },
-    {
-      "question": "¿Qué villano malvado también es conocido como Cain Marko?",
-      "options": ["Magneto", "Apocalypse", "Juggernaut", "Sabretooth", "Blob"],
-      "answer": "Juggernaut"
-    },
-    {
-      "question": "¿Heather Cameron es conocida como qué X-Man?",
-      "options": ["Rogue", "Storm", "Lifeguard", "Kitty Pryde", "Psylocke"],
-      "answer": "Lifeguard"
-    },
-    {
-      "question": "Magneto apareció por primera vez en el número de X-Men de 1963:",
-      "options": ["1", "5", "10", "15", "20"],
-      "answer": "1"
-    },
-    {
-      "question": "¿Qué nombre usa Magneto?",
-      "options": [
-        "Victor Creed",
-        "Erik Lehnsherr",
-        "Nathan Essex",
-        "Remy LeBeau",
-        "Cain Marko"
-      ],
-      "answer": "Erik Lehnsherr"
-    },
-    {
-      "question": "¿Mikhail es el hermano de:",
-      "options": ["Wolverine", "Cyclops", "Colossus", "Iceman", "Beast"],
-      "answer": "Colossus"
-    },
-    {
-      "question": "¿Colossus descubrió por primera vez que podía convertirse en metal cuando:",
-      "options": [
-        "Fue atacado por un Centinela",
-        "Salvó a su hermana de un tractor descontrolado.",
-        "Fue expuesto a radiación",
-        "Nació",
-        "Fue entrenado por Magneto"
-      ],
-      "answer": "Salvó a su hermana de un tractor descontrolado."
-    },
-    {
-      "question": "En el videojuego X-Men: Legends, ¿cuál era el nombre clave de la joven que los X-Men salvaron en la ciudad de Nueva York de Blob y Mystique?",
-      "options": ["Rogue", "Storm", "Magma", "Kitty Pryde", "Psylocke"],
-      "answer": "Magma"
-    },
-    {
-      "question": "¿Bishop es un viajero en el tiempo de qué siglo?",
-      "options": ["20", "21", "22", "23", "24"],
-      "answer": "21"
-    },
-    {
-      "question": "¿Cuál es el nombre real de Omega Red?",
-      "options": [
-        "Victor Creed",
-        "Erik Lehnsherr",
-        "Arkady Gregorovich",
-        "Nathan Essex",
-        "Remy LeBeau"
-      ],
-      "answer": "Arkady Gregorovich"
-    },
-    {
-      "question": "¿Nightcrawler fue una vez el líder de cuál de los siguientes grupos?",
-      "options": [
-        "La Hermandad",
-        "El Club Fuego Infernal",
-        "Excalibur",
-        "Los Reavers",
-        "Los Marauders"
-      ],
-      "answer": "Excalibur"
-    },
-    {
-      "question": "¿Cuál es el nombre real de Pyro?",
-      "options": [
-        "John Allerdyce",
-        "Victor Creed",
-        "Erik Lehnsherr",
-        "Nathan Essex",
-        "Remy LeBeau"
-      ],
-      "answer": "St. John Allerdyce"
-    },
-    {
-      "question": "¿Aproximadamente cuántos años tiene Apocalypse?",
-      "options": [
-        "1000 años",
-        "2000 años",
-        "3000 años",
-        "4000 años",
-        "5000 años"
-      ],
-      "answer": "5000 años"
-    },
-    {
-      "question": "¿Cuál es el nombre real de Sauron?",
-      "options": [
-        "Victor Creed",
-        "Erik Lehnsherr",
-        "Karl Lykos",
-        "Nathan Essex",
-        "Remy LeBeau"
-      ],
-      "answer": "Karl Lykos"
-    },
-    {
-      "question": "Shanna en un momento:",
-      "options": [
-        "Fue una reina",
-        "Trabajó en un zoológico en la ciudad de Nueva York",
-        "Fue una pirata",
-        "Fue una científica",
-        "Fue una política"
-      ],
-      "answer": "Trabajó en un zoológico en la ciudad de Nueva York"
-    },
-    {
-      "question": "Muerte, Guerra, Pestilencia y Hambre juntos forman ¿qué grupo?",
-      "options": [
-        "La Hermandad",
-        "El Club Fuego Infernal",
-        "Los Cuatro Jinetes",
-        "Los Reavers",
-        "Los Marauders"
-      ],
-      "answer": "Los Cuatro Jinetes"
-    },
-    {
-      "question": "¿Cuál es la habilidad mutante de Pyro?",
-      "options": [
-        "Telepatía",
-        "Telequinesis",
-        "Puede controlar el fuego.",
-        "Cambio de forma",
-        "Manipulación del clima"
-      ],
-      "answer": "Puede controlar el fuego."
-    },
-    {
-      "question": "¿Cuál es el nombre real de Sunfire?",
-      "options": [
-        "Victor Creed",
-        "Erik Lehnsherr",
-        "Shiro Yoshida",
-        "Nathan Essex",
-        "Remy LeBeau"
-      ],
-      "answer": "Shiro Yoshida"
-    },
-    {
-      "question": "El nombre clave de Ororo Munroe en los X-Men es:",
-      "options": ["Mystique", "Rogue", "Storm", "Kitty Pryde", "Psylocke"],
-      "answer": "Storm"
-    },
-    {
-      "question": "¿Las bobinas del brazo de Omega Red están hechas de qué material?",
-      "options": ["Adamantium", "Vibranium", "Carbonadium", "Uru", "Mysterium"],
-      "answer": "Carbonadium"
-    },
-    {
-      "question": "Toad apareció por primera vez en:",
-      "options": [
-        "X-Men número 1",
-        "X-Men número 2",
-        "X-Men número 3",
-        "X-Men número 4",
-        "X-Men número 5"
-      ],
-      "answer": "X-Men número 4"
-    },
-    {
-      "question": "¿Dónde está ubicada la Tierra Salvaje?",
-      "options": ["África", "Sudamérica", "Asia", "Antártida", "Australia"],
-      "answer": "Antártida"
-    },
-    {
-      "question": "¿Quién es la mejor amiga de Mystique?",
-      "options": ["Rogue", "Storm", "Destiny", "Kitty Pryde", "Psylocke"],
-      "answer": "Destiny"
-    },
-    {
-      "question": "La Tierra Salvaje está protegida de las temperaturas de congelación por:",
-      "options": [
-        "Magia",
-        "Tecnología alienígena",
-        "Poderes mutantes",
-        "Actividad volcánica",
-        "Un campo de fuerza"
-      ],
-      "answer": "Tecnología alienígena"
-    },
-    {
-      "question": "Mikhail Rasputin ha sido:",
-      "options": [
-        "Un rey",
-        "Un científico",
-        "Un cosmonauta ruso",
-        "Un pirata",
-        "Un político"
-      ],
-      "answer": "Un cosmonauta ruso"
-    },
-    {
-      "question": "Nightcrawler creció trabajando en un circo como:",
-      "options": [
-        "Un payaso",
-        "Un maestro de ceremonias",
-        "Un acróbata",
-        "Un mago",
-        "Un forzudo"
-      ],
-      "answer": "Un acróbata"
-    },
-    {
-      "question": "¿Qué animal protegió a Ka-Zar mientras crecía en la Tierra Salvaje?",
-      "options": [
-        "Un león",
-        "Un oso",
-        "Un tigre dientes de sable",
-        "Un lobo",
-        "Un gorila"
-      ],
-      "answer": "Un tigre dientes de sable"
-    },
-    {
-      "question": "¿Cómo era conocida Shanna en la Tierra Salvaje?",
-      "options": [
-        "Shanna la Reina",
-        "Shanna la Guerrera",
-        "Shanna la Diablesa",
-        "Shanna la Cazadora",
-        "Shanna la Hechicera"
-      ],
-      "answer": "Shanna la Diablesa"
-    },
-    {
-      "question": "¿Garokk naufragó en la Tierra Salvaje en qué período de tiempo?",
-      "options": ["1200s", "1300s", "1400s", "1500s", "1600s"],
-      "answer": "1400s"
-    },
-    {
-      "question": "¿Bishop tiene una hermana llamada?",
-      "options": ["Mystique", "Rogue", "Shard", "Kitty Pryde", "Psylocke"],
-      "answer": "Shard"
-    },
-    {
-      "question": "¿Cuál era el nombre clave de la hermana de Sunfire?",
-      "options": ["Sunstorm", "Sunray", "Sunpyre", "Solaris", "Sunspot"],
-      "answer": "Sunpyre"
-    },
-    {
-      "question": "Wolverine terminó matando al padre de esta mujer que amaba:",
-      "options": [
-        "Jean Grey",
-        "Storm",
-        "Mariko Yashido",
-        "Silver Fox",
-        "Rose O'Hara"
-      ],
-      "answer": "Mariko Yashido"
-    },
-    {
-      "question": "¿Qué líder del Club Fuego Infernal apareció por primera vez en X-Men número 129 en 1980?",
-      "options": [
-        "Emma Frost",
-        "Magneto",
-        "Sebastian Shaw",
-        "Mr. Sinister",
-        "Apocalypse"
-      ],
-      "answer": "Sebastian Shaw"
-    },
-    {
-      "question": "¿Storm fue una vez la líder de cuál de los siguientes grupos?",
-      "options": [
-        "La Hermandad",
-        "El Club Fuego Infernal",
-        "Los Morlocks",
-        "Los Reavers",
-        "Los Marauders"
-      ],
-      "answer": "Los Morlocks"
-    },
-    {
-      "question": "¿Cuál es el nombre clave de Heather Hudson en Alpha Flight?",
-      "options": ["Guardian", "Sasquatch", "Vindicator", "Shaman", "Puck"],
-      "answer": "Vindicator"
-    },
-    {
-      "question": "¿Quién supervisó el programa Arma X durante la transformación de Wolverine?",
-      "options": [
-        "Magneto",
-        "Apocalypse",
-        "The Professor",
-        "Mr. Sinister",
-        "Bolivar Trask"
-      ],
-      "answer": "The Professor"
-    },
-    {
-      "question": "¿Quién no es miembro de Alpha Flight?",
-      "options": ["Guardian", "Sasquatch", "Puck", "Prism", "Shaman"],
-      "answer": "Prism"
-    },
-    {
-      "question": "El padre de Cyclops es el capitán de una nave espacial llamada:",
-      "options": [
-        "The Blackbird",
-        "The Quinjet",
-        "The Starjammer",
-        "The Milano",
-        "The Helicarrier"
-      ],
-      "answer": "The Starjammer"
-    },
-    {
-      "question": "¿Qué super equipo estaba originalmente destinado a liderar Wolverine?",
-      "options": [
-        "The Avengers",
-        "The Defenders",
-        "Alpha Flight",
-        "The X-Men",
-        "The Fantastic Four"
-      ],
-      "answer": "Alpha Flight"
-    },
-    {
-      "question": "¿Quién es el líder del equipo conocido como los Hellions?",
-      "options": [
-        "Magneto",
-        "Apocalypse",
-        "Emma Frost",
-        "Sebastian Shaw",
-        "Mr. Sinister"
-      ],
-      "answer": "Emma Frost"
-    },
-    {
-      "question": "¿Quién es el esposo de Heather Hudson?",
-      "options": ["Wolverine", "Cyclops", "Guardian", "Beast", "Iceman"],
-      "answer": "Guardian"
-    },
-    {
-      "question": "Se especula que el padre del Professor Xavier en algún momento:",
-      "options": [
-        "Era un mutante",
-        "Era miembro del Club Fuego Infernal",
-        "Fue parte del proyecto Arma X que trabajó en Wolverine.",
-        "Era miembro de la Hermandad",
-        "Era un creador de Centinelas"
-      ],
-      "answer": "Fue parte del proyecto Arma X que trabajó en Wolverine."
-    },
-    {
-      "question": "¿Cuál es el nombre real de Havok?",
-      "options": [
-        "Scott Summers",
-        "Alex Summers",
-        "Nathan Summers",
-        "Gabriel Summers",
-        "Christopher Summers"
-      ],
-      "answer": "Alex Summers"
-    },
-    {
-      "question": "¿Cuál es el nombre clave de James MacDonald Hudson en Alpha Flight?",
-      "options": ["Vindicator", "Sasquatch", "Guardian", "Shaman", "Puck"],
-      "answer": "Guardian"
-    },
-    {
-      "question": "¿Cuál de los siguientes X-Men también ha sido miembro de los Vengadores?",
-      "options": ["Cyclops", "Storm", "Wolverine", "Beast", "Iceman"],
-      "answer": "Wolverine"
-    },
-    {
-      "question": "¿Quién salvó a Apocalypse de niño?",
-      "options": [
-        "Magneto",
-        "Mr. Sinister",
-        "Baal",
-        "Sebastian Shaw",
-        "Emma Frost"
-      ],
-      "answer": "Baal"
-    },
-    {
-      "question": "El proceso de unir Adamantium a los huesos de Wolverine lo habría matado si no fuera por:",
-      "options": [
-        "Los poderes de Magneto",
-        "La intervención de Apocalypse",
-        "El poder de curación de Wolverine",
-        "La telepatía del Profesor X",
-        "Las habilidades de Emma Frost"
-      ],
-      "answer": "El poder de curación de Wolverine"
-    },
-    {
-      "question": "¿A qué equipo de superhéroes pertenece Heather Hudson?",
-      "options": [
-        "The Avengers",
-        "The Defenders",
-        "Alpha Flight",
-        "The X-Men",
-        "The Fantastic Four"
-      ],
-      "answer": "Alpha Flight"
-    },
-    {
-      "question": "¿Cuál es el título de Sebastian Shaw en el Club Fuego Infernal?",
-      "options": [
-        "Rey Blanco",
-        "Rey Negro",
-        "Rey Rojo",
-        "Rey Gris",
-        "Rey Púrpura"
-      ],
-      "answer": "Rey Negro"
-    },
-    {
-      "question": "¿De dónde es Toad?",
-      "options": ["América", "Canadá", "Inglaterra", "Australia", "Alemania"],
-      "answer": "Inglaterra"
-    },
-    {
-      "question": "Ororo Monroe, mejor conocida como Storm, apareció por primera vez en 1975 en ¿qué cómic?",
-      "options": [
-        "X-Men #1",
-        "Avengers #1",
-        "Fantastic Four #1",
-        "X-Men Giant-Size #1",
-        "Incredible Hulk #1"
-      ],
-      "answer": "X-Men Giant-Size #1"
-    },
-    {
-      "question": "¿Dónde encontró Juggernaut el Rubí de Cyttorak?",
-      "options": ["Egipto", "India", "Corea", "Perú", "Grecia"],
-      "answer": "Corea"
-    },
-    {
-      "question": "¿Los poderes principales de Jean Grey son:",
-      "options": [
-        "Telepatía, Vuelo",
-        "Telequinesis, Super Fuerza",
-        "Telequinesis, Telepatía",
-        "Teletransportación, Telequinesis",
-        "Telepatía, Cambio de forma"
-      ],
-      "answer": "Telequinesis, Telepatía"
-    },
-    {
-      "question": "¿A qué equipo de superhéroes pertenece James MacDonald Hudson?",
-      "options": [
-        "The Avengers",
-        "The Defenders",
-        "Alpha Flight",
-        "The X-Men",
-        "The Fantastic Four"
-      ],
-      "answer": "Alpha Flight"
-    },
-    {
-      "question": "¿A qué club social de Nueva York pertenece Sebastian Shaw?",
-      "options": [
-        "La Mansión de los Vengadores",
-        "El Edificio Baxter",
-        "El Club Fuego Infernal",
-        "El Daily Bugle",
-        "El Sanctum Sanctorum"
-      ],
-      "answer": "El Club Fuego Infernal"
-    },
-    {
-      "question": "Apocalypse apareció por primera vez en X-Factor número 5 en:",
-      "options": ["1980", "1983", "1986", "1989", "1992"],
-      "answer": "1986"
-    },
-    {
-      "question": "¿Quién dirigía la instalación a la que se enviaban los experimentos fallidos de Arma X, como Deadpool?",
-      "options": [
-        "Magneto",
-        "Apocalypse",
-        "Dr. Killebrew",
-        "Mr. Sinister",
-        "Sebastian Shaw"
-      ],
-      "answer": "Dr. Killebrew"
-    },
-    {
-      "question": "¿Cable fundó qué equipo compuesto principalmente por antiguos estudiantes de la escuela Xavier?",
-      "options": [
-        "La Hermandad",
-        "El Club Fuego Infernal",
-        "X-Force",
-        "Los Reavers",
-        "Los Marauders"
-      ],
-      "answer": "X-Force"
-    },
-    {
-      "question": "¿El líder de la Hermandad es:",
-      "options": [
-        "Magneto",
-        "Apocalypse",
-        "Mr. Sinister",
-        "Sebastian Shaw",
-        "Emma Frost"
-      ],
-      "answer": "Magneto"
-    },
-    {
-      "question": "¿Cuál es el poder mutante de Sebastian Shaw?",
-      "options": [
-        "Telepatía",
-        "Telequinesis",
-        "Absorber y reencauzar energía",
-        "Cambio de forma",
-        "Manipulación del clima"
-      ],
-      "answer": "Absorber y reencauzar energía"
-    },
-    {
-      "question": "¿A quién secuestró Apocalypse y crió para que fuera tan cruel como él?",
-      "options": ["Wolverine", "Cyclops", "Stryfe", "Beast", "Iceman"],
-      "answer": "Stryfe"
-    },
-    {
-      "question": "¿Quién tomó el control del cuerpo de Iceman y descubrió que sus poderes eran mayores de lo que él creía?",
-      "options": [
-        "Magneto",
-        "Apocalypse",
-        "Emma Frost",
-        "Mr. Sinister",
-        "Sebastian Shaw"
-      ],
-      "answer": "Emma Frost"
-    },
-    {
-      "question": "¿Quién es la esposa de James MacDonald Hudson?",
-      "options": [
-        "Mystique",
-        "Rogue",
-        "Vindicator",
-        "Lady Deathstrike",
-        "Polaris"
-      ],
-      "answer": "Vindicator"
-    },
-    {
-      "question": "Sugar Man es originario de una línea de tiempo donde:",
-      "options": [
-        "Los X-Men son malvados",
-        "Los mutantes gobiernan el mundo",
-        "Xavier está muerto y Apocalypse casi gobierna el mundo",
-        "Humanos y mutantes viven en paz",
-        "Los Vengadores son los villanos"
-      ],
-      "answer": "Xavier está muerto y Apocalypse casi gobierna el mundo"
-    },
-    {
-      "question": "¿Magneto una vez levantó una ciudad misteriosa del océano en qué parte del mundo?",
-      "options": [
-        "El Océano Atlántico",
-        "El Océano Pacífico",
-        "El Océano Índico",
-        "El Triángulo de las Bermudas",
-        "El Océano Ártico"
-      ],
-      "answer": "El Triángulo de las Bermudas"
-    },
-    {
-      "question": "¿Quién no fue sujeto del proyecto Arma X?",
-      "options": ["Wolverine", "Deadpool", "Sabretooth", "Shard", "Maverick"],
-      "answer": "Shard"
-    },
-    {
-      "question": "¿Betsy Braddock es conocida como qué X-Man?",
-      "options": ["Rogue", "Storm", "Psylocke", "Kitty Pryde", "Magik"],
-      "answer": "Psylocke"
-    },
-    {
-      "question": "¿Cuál es el nombre real de Scarlet Witch?",
-      "options": [
-        "Raven Darkholme",
-        "Clarice Ferguson",
-        "Wanda Maximoff",
-        "Yuriko Oyama",
-        "Jean Grey"
-      ],
-      "answer": "Wanda Maximoff"
-    },
-    {
-      "question": "¿Rogue apareció por primera vez en qué cómic de 1981?",
-      "options": [
-        "X-Men #1",
-        "Avengers #1",
-        "Fantastic Four #1",
-        "Avengers Annual #10",
-        "Incredible Hulk #1"
-      ],
-      "answer": "Avengers Annual #10"
-    },
-    {
-      "question": "Antes de dedicarse al crimen, Pyro era:",
-      "options": ["Científico", "Soldado", "Escritor", "Profesor", "Doctor"],
-      "answer": "Escritor"
-    },
-    {
-      "question": "¿Quiénes fueron estudiantes de Emma Frost?",
-      "options": [
-        "La Hermandad",
-        "El Club Fuego Infernal",
-        "Las Stepford Cuckoos",
-        "Los Reavers",
-        "Los Marauders"
-      ],
-      "answer": "Las Stepford Cuckoos"
-    },
-    {
-      "question": "¿La instalación de Arma X está ubicada en:",
-      "options": ["América", "Canadá", "Inglaterra", "Australia", "Alemania"],
-      "answer": "Canadá"
-    },
-    {
-      "question": "Los Soldados Infinitos son clones creados por:",
-      "options": [
-        "Magneto",
-        "Apocalypse",
-        "Mr. Sinister",
-        "Sebastian Shaw",
-        "Emma Frost"
-      ],
-      "answer": "Mister Sinister"
-    },
-    {
-      "question": "¿Sugar Man es un viajero de qué realidad alterna?",
-      "options": [
-        "Tierra-X",
-        "Días del Futuro Pasado",
-        "La Era de Apocalipsis",
-        "Dinastía de M",
-        "Universo Ultimate"
-      ],
-      "answer": "La Era de Apocalipsis"
-    },
-    {
-      "question": "Sunfire es miembro de un equipo de superhéroes japonés conocido en inglés como:",
-      "options": [
-        "El Sol Naciente",
-        "Los Siete Samuráis",
-        "Big Hero 6",
-        "Las Cuchillas Carmesí",
-        "La Brigada Atómica"
-      ],
-      "answer": "Big Hero 6"
-    },
-    {
-      "question": "Después de escapar de la instalación Arma X, Wolverine fue descubierto y se hizo amigo de:",
-      "options": [
-        "Charles Xavier",
-        "Erik Lehnsherr",
-        "James y Heather Hudson",
-        "Reed Richards",
-        "Tony Stark"
-      ],
-      "answer": "James y Heather Hudson"
-    },
-    {
-      "question": "¿Qué es falso sobre Guardian?",
-      "options": [
-        "Es un mutante",
-        "Está casado con Vindicator",
-        "Es miembro de Alpha Flight",
-        "Lleva un traje de armadura",
-        "Tiene una esposa llamada Heather"
-      ],
-      "answer": "Es un mutante"
-    },
-    {
-      "question": "¿Qué absorbe Rogue cuando toca a alguien?",
-      "options": [
-        "Recuerdos",
-        "Poderes",
-        "Fuerza vital",
-        "Todo lo anterior",
-        "Nada de lo anterior"
-      ],
-      "answer": "Todo lo anterior"
-    },
-    {
-      "question": "Mientras trabajaba para el gobierno en Dallas, Texas, Forge tenía un ático conocido como:",
-      "options": [
-        "La Sala de Peligro",
-        "La Suite Cerebro",
-        "Nido de Águila",
-        "El Hangar del Pájaro Negro",
-        "El Anexo del Instituto Xavier"
-      ],
-      "answer": "Nido de Águila"
-    },
-    {
-      "question": "¿De qué color es el pelaje de Beast?",
-      "options": ["Marrón", "Negro", "Azul", "Gris", "Blanco"],
-      "answer": "Azul"
-    },
-    {
-      "question": "Nick Fury es el líder de:",
-      "options": ["Hydra", "AIM", "SHIELD", "La Mano", "La Hermandad"],
-      "answer": "SHIELD"
-    },
-    {
-      "question": "Los habitantes mutantes de las alcantarillas de la ciudad de Nueva York son conocidos como:",
-      "options": [
-        "El Subterráneo",
-        "Los Tuneladores",
-        "Los Morlocks",
-        "Los Subterráneos",
-        "Los Perdidos"
-      ],
-      "answer": "Los Morlocks"
-    },
-    {
-      "question": "¿Cuál es el nombre real de Wolverine?",
-      "options": [
-        "Logan Howlett",
-        "James Howlett",
-        "Victor Creed",
-        "John Wraith",
-        "Remy LeBeau"
-      ],
-      "answer": "James Howlett"
-    },
-    {
-      "question": "El Centro de Investigación Mutante de Moira MacTaggert está ubicado en:",
-      "options": [
-        "Genosha",
-        "Asteroide M",
-        "Isla Muir",
-        "Madripoor",
-        "Tierra Salvaje"
-      ],
-      "answer": "Isla Muir"
-    },
-    {
-      "question": "En la Segunda Guerra Mundial, Nick Fury comandó:",
-      "options": [
-        "Los Invasores",
-        "Los Comandos Aulladores",
-        "Los Libertadores",
-        "Los Luchadores por la Libertad",
-        "Las Fuerzas Aliadas"
-      ],
-      "answer": "Los Comandos Aulladores"
-    },
-    {
-      "question": "La mutación secundaria de Angel le permite:",
-      "options": [
-        "Controlar el clima",
-        "Teletransportarse",
-        "Acelerar su factor de curación.",
-        "Manipular metal",
-        "Volverse invisible"
-      ],
-      "answer": "Acelerar su factor de curación."
-    },
-    {
-      "question": "Banshee tiene el poder mutante de:",
-      "options": [
-        "Controlar mentes",
-        "Generar un grito sónico.",
-        "Manipular el tiempo",
-        "Controlar metal",
-        "Volar"
-      ],
-      "answer": "Generar un grito sónico."
-    },
-    {
-      "question": "¿Qué organización reunió Bastion?",
-      "options": [
-        "La Hermandad",
-        "El Club Fuego Infernal",
-        "Operación: Tolerancia Cero",
-        "Los Reavers",
-        "Los Marauders"
-      ],
-      "answer": "Operación: Tolerancia Cero"
-    },
-    {
-      "question": "¿Cuál es el nombre real de la Reina Negra?",
-      "options": [
-        "Emma Frost",
-        "Mystique",
-        "Selene",
-        "Lady Deathstrike",
-        "Madelyne Pryor"
-      ],
-      "answer": "Selene"
-    },
-    {
-      "question": "¿Cuál es el nombre de la máquina que el Profesor Charles Xavier usa para encontrar mutantes en todo el mundo?",
-      "options": [
-        "El Detector de Mutantes",
-        "Los Rayos X",
-        "Cerebro",
-        "El Escáner de Mutantes",
-        "El Localizador de Mutantes"
-      ],
-      "answer": "Cerebro"
-    },
-    {
-      "question": "Deadpool usa una máscara:",
-      "options": [
-        "Para ocultar su identidad",
-        "Para intimidar a sus enemigos",
-        "Para cubrir su rostro con cicatrices",
-        "Para protegerse de los telépatas",
-        "Para mejorar sus poderes"
-      ],
-      "answer": "Para cubrir su rostro con cicatrices"
-    },
-    {
-      "question": "La hija de Banshee usa el nombre clave:",
-      "options": ["Rogue", "Storm", "Syrin", "Kitty Pryde", "Psylocke"],
-      "answer": "Syrin"
-    },
-    {
-      "question": "¿Quién es el clon malvado de Cable?",
-      "options": [
-        "Magneto",
-        "Apocalypse",
-        "Stryfe",
-        "Mr. Sinister",
-        "Sebastian Shaw"
-      ],
-      "answer": "Stryfe"
-    },
-    {
-      "question": "¿Cuál era el nombre clave de la hermana de Colossus?",
-      "options": ["Rogue", "Storm", "Magik", "Kitty Pryde", "Psylocke"],
-      "answer": "Magik"
-    },
-    {
-      "question": "¿Cuál es el segundo nombre del Profesor Xavier?",
-      "options": ["Michael", "Edward", "Francis", "John", "Robert"],
-      "answer": "Francis"
-    },
-    {
-      "question": "¿Cuál es la habilidad mutante de la Reina Negra?",
-      "options": [
-        "Telepatía",
-        "Telequinesis",
-        "Drenar la fuerza vital de otros para mantener su belleza.",
-        "Cambio de forma",
-        "Manipulación del clima"
-      ],
-      "answer": "Drenar la fuerza vital de otros para mantener su belleza."
-    },
-    {
-      "question": "¿Quién es el bisabuelo de Bishop?",
-      "options": ["Wolverine", "Cyclops", "Gateway", "Beast", "Iceman"],
-      "answer": "Gateway"
-    },
-    {
-      "question": "Sean Cassiday, mejor conocido como Banshee, apareció por primera vez en 1967 en ¿qué cómic?",
-      "options": [
-        "X-Men #1",
-        "Avengers #1",
-        "Fantastic Four #1",
-        "Uncanny X-Men #28",
-        "Incredible Hulk #1"
-      ],
-      "answer": "Uncanny X-Men #28"
-    },
-    {
-      "question": "¿Magneto una vez se disfrazó de qué mutante para infiltrarse en el Instituto Xavier?",
-      "options": ["Mystique", "Rogue", "Xorn", "Lady Deathstrike", "Polaris"],
-      "answer": "Xorn"
-    },
-    {
-      "question": "Los poderes de Sunfire se manifestaron por primera vez cuando:",
-      "options": [
-        "Nació",
-        "Fue expuesto a rayos cósmicos",
-        "Tocó suelo radiactivo",
-        "Fue mordido por una araña radiactiva",
-        "Fue entrenado por Magneto"
-      ],
-      "answer": "Tocó suelo radiactivo"
-    },
-    {
-      "question": "Deadpool es una víctima de:",
-      "options": ["Hydra", "AIM", "Arma X", "La Mano", "La Hermandad"],
-      "answer": "Arma X"
-    },
-    {
-      "question": "El poder de Scarlet Witch es la habilidad de:",
-      "options": [
-        "Controlar mentes",
-        "Manipular el tiempo",
-        "Afectar la probabilidad y hacer que lo improbable se vuelva posible",
-        "Controlar metal",
-        "Volar"
-      ],
-      "answer": "Afectar la probabilidad y hacer que lo improbable se vuelva posible"
-    },
-    {
-      "question": "¿Quién es el primo de Banshee?",
-      "options": [
-        "Wolverine",
-        "Cyclops",
-        "Black Tom Cassidy",
-        "Beast",
-        "Iceman"
-      ],
-      "answer": "Black Tom Cassidy"
-    },
-    {
-      "question": "¿Cuál era el nombre del chico que Rogue besó y casi mató justo cuando sus poderes comenzaban a emerger?",
-      "options": [
-        "Bobby Drake",
-        "Scott Summers",
-        "Cody Robbins",
-        "Warren Worthington III",
-        "Piotr Rasputin"
-      ],
-      "answer": "Cody Robbins"
-    },
-    {
-      "question": "¿Quién es el leal compañero de Kitty Pryde?",
-      "options": ["Lockheed", "Puff", "Zeke", "Mirage", "Plume"],
-      "answer": "Lockheed"
-    },
-    {
-      "question": "¿Cuál de los cuatro jinetes de Apocalypse es Archangel?",
-      "options": [
-        "Guerra",
-        "Pestilencia",
-        "Muerte",
-        "Hambre",
-        "Todos los anteriores"
-      ],
-      "answer": "Muerte"
-    },
-    {
-      "question": "De niña, Storm era:",
-      "options": [
-        "Una princesa",
-        "Una ladrona",
-        "Una carterista en El Cairo, Egipto",
-        "Una científica",
-        "Una hechicera"
-      ],
-      "answer": "Una carterista en El Cairo, Egipto"
-    },
-    {
-      "question": "Toad es devoto de:",
-      "options": [
-        "Profesor X",
-        "Apocalypse",
-        "Magneto",
-        "Mr. Sinister",
-        "Sebastian Shaw"
-      ],
-      "answer": "Magneto"
-    },
-    {
-      "question": "¿Cuántas garras de Adamantium tiene Wolverine en cada mano?",
-      "options": ["Dos", "Tres", "Cuatro", "Cinco", "Seis"],
-      "answer": "Tres"
-    },
-    {
-      "question": "Deadpool se unió al programa Arma X porque:",
-      "options": [
-        "Fue forzado",
-        "Fue reclutado",
-        "Tenía cáncer",
-        "Quería ser un héroe",
-        "Fue pagado"
-      ],
-      "answer": "Tenía cáncer"
-    },
-    {
-      "question": "¿Quién no ha servido en el círculo interno del Club Fuego Infernal?",
-      "options": [
-        "Emma Frost",
-        "Sebastian Shaw",
-        "Lorna Dane",
-        "Donald Pierce",
-        "Selene"
-      ],
-      "answer": "Lorna Dane"
-    },
-    {
-      "question": "¿Qué miembro del Club Fuego Infernal es realmente un cyborg no mutante?",
-      "options": [
-        "Emma Frost",
-        "Sebastian Shaw",
-        "Donald Pierce",
-        "Selene",
-        "Madelyne Pryor"
-      ],
-      "answer": "Donald Pierce"
-    },
-    {
-      "question": "¿Cuál era el título de Emma Frost en el Club Fuego Infernal?",
-      "options": [
-        "Reina Negra",
-        "Reina Blanca",
-        "Reina Roja",
-        "Reina Gris",
-        "Reina Púrpura"
-      ],
-      "answer": "Reina Blanca"
-    },
-    {
-      "question": "¿Quién fue el mentor de Kitty Pryde?",
-      "options": ["Profesor X", "Cyclops", "Wolverine", "Beast", "Iceman"],
-      "answer": "Wolverine"
-    },
-    {
-      "question": "Moira MacTaggert tuvo un hijo llamado Kevin que también era conocido como:",
-      "options": ["Proteus", "Legion", "Stryfe", "Vulcan", "Madrox"],
-      "answer": "Proteus"
-    },
-    {
-      "question": "¿Qué X-Man está románticamente involucrado con Kitty Pryde?",
-      "options": ["Wolverine", "Cyclops", "Colossus", "Beast", "Iceman"],
-      "answer": "Colossus"
-    },
-    {
-      "question": "Lockheed, el pequeño dragón compañero de Kitty Pryde, apareció por primera vez en ¿qué mundo natal de los alienígenas?",
-      "options": [
-        "Los Shi'ar",
-        "Los Kree",
-        "The Brood",
-        "Los Skrulls",
-        "The Phalanx"
-      ],
-      "answer": "The Brood"
-    },
-    {
-      "question": "¿Dónde aparecen las garras de Wolverine?",
-      "options": [
-        "Entre sus dedos",
-        "Desde sus muñecas",
-        "Entre sus nudillos",
-        "Desde sus codos",
-        "Desde sus hombros"
-      ],
-      "answer": "Entre sus nudillos"
-    },
-    {
-      "question": "¿Cuál es el nombre real de Marrow?",
-      "options": ["Sarah", "Rachel", "Susan", "Mary", "Jane"],
-      "answer": "Sarah"
-    },
-    {
-      "question": "En el videojuego X-Men Legends: The Rise of Apocalypse, ¿cuál es el nombre del escondite secreto de Magneto cerca de Genosha?",
-      "options": [
-        "Avalon",
-        "Sanctuary",
-        "Asteroide M",
-        "Genosha Prime",
-        "La Ciudadela"
-      ],
-      "answer": "Sanctuary"
-    },
-    {
-      "question": "Bastion es realmente:",
-      "options": [
-        "Un mutante",
-        "Un alienígena",
-        "Un robot",
-        "Un Centinela híbrido disfrazado",
-        "Un clon"
-      ],
-      "answer": "Un Centinela híbrido disfrazado"
-    },
-    {
-      "question": "Durante un tiempo, Bishop trabajó:",
-      "options": [
-        "Como profesor",
-        "Como científico",
-        "Como detective",
-        "Como soldado",
-        "Como político"
-      ],
-      "answer": "Como detective"
-    },
-    {
-      "question": "Forge fue entrenado en magia por:",
-      "options": [
-        "Dr. Strange",
-        "Agatha Harkness",
-        "El Chamán Cheyenne Naze",
-        "El Anciano",
-        "Zatanna"
-      ],
-      "answer": "El Chamán Cheyenne Naze"
-    },
-    {
-      "question": "El Club Fuego Infernal comenzó originalmente en:",
-      "options": ["América", "Canadá", "Inglaterra", "Australia", "Alemania"],
-      "answer": "Londres"
-    },
-    {
-      "question": "En el videojuego X-Men: Legends, ¿quién es el líder de los Morlocks?",
-      "options": ["Callisto", "Masque", "Marrow", "Sunder", "Scaleface"],
-      "answer": "Marrow"
-    },
-    {
-      "question": "Durante un tiempo, Banshee trabajó para:",
-      "options": ["Interpol", "SHIELD", "El FBI", "La CIA", "MI6"],
-      "answer": "Interpol"
-    },
-    {
-      "question": "¿Cuál es el nombre de la sala donde los X-Men hacen sus ejercicios de entrenamiento?",
-      "options": [
-        "La Sala de Guerra",
-        "El Centro de Entrenamiento",
-        "La Sala de Peligro",
-        "La Cámara de Simulación",
-        "La Arena de Batalla"
-      ],
-      "answer": "La Sala de Peligro"
-    },
-    {
-      "question": "En el Club Fuego Infernal, Sebastian Shaw usa el nombre clave:",
-      "options": [
-        "Rey Blanco",
-        "Rey Negro",
-        "Rey Rojo",
-        "Rey Gris",
-        "Rey Púrpura"
-      ],
-      "answer": "Rey Negro"
-    },
-    {
-      "question": "Deadpool posee la habilidad de:",
-      "options": [
-        "Telepatía",
-        "Telequinesis",
-        "Curarse rápidamente",
-        "Cambio de forma",
-        "Manipulación del clima"
-      ],
-      "answer": "Curarse rápidamente"
-    },
-    {
-      "question": "¿En qué ojo está ciego Nick Fury?",
-      "options": [
-        "Derecho",
-        "Izquierdo",
-        "Ambos",
-        "Ninguno",
-        "Cambia frecuentemente"
-      ],
-      "answer": "Izquierdo"
-    },
-    {
-      "question": "Beast desarrolló pelaje azul debido a:",
-      "options": [
-        "Una maldición",
-        "Una mutación",
-        "Un suero que tomó",
-        "Un experimento",
-        "Un accidente"
-      ],
-      "answer": "Un suero que tomó"
-    },
-    {
-      "question": "¿De qué color es el cabello de Cable?",
-      "options": ["Negro", "Marrón", "Blanco", "Rojo", "Rubio"],
-      "answer": "Blanco"
-    },
-    {
-      "question": "¿Cuál de los siguientes X-Men fue en un momento huésped de Apocalypse?",
-      "options": ["Wolverine", "Storm", "Cyclops", "Beast", "Iceman"],
-      "answer": "Cyclops"
-    },
-    {
-      "question": "Ahmet Abdol también es conocido como:",
-      "options": [
-        "Faraón Viviente",
-        "Monolito Viviente",
-        "Momia Viviente",
-        "Estatua Viviente",
-        "Titán Viviente"
-      ],
-      "answer": "Monolito Viviente"
-    },
-    {
-      "question": "En X-Men Legends 2 - Rise of Apocalypse, ¿quién fue responsable de transformar al X-Man Angel en Archangel?",
-      "options": [
-        "Magneto",
-        "Apocalypse",
-        "Mr. Sinister",
-        "Sebastian Shaw",
-        "Emma Frost"
-      ],
-      "answer": "Mr. Sinister"
-    },
-    {
-      "question": "¿Bishop formó parte de qué fuerza de seguridad en el futuro?",
-      "options": [
-        "SHIELD",
-        "SWORD",
-        "Xavier Security Enforcers",
-        "La Autoridad de Variación Temporal",
-        "La Fundación Futura"
-      ],
-      "answer": "Xavier Security Enforcers"
-    },
-    {
-      "question": "Scott Summers trabaja bajo el nombre clave:",
-      "options": ["Havok", "Cyclops", "Vulcan", "Cable", "Bishop"],
-      "answer": "Cyclops"
-    },
-    {
-      "question": "Colossus tiene un hermano llamado:",
-      "options": ["Pietro", "Alex", "Mikhail", "Nathan", "Gabriel"],
-      "answer": "Mikhail"
-    },
-    {
-      "question": "¿A quién es la única persona a la que el poder de Havok no puede dañar?",
-      "options": [
-        "Profesor X",
-        "Magneto",
-        "Scott Summers",
-        "Apocalypse",
-        "Mr. Sinister"
-      ],
-      "answer": "Scott Summers"
-    },
-    {
-      "question": "¿Qué dos X-Men fueron en diferentes momentos Muerte, uno de los cuatro jinetes de Apocalypse?",
-      "options": [
-        "Cyclops y Havok",
-        "Beast e Iceman",
-        "Wolverine y Angel",
-        "Storm y Jean Grey",
-        "Colossus y Nightcrawler"
-      ],
-      "answer": "Wolverine y Angel"
-    },
-    {
-      "question": "Cuando los poderes de Bobby Drake se activaron por primera vez, él:",
-      "options": [
-        "Se unió a los X-Men inmediatamente",
-        "Fue atacado por una turba",
-        "Fue encerrado en la cárcel para su propia protección",
-        "Fue reclutado por Magneto",
-        "Se convirtió en un villano"
-      ],
-      "answer": "Fue encerrado en la cárcel para su propia protección"
-    },
-    {
-      "question": "Cuando es consumida por sus poderes, Jean Grey se convierte en:",
-      "options": [
-        "La Reina Blanca",
-        "El Fénix Oscuro",
-        "La Reina Duende",
-        "La Hechicera",
-        "La Hechicera Suprema"
-      ],
-      "answer": "El Fénix Oscuro"
-    },
-    {
-      "question": "¿Cuál es el nombre real de Mister Sinister?",
-      "options": [
-        "Victor Creed",
-        "Erik Lehnsherr",
-        "Nathaniel Essex",
-        "Nathan Summers",
-        "Remy LeBeau"
-      ],
-      "answer": "Nathaniel Essex"
-    },
-    {
-      "question": "La hermana de Bishop se llama:",
-      "options": ["Mystique", "Rogue", "Shard", "Kitty Pryde", "Psylocke"],
-      "answer": "Shard"
-    },
-    {
-      "question": "¿Cuál es el nombre de los 4 lugartenientes de Apocalypse?",
-      "options": [
-        "La Hermandad",
-        "El Club Fuego Infernal",
-        "Los Cuatro Jinetes",
-        "Los Reavers",
-        "Los Marauders"
-      ],
-      "answer": "Los Cuatro Jinetes"
-    },
-    {
-      "question": "¿Cuál era la ocupación de Juggernaut cuando encontró el Rubí de Cyttorak?",
-      "options": ["Científico", "Ladrón", "Soldado", "Profesor", "Explorador"],
-      "answer": "Soldado"
-    },
-    {
-      "question": "Madeline Pryor era:",
-      "options": [
-        "Una mutante",
-        "Una alienígena",
-        "Creada por Mister Sinister para ser una copia exacta de Jean Grey",
-        "Una viajera en el tiempo",
-        "Un robot"
-      ],
-      "answer": "Creada por Mister Sinister para ser una copia exacta de Jean Grey"
-    },
-    {
-      "question": "¿Dónde nació Apocalypse?",
-      "options": ["América", "Canadá", "Egipto", "Australia", "Alemania"],
-      "answer": "Egipto"
-    },
-    {
-      "question": "¿A quién perseguía Bishop a través del tiempo cuando se encontró por primera vez con los X-Men?",
-      "options": [
-        "Magneto",
-        "Apocalypse",
-        "Trevor Fitzroy",
-        "Mr. Sinister",
-        "Sebastian Shaw"
-      ],
-      "answer": "Trevor Fitzroy"
-    },
-    {
-      "question": "¿Quién no está relacionado con Scott Summers?",
-      "options": [
-        "Havok",
-        "Vulcan",
-        "Cable",
-        "Mr. Sinister",
-        "Christopher Summers"
-      ],
-      "answer": "Mr. Sinister"
-    },
-    {
-      "question": "Gambit es de:",
-      "options": [
-        "Nueva York",
-        "Chicago",
-        "Nueva Orleans",
-        "Los Ángeles",
-        "Miami"
-      ],
-      "answer": "Nueva Orleans"
-    },
-    {
-      "question": "Los Jinetes de Apocalypse aparecieron por primera vez en 1987 en ¿qué cómic?",
-      "options": [
-        "X-Men #1",
-        "Avengers #1",
-        "Fantastic Four #1",
-        "X-Factor",
-        "Incredible Hulk #1"
-      ],
-      "answer": "X-Factor"
-    },
-    {
-      "question": "¿Con quién tuvo Magneto gemelos?",
-      "options": ["Mystique", "Rogue", "Magda", "Lady Deathstrike", "Polaris"],
-      "answer": "Magda"
-    },
-    {
-      "question": "¿A qué equipo mutante pertenecieron Forge y Mystique?",
-      "options": [
-        "La Hermandad",
-        "El Club Fuego Infernal",
-        "X-Factor",
-        "Los Reavers",
-        "Los Marauders"
-      ],
-      "answer": "X-Factor"
-    },
-    {
-      "question": "¿Cuál es el sonido que se produce cuando Nightcrawler se teletransporta?",
-      "options": ["Boom", "Zap", "Bamf", "Whoosh", "Clang"],
-      "answer": "Bamf"
-    },
-    {
-      "question": "¿De quién absorbió Rogue permanentemente los poderes?",
-      "options": [
-        "Storm",
-        "Jean Grey",
-        "Ms. Marvel",
-        "Scarlet Witch",
-        "Polaris"
-      ],
-      "answer": "Ms. Marvel"
-    },
-    {
-      "question": "¿De qué color es el cabello de Ororo?",
-      "options": ["Negro", "Marrón", "Blanco", "Rojo", "Rubio"],
-      "answer": "Blanco"
-    },
-    {
-      "question": "¿Con qué raza alienígena nunca se han encontrado los X-Men?",
-      "options": ["Shi'ar", "Kree", "Skrulls", "Brood", "Phalanx"],
-      "answer": "Skrulls"
-    },
-    {
-      "question": "¿Cuál de los siguientes no es uno de los alias de Wolverine?",
-      "options": ["Arma X", "Parche", "Logan", "Guerra", "James Howlett"],
-      "answer": "Guerra"
-    },
-    {
-      "question": "¿En qué otro equipo sirven juntos Nightcrawler y Shadowcat?",
-      "options": [
-        "Los Vengadores",
-        "Los Defensores",
-        "Excalibur",
-        "Alpha Flight",
-        "Los Cuatro Fantásticos"
-      ],
-      "answer": "Excalibur"
-    },
-    {
-      "question": "El nombre real de Gambit es:",
-      "options": [
-        "Victor Creed",
-        "Erik Lehnsherr",
-        "Remy LeBeau",
-        "Nathan Essex",
-        "Cain Marko"
-      ],
-      "answer": "Remy LeBeau"
-    },
-    {
-      "question": "¿Quién es la hermana adoptiva de Kurt Wagner?",
-      "options": ["Mystique", "Rogue", "Shard", "Kitty Pryde", "Psylocke"],
-      "answer": "Rogue"
-    },
-    {
-      "question": "El Profesor Charles Xavier perdió el uso de sus piernas:",
-      "options": [
-        "En un accidente automovilístico",
-        "Mientras luchaba contra Magneto",
-        "Mientras luchaba contra un tirano llamado Lucifer en el Himalaya",
-        "En un ataque de Centinelas",
-        "En un accidente de entrenamiento"
-      ],
-      "answer": "Mientras luchaba contra un tirano llamado Lucifer en el Himalaya"
-    },
-    {
-      "question": "La primera aparición de Scarlet Witch fue en X-Men número 4 en:",
-      "options": ["1960", "1962", "1964", "1966", "1968"],
-      "answer": "1964"
-    },
-    {
-      "question": "¿Quién entrenó a Storm en las artes del robo cuando era niña?",
-      "options": [
-        "Magneto",
-        "Apocalypse",
-        "Achmed El-Gibar",
-        "Mr. Sinister",
-        "Sebastian Shaw"
-      ],
-      "answer": "Achmed El-Gibar"
-    },
-    {
-      "question": "¿Quién es considerado por algunos como el primer mutante?",
-      "options": [
-        "Magneto",
-        "Apocalypse",
-        "Mr. Sinister",
-        "Sebastian Shaw",
-        "Emma Frost"
-      ],
-      "answer": "Apocalypse"
-    },
-    {
-      "question": "¿Qué miembro de los X-Men había trabajado previamente para Mister Sinister?",
-      "options": ["Wolverine", "Cyclops", "Gambit", "Beast", "Iceman"],
-      "answer": "Gambit"
-    },
-    {
-      "question": "¿Cuál era la ocupación del Sr. Sinister cuando conoció a Apocalypse?",
-      "options": ["Soldado", "Ladrón", "Genetista", "Profesor", "Explorador"],
-      "answer": "Genetista"
-    },
-    {
-      "question": "Colossus está románticamente involucrado con:",
-      "options": [
-        "Mystique",
-        "Rogue",
-        "Kitty Pryde",
-        "Lady Deathstrike",
-        "Polaris"
-      ],
-      "answer": "Kitty Pryde"
-    },
-    {
-      "question": "¿Qué mutante es del futuro?",
-      "options": ["Gambit", "Rogue", "Bishop", "Nightcrawler", "Storm"],
-      "answer": "Bishop"
-    },
-    {
-      "question": "¿Quién formó los X-Men?",
-      "options": [
-        "Magneto",
-        "Apocalypse",
-        "Profesor Charles Xavier",
-        "Mr. Sinister",
-        "Sebastian Shaw"
-      ],
-      "answer": "Profesor Charles Xavier"
-    },
-    {
-      "question": "Antes de convertirse en el Monolito Viviente, Ahmet Abdol había sido:",
-      "options": [
-        "Soldado",
-        "Ladrón",
-        "Profesor de Arqueología",
-        "Explorador",
-        "Político"
-      ],
-      "answer": "Profesor de Arqueología"
-    },
-    {
-      "question": "Sunfire es de:",
-      "options": ["América", "Canadá", "Japón", "Australia", "Alemania"],
-      "answer": "Japón"
-    },
-    {
-      "question": "¿De qué color son los ojos de Nightcrawler?",
-      "options": ["Rojo", "Azul", "Amarillo", "Verde", "Marrón"],
-      "answer": "Amarillo"
-    },
-    {
-      "question": "¿Qué material se utiliza en la visera de Cyclops?",
-      "options": ["Adamantium", "Vibranium", "Cuarzo Rubí", "Acero", "Titanio"],
-      "answer": "Cuarzo Rubí"
-    },
-    {
-      "question": "Cuando Jean fue manipulada para trabajar para el Club Fuego Infernal, era conocida como:",
-      "options": [
-        "La Reina Blanca",
-        "El Fénix Oscuro",
-        "La Reina Duende",
-        "La Reina Negra",
-        "La Hechicera"
-      ],
-      "answer": "La Reina Negra"
-    },
-    {
-      "question": "Rogue es de:",
-      "options": [
-        "Nueva York",
-        "California",
-        "Mississippi",
-        "Texas",
-        "Florida"
-      ],
-      "answer": "Mississippi"
-    },
-    {
-      "question": "Scarlet Witch tiene un hermano llamado:",
-      "options": ["Pietro", "Alex", "Mikhail", "Nathan", "Gabriel"],
-      "answer": "Pietro"
-    },
-    {
-      "question": "¿Quién propuso la Ley de Registro Mutante?",
-      "options": [
-        "Profesor X",
-        "Magneto",
-        "Senador Robert Kelly",
-        "Mr. Sinister",
-        "Sebastian Shaw"
-      ],
-      "answer": "Senador Robert Kelly"
-    },
-    {
-      "question": "¿Cuáles son los nombres de pila de los padres de Iceman?",
-      "options": [
-        "John y Mary",
-        "Robert y Susan",
-        "William y Madeline",
-        "Richard y Martha",
-        "George y Jane"
-      ],
-      "answer": "William y Madeline"
-    }
-  ]
-}
+[
+  {
+    "question": "¿Con qué mutante malvado Rogue había estado involucrada románticamente?",
+    "options": ["Arcade", "Shadow King", "Pyro", "Magneto", "Avalanche"],
+    "answer": "Magneto"
+  },
+  {
+    "question": "La dirección de la Mansión X es:",
+    "options": [
+      "2112 Raven's Peak",
+      "1407 Graymalkin Lane",
+      "413 Xavier Ridge",
+      "1001 Whitestone Place",
+      "1515 Camelot Boulevard"
+    ],
+    "answer": "1407 Graymalkin Lane"
+  },
+  {
+    "question": "De estos personajes, ¿cuál fue el primer X-MAN:",
+    "options": ["Puck", "Beast", "Angel", "Banshee", "Cyclops"],
+    "answer": "Cyclops"
+  },
+  {
+    "question": "¿Quién no es miembro Hermandad?",
+    "options": ["Toad", "Mystique", "Gateway", "Blob", "Avalanche"],
+    "answer": "Gateway"
+  },
+  {
+    "question": "Nombra la máquina que Xavier usa para aumentar sus poderes psíquicos.",
+    "options": [
+      "Chronomancer",
+      "Astral Energizer",
+      "Fixx",
+      "The Oracle",
+      "Cerebro"
+    ],
+    "answer": "Cerebro"
+  },
+  {
+    "question": "¿Por qué Cyclops no puede controlar su explosión óptica?",
+    "options": [
+      "Traumatismo craneal sufrido de niño.",
+      "Debido a la acumulación de poder.",
+      "No recibió entrenamiento de niño.",
+      "Ingirió un veneno de adolescente.",
+      "El profesor Xavier aún no está seguro."
+    ],
+    "answer": "Traumatismo craneal sufrido de niño."
+  },
+  {
+    "question": "El padre de Gambit lo entrenó para ser un:",
+    "options": ["Ladrón", "Ninja", "Fontanero", "Boxeador", "Criptólogo"],
+    "answer": "Ladrón"
+  },
+  {
+    "question": "Nightcrawler es originario de:",
+    "options": ["Canadá", "España", "América", "Egipto", "Alemania"],
+    "answer": "Alemania"
+  },
+  {
+    "question": "Cuando Jean Grey se ve abrumada por sus poderes, se convierte en:",
+    "options": ["El Fénix", "La Reina Blanca", "Dazzler", "Mística", "Cerebro"],
+    "answer": "El Fénix"
+  },
+  {
+    "question": "¿Quién es el hermano de Cíclope?",
+    "options": ["Quicksilver", "Havok", "Obispo", "Wolverine", "Gambito"],
+    "answer": "Havok"
+  },
+  {
+    "question": "¿Qué instalación dirige Moira MacTaggert?",
+    "options": [
+      "La instalación HAARP en Alaska",
+      "Área 51",
+      "Investigación de mutantes en la Isla Muir",
+      "Asteroide M",
+      "Una planta de fabricación de Centinelas en Alemania"
+    ],
+    "answer": "Investigación de mutantes en la Isla Muir"
+  },
+  {
+    "question": "¿Quién no es verdaderamente un mutante?",
+    "options": ["Ángel", "Juggernaut", "Magneto", "Marrow", "Jubilee"],
+    "answer": "Juggernaut"
+  },
+  {
+    "question": "Wolverine se vio obligado a matar al padre de la mujer que amaba. ¿Cuál era el nombre del padre?",
+    "options": ["Shingen", "Hiro Takachiho", "Shiro", "Gogo Tomago", "Karma"],
+    "answer": "Shingen"
+  },
+  {
+    "question": "¿El padre de Cíclope era el líder de qué grupo?",
+    "options": [
+      "Los Starjammers",
+      "Los Shi'Ar",
+      "La prole",
+      "El Club del Fuego Infernal",
+      "Departamento H"
+    ],
+    "answer": "Los Starjammers"
+  },
+  {
+    "question": "¿Quién desarrolló los Centinelas como un elemento disuasorio para los mutantes?",
+    "options": [
+      "Sebastian Shaw",
+      "Amahl Farouk",
+      "'Black' Tom Cassidy",
+      "James MacDonald Hudson",
+      "Bolivar Trask"
+    ],
+    "answer": "Bolivar Trask"
+  },
+  {
+    "question": "Los X-MEN originales fueron al Coffee A-Go-Go para escuchar a un beatnik conocido como:",
+    "options": [
+      "Bernard el Poeta",
+      "Calvin Rankin",
+      "Kurt Wagner",
+      "Mikhail Rasputin",
+      "Cameron Hodge"
+    ],
+    "answer": "Bernard el Poeta"
+  },
+  {
+    "question": "La base espacial de Magneto, Asteroide M, también ha sido mencionada como:",
+    "options": ["Avalon", "Camelot", "Plan 9", "The Inner Sanctum", "Genosha"],
+    "answer": "Avalon"
+  },
+  {
+    "question": "¿Quién usa un casco para protegerse de los ataques psiónicos?",
+    "options": ["Multipleman", "Juggernaut", "Sprite", "Bishop", "Cable"],
+    "answer": "Juggernaut"
+  },
+  {
+    "question": "El metal unido a los huesos de Wolverine es:",
+    "options": [
+      "Acero al carbono",
+      "Una aleación de polihierro",
+      "Adamantium",
+      "Tungsteno",
+      "Desconocido"
+    ],
+    "answer": "Adamantium"
+  },
+  {
+    "question": "¿Cuál es el nombre en clave de Kitty Pryde?",
+    "options": ["Polaris", "Sprite", "Siryn", "Destiny", "Blink"],
+    "answer": "Sprite"
+  },
+  {
+    "question": "El verdadero nombre de Toad es:",
+    "options": [
+      "James Hudson",
+      "Mortimer Toynbee",
+      "Clive Schneebly",
+      "Wade Wilson",
+      "Victor Creed"
+    ],
+    "answer": "Mortimer Toynbee"
+  },
+  {
+    "question": "Además de ser una poderosa telépata, Emma Frost también puede:",
+    "options": [
+      "Generar campos de fuerza",
+      "Ver a través de objetos sólidos",
+      "Cambiar a una sustancia dura como el diamante",
+      "Viajar en el tiempo",
+      "Teletransportarse a grandes distancias"
+    ],
+    "answer": "Cambiar a sustancia dura como el diamante"
+  },
+  {
+    "question": "El hijo de Moira, Kevin MacTaggert, también era conocido como:",
+    "options": ["Enigma", "Proteus", "Varese", "Sauron", "Morrow"],
+    "answer": "Proteus"
+  },
+  {
+    "question": "Por un corto tiempo, Jean Grey fue miembro de:",
+    "options": [
+      "La Hermandad",
+      "El Club del Fuego Infernal",
+      "Los Morlocks",
+      "La Generación",
+      "Los Cuatro Jinetes"
+    ],
+    "answer": "El Club del Fuego Infernal"
+  },
+  {
+    "question": "¿Qué X-MAN es inmune al poder de Rogue?",
+    "options": ["Jean Grey", "Banshee", "Coloso", "Gambito", "Bestia"],
+    "answer": "Coloso"
+  },
+  {
+    "question": "El mayor miedo de Storm es:",
+    "options": [
+      "Agua",
+      "Alturas",
+      "Espacios cerrados",
+      "Muerte",
+      "Envejecimiento"
+    ],
+    "answer": "Espacios cerrados"
+  },
+  {
+    "question": "¿Quién en este grupo es un mutante?",
+    "options": [
+      "Senador Robert Kelly",
+      "Moira MacTaggert",
+      "Juggernaut",
+      "Bobby Drake",
+      "Bolivar Trask"
+    ],
+    "answer": "Bobby Drake"
+  },
+  {
+    "question": "¿Qué es el Protocolo Xavier?",
+    "options": [
+      "Archivos que enumeran las identidades secretas de todos los mutantes conocidos",
+      "Contraseñas para acceder a Cerebro",
+      "Escenarios ultrasecretos para la Sala de Peligro",
+      "El código de seguridad para destruir la Mansión X",
+      "Comandos para controlar todas las comunicaciones por satélite"
+    ],
+    "answer": "Archivos que enumeran las identidades secretas de todos los mutantes conocidos"
+  },
+  {
+    "question": "El profesor Xavier construyó Cerebro con la ayuda de:",
+    "options": ["Magneto", "Bestia", "Forge", "Wolverine", "Moira MacTaggert"],
+    "answer": "Magneto"
+  },
+  {
+    "question": "¿Forge es miembro de qué tribu nativa americana?",
+    "options": ["Sioux", "Apache", "Cheyenne", "Hopi", "Navajo"],
+    "answer": "Cheyenne"
+  },
+  {
+    "question": "El cómic X-MEN #1 con los X-MEN y Magneto apareció en:",
+    "options": [
+      "Mayo de 1967",
+      "Julio de 1971",
+      "Enero de 1964",
+      "Noviembre de 1968",
+      "Septiembre de 1963"
+    ],
+    "answer": "Septiembre de 1963"
+  },
+  {
+    "question": "¿Quién es el siguiente en la fila para liderar a los X-MEN si Cíclope no puede?",
+    "options": ["Bestia", "Wolverine", "Storm", "Angel", "Jubilee"],
+    "answer": "Storm"
+  },
+  {
+    "question": "Psylocke es de:",
+    "options": ["Inglaterra", "Australia", "Alemania", "Rusia", "Japón"],
+    "answer": "Inglaterra"
+  },
+  {
+    "question": "¿Dónde vivió Jubilee durante un corto tiempo?",
+    "options": [
+      "Centro comercial de Hollywood",
+      "Biblioteca de Nueva York",
+      "Parque de atracciones en Texas",
+      "Edificio de oficinas abandonado en Chicago",
+      "Iglesia en Alemania"
+    ],
+    "answer": "Centro comercial de Hollywood"
+  },
+  {
+    "question": "Cyclops obtiene la energía para su explosión óptica de:",
+    "options": [
+      "Energía solar",
+      "Electricidad",
+      "Gravedad",
+      "Poder mental",
+      "Sus emociones"
+    ],
+    "answer": "Energía solar"
+  },
+  {
+    "question": "Cuando Shadow King conoció al Profesor Xavier, era conocido como:",
+    "options": [
+      "Garokk",
+      "Tom Cassidy",
+      "Kwannon",
+      "Amahl Farouk",
+      "Erik Lehnsherr"
+    ],
+    "answer": "Amahl Farouk"
+  },
+  {
+    "question": "Los Morlock tomaron su nombre de:",
+    "options": [
+      "Su primer líder",
+      "La raza subterránea en la novela de H.G. Wells 'La máquina del tiempo'",
+      "Una antigua diosa egipcia",
+      "Una tribu sudamericana",
+      "Un cartel del metro"
+    ],
+    "answer": "La raza subterránea en la novela de H.G. Wells 'La máquina del tiempo'"
+  },
+  {
+    "question": "El poder de Gambit es la capacidad de:",
+    "options": [
+      "Cargar objetos con energía cinética",
+      "Convertir su carne en metal",
+      "Controlar mentalmente a sus enemigos",
+      "Producir fuegos artificiales con sus manos",
+      "Absorber los poderes de otros mutantes"
+    ],
+    "answer": "Cargar objetos con energía cinética"
+  },
+  {
+    "question": "Jubilee es el compañero no oficial de qué X-MAN?",
+    "options": ["Bestia", "Ángel", "Nightcrawler", "Tormenta", "Wolverine"],
+    "answer": "Wolverine"
+  },
+  {
+    "question": "Contra su voluntad, la mente de Psylocke fue transferida al cuerpo de:",
+    "options": [
+      "Un ninja",
+      "Un androide",
+      "Un mutante de otra línea temporal",
+      "Un humano",
+      "Una entidad astral"
+    ],
+    "answer": "Un ninja"
+  },
+  {
+    "question": "Juggernaut recibió sus fantásticos poderes de:",
+    "options": [
+      "Una gema de Cyttorak",
+      "El hechicero Beroge",
+      "Una antigua maldición escocesa",
+      "La sacerdotisa africana conocida como N'Dare",
+      "Entrar en una cámara secreta en una pirámide en sudamerica"
+    ],
+    "answer": "Una joya de Cyttorak"
+  },
+  {
+    "question": "Un apodo para Cyclops es:",
+    "options": ["Red", "Slim", "Bub", "Sunshine", "Commander Chaos"],
+    "answer": "Slim"
+  },
+  {
+    "question": "Sabretooth y Wolverine trabajaron juntos haciendo operaciones encubiertas para:",
+    "options": [
+      "The Shi'ar",
+      "Ahmet Abdol",
+      "La CIA y Weapon X",
+      "Interpol",
+      "Alpha Flight"
+    ],
+    "answer": "La CIA y Weapon X"
+  },
+  {
+    "question": "Kitty Pryde tiene un dragón mascota llamado:",
+    "options": ["Puff", "Lockheed", "Mirage", "Zeke", "Plume"],
+    "answer": "Lockheed"
+  },
+  {
+    "question": "Un nombre por el que se conoce a Mystique es:",
+    "options": [
+      "Raven Darkholme",
+      "Jasmine Post",
+      "Guyrich",
+      "Carol Hines",
+      "Siryn"
+    ],
+    "answer": "Raven Darkholme"
+  },
+  {
+    "question": "Uno de los pasatiempos favoritos de Storm es:",
+    "options": ["Pintar", "Nadar", "Tiro con arco", "Escribir", "Jardinería"],
+    "answer": "Jardinería"
+  },
+  {
+    "question": "Además de Wolverine, ¿quién ha sido un experimento del programa Arma X?",
+    "options": ["Pyro", "Forge", "Sabretooth", "Psylocke", "Nightcrawler"],
+    "answer": "Sabretooth"
+  },
+  {
+    "question": "¿Cuándo se transformó Coloso por primera vez en su forma de metal?",
+    "options": [
+      "Salvar a la gente de un edificio en llamas",
+      "Detener un tractor descontrolado",
+      "Ser atacado por aldeanos asustados",
+      "Protegiendo a su hermano de un ladrón",
+      "Cuando fue alcanzado por un rayo"
+    ],
+    "answer": "Deteniendo un tractor desbocado"
+  },
+  {
+    "question": "Los primeros cinco miembros de los X-MEN fueron:",
+    "options": [
+      "Wolverine, Jean Grey, Cyclops, Psylocke y Jubilee",
+      "Iceman, Jean Grey, Beast, Banshee y Cyclops",
+      "Cyclops, Iceman, Angel, Beast y Jean Grey",
+      "Nightcrawler, Jubilee, Wolverine, Avalanche y Emma Frost",
+      "Jean Grey, Rogue, Cyclops, Psylocke y Beast"
+    ],
+    "answer": "Cyclops, Iceman, Angel, Beast y Jean Grey"
+  },
+  {
+    "question": "¿Cuándo se activan normalmente por primera vez los poderes de un mutante?",
+    "options": [
+      "Durante la adolescencia",
+      "Primer encuentro con otro mutante",
+      "Cuando es escaneado por Cerebo",
+      "Un eclipse",
+      "Solsticio de verano"
+    ],
+    "answer": "Durante la adolescencia"
+  },
+  {
+    "question": "¿Cuál es el archienemigo de Dientes de Sable?",
+    "options": ["Magneto", "Cíclope", "Wolverine", "Profesor X", "Gambito"],
+    "answer": "Wolverine"
+  },
+  {
+    "question": "En el videojuego X-Men: Legends, ¿de quién estaba enamorado Hombre de Hielo?",
+    "options": [
+      "Jean Grey",
+      "Tormenta",
+      "Alison Crestmere",
+      "Pícara",
+      "Kitty Pryde"
+    ],
+    "answer": "Alison Crestmere"
+  },
+  {
+    "question": "¿En qué número de X-Men apareció Juggernaut por primera vez?",
+    "options": ["10", "12", "15", "20", "8"],
+    "answer": "12"
+  },
+  {
+    "question": "De joven, Gambito se casó con una asesina llamada:",
+    "options": [
+      "Mística",
+      "Pícara",
+      "Bella Donna Boudreaux",
+      "Lady Deathstrike",
+      "Polaris"
+    ],
+    "answer": "Bella Donna Boudreaux"
+  },
+  {
+    "question": "¿Cuál es el nombre clave mutante de Victor Creed?",
+    "options": ["Wolverine", "Juggernaut", "Dientes de Sable", "Blob", "Pyro"],
+    "answer": "Dientes de Sable"
+  },
+  {
+    "question": "¿Con quién ha estado Forge relacionado sentimentalmente?",
+    "options": ["Jean Grey", "Pícara", "Tormenta", "Mística", "Polaris"],
+    "answer": "Tormenta"
+  },
+  {
+    "question": "Mientras crecía en un orfanato, Cíclope era acosado por un chico llamado Nathan, quien en realidad era:",
+    "options": [
+      "Magneto",
+      "Apocalipsis",
+      "Mr. Siniestro",
+      "Dientes de Sable",
+      "Juggernaut"
+    ],
+    "answer": "Mr. Siniestro"
+  },
+  {
+    "question": "¿Qué es cierto sobre Coloso en su forma blindada?",
+    "options": [
+      "Se vuelve más débil",
+      "No puede moverse",
+      "Incluso sus globos oculares se vuelven como acero.",
+      "Pierde su habilidad mutante",
+      "Se vuelve invisible"
+    ],
+    "answer": "Incluso sus globos oculares se vuelven como acero."
+  },
+  {
+    "question": "¿Por qué nació Bestia como mutante?",
+    "options": [
+      "Fue mordido por una araña radioactiva",
+      "Fue expuesto a rayos cósmicos",
+      "Su padre fue expuesto a una gran cantidad de radiación",
+      "Nació en el Asteroide M",
+      "Fue un sujeto de prueba para Arma X"
+    ],
+    "answer": "Su padre fue expuesto a una gran cantidad de radiación"
+  },
+  {
+    "question": "¿Cuál es el nombre real de Apocalipsis?",
+    "options": [
+      "Victor Creed",
+      "Erik Lehnsherr",
+      "En Sabah Nur",
+      "Nathan Essex",
+      "Remy LeBeau"
+    ],
+    "answer": "En Sabah Nur"
+  },
+  {
+    "question": "Antes de unirse a los X-Men, Ángel era un luchador contra el crimen que trabajaba bajo el nombre de:",
+    "options": [
+      "El Protector",
+      "Águila Nocturna",
+      "Ángel Vengador",
+      "Caballero del Cielo",
+      "El Guardián"
+    ],
+    "answer": "Ángel Vengador"
+  },
+  {
+    "question": "¿Qué puede hacer Abyss?",
+    "options": [
+      "Volar",
+      "Controlar el clima",
+      "Arrastrar enemigos a una cavidad interdimensional en su pecho",
+      "Teletransportarse",
+      "Manipular metal"
+    ],
+    "answer": "Arrastrar enemigos a una cavidad interdimensional en su pecho"
+  },
+  {
+    "question": "¿Cuál es el nombre real de Blink?",
+    "options": [
+      "Raven Darkholme",
+      "Clarice Ferguson",
+      "Lorna Dane",
+      "Yuriko Oyama",
+      "Jean Grey"
+    ],
+    "answer": "Clarice Ferguson"
+  },
+  {
+    "question": "¿Cuál es el nombre clave de Lorna Dane en los X-Men?",
+    "options": ["Mística", "Polaris", "Lady Deathstrike", "Blink", "Pícara"],
+    "answer": "Polaris"
+  },
+  {
+    "question": "¿De dónde es originario Blob?",
+    "options": [
+      "Nueva York",
+      "Genosha",
+      "Lubbock, Texas",
+      "Dunfee, Illinois",
+      "Asteroide M"
+    ],
+    "answer": "Lubbock, Texas"
+  },
+  {
+    "question": "¿Para qué equipo trabajó Grizzly?",
+    "options": [
+      "La Hermandad",
+      "El Club Fuego Infernal",
+      "Six Pack",
+      "Los Reavers",
+      "Los Exiliados"
+    ],
+    "answer": "Six Pack"
+  },
+  {
+    "question": "¿Por qué Lady Deathstrike odia a Wolverine?",
+    "options": [
+      "Él mató a su padre",
+      "Ella cree que él robó el trabajo de su padre en adamantium.",
+      "Él destruyó su laboratorio",
+      "Él la derrotó en combate",
+      "Él es aliado de Magneto"
+    ],
+    "answer": "Ella cree que él robó el trabajo de su padre en adamantium."
+  },
+  {
+    "question": "¿Cuál es el poder mutante de Quicksilver?",
+    "options": [
+      "Telepatía",
+      "Super fuerza",
+      "Super velocidad",
+      "Vuelo",
+      "Teletransportación"
+    ],
+    "answer": "Super velocidad"
+  },
+  {
+    "question": "¿Cuál es el poder mutante de Polaris?",
+    "options": [
+      "Telequinesis",
+      "Manipulación del clima",
+      "Manipulación magnética",
+      "Cambio de forma",
+      "Absorción de energía"
+    ],
+    "answer": "Manipulación magnética"
+  },
+  {
+    "question": "¿Quién es el protector de Blink?",
+    "options": [
+      "Wolverine",
+      "Cíclope",
+      "Dientes de Sable",
+      "Bestia",
+      "Hombre de Hielo"
+    ],
+    "answer": "Dientes de Sable"
+  },
+  {
+    "question": "¿Qué X-Men salvó a Polaris de Mesmero?",
+    "options": ["Wolverine", "Cíclope", "Hombre de Hielo", "Bestia", "Ángel"],
+    "answer": "Hombre de Hielo"
+  },
+  {
+    "question": "Antes de unirse a la Hermandad, Blob trabajaba en:",
+    "options": [
+      "Una fábrica",
+      "Un banco",
+      "Un circo ambulante",
+      "Un laboratorio",
+      "Una escuela"
+    ],
+    "answer": "Un circo ambulante"
+  },
+  {
+    "question": "¿De qué color es el cabello de Polaris?",
+    "options": ["Rojo", "Azul", "Verde", "Negro", "Rubio"],
+    "answer": "Verde"
+  },
+  {
+    "question": "¿Quién crió a Quicksilver y a su hermana?",
+    "options": [
+      "Científicos",
+      "El gobierno",
+      "Gitanos",
+      "Alienígenas",
+      "Robots"
+    ],
+    "answer": "Gitanos"
+  },
+  {
+    "question": "¿A qué proyecto secreto pertenecieron tanto Wolverine como Sabretooth?",
+    "options": [
+      "Proyecto Nimrod",
+      "Proyecto Alerta Máxima",
+      "Arma X",
+      "Proyecto Pegaso",
+      "Proyecto Cadmo"
+    ],
+    "answer": "Arma X"
+  },
+  {
+    "question": "Cable, Domino, Grizzly, Puente George Washington, Hammer y Kane juntos forman ¿qué grupo?",
+    "options": [
+      "La Hermandad",
+      "El Club Fuego Infernal",
+      "Six Pack",
+      "Los Reavers",
+      "Los Exiliados"
+    ],
+    "answer": "Six Pack"
+  },
+  {
+    "question": "¿Blink es capaz de teletransportarse:",
+    "options": [
+      "Solo distancias cortas",
+      "Tan lejos como la luna.",
+      "Solo dentro de la misma habitación",
+      "Solo a lugares que ha visto antes",
+      "Solo en emergencias"
+    ],
+    "answer": "Tan lejos como la luna."
+  },
+  {
+    "question": "¿Zealot es el enemigo acérrimo de:",
+    "options": [
+      "Professor X",
+      "Wolverine",
+      "Magneto",
+      "Apocalipsis",
+      "Sabretooth"
+    ],
+    "answer": "Magneto"
+  },
+  {
+    "question": "¿Cuál es el nombre real de Quicksilver?",
+    "options": [
+      "Victor Creed",
+      "Erik Lehnsherr",
+      "Pietro Maximoff",
+      "Nathan Essex",
+      "Remy LeBeau"
+    ],
+    "answer": "Pietro Maximoff"
+  },
+  {
+    "question": "¿Sabretooth hizo su debut en qué cómic de Marvel?",
+    "options": [
+      "X-Men",
+      "El Increíble Hulk",
+      "Puño de Hierro",
+      "Spider-Man",
+      "Wolverine"
+    ],
+    "answer": "Puño de Hierro"
+  },
+  {
+    "question": "¿Los poderes psíquicos de Jean despertaron cuando:",
+    "options": [
+      "Fue atacada por un Centinela",
+      "Fue expuesta a radiación",
+      "Su amiga fue atropellada por un coche.",
+      "Fue secuestrada por alienígenas",
+      "Nació"
+    ],
+    "answer": "Su amiga fue atropellada por un coche."
+  },
+  {
+    "question": "¿Juggernaut se asocia frecuentemente con cuál de los siguientes mutantes?",
+    "options": ["Magneto", "Sabretooth", "Black Tom Cassidy", "Blob", "Pyro"],
+    "answer": "Black Tom Cassidy"
+  },
+  {
+    "question": "¿Con quién tuvo Sabretooth un hijo?",
+    "options": ["Mystique", "Rogue", "Lady Deathstrike", "Polaris", "Storm"],
+    "answer": "Mystique"
+  },
+  {
+    "question": "¿Cuál es el nombre real de Lady Deathstrike?",
+    "options": [
+      "Raven Darkholme",
+      "Clarice Ferguson",
+      "Lorna Dane",
+      "Yuriko Oyama",
+      "Jean Grey"
+    ],
+    "answer": "Yuriko Oyama"
+  },
+  {
+    "question": "¿Quiénes son los hijos de Magneto?",
+    "options": [
+      "Wolverine y Sabretooth",
+      "Cyclops y Havok",
+      "Scarlet Witch y Quicksilver",
+      "Rogue y Gambit",
+      "Beast y Angel"
+    ],
+    "answer": "Scarlet Witch y Quicksilver"
+  },
+  {
+    "question": "¿En qué cómic de un héroe de Marvel apareció Mystique por primera vez en 1978?",
+    "options": [
+      "X-Men",
+      "Los Vengadores",
+      "Ms. Marvel",
+      "Spider-Man",
+      "Iron Man"
+    ],
+    "answer": "Ms. Marvel"
+  },
+  {
+    "question": "El padre de Lady Deathstrike desarrolló un proceso para:",
+    "options": [
+      "Crear Centinelas",
+      "Controlar mutantes",
+      "Unir Adamantium al hueso",
+      "Teletransportarse",
+      "Manipular el clima"
+    ],
+    "answer": "Unir Adamantium al hueso"
+  },
+  {
+    "question": "Abyss trabaja para:",
+    "options": [
+      "Magneto",
+      "Professor X",
+      "Apocalypse",
+      "Sabretooth",
+      "Juggernaut"
+    ],
+    "answer": "Apocalypse"
+  },
+  {
+    "question": "¿Dónde está ubicada Genosha?",
+    "options": [
+      "El Océano Atlántico",
+      "El Océano Pacífico",
+      "El Océano Índico",
+      "El Océano Ártico",
+      "El Mar Mediterráneo"
+    ],
+    "answer": "El Océano Índico"
+  },
+  {
+    "question": "¿A qué universidad asistió el Professor Xavier?",
+    "options": ["Harvard", "Oxford", "Cambridge", "Yale", "Princeton"],
+    "answer": "Oxford"
+  },
+  {
+    "question": "En promedio, si Rogue toca a un mutante durante un minuto, ¿cuánto tiempo retiene los poderes de ese mutante?",
+    "options": [
+      "10 minutos",
+      "30 minutos",
+      "60 minutos",
+      "2 horas",
+      "Indefinidamente"
+    ],
+    "answer": "60 minutos"
+  },
+  {
+    "question": "¿Cuál de estos mutantes no puede volar?",
+    "options": ["Angel", "Storm", "Wolverine", "Jean Grey", "Iceman"],
+    "answer": "Wolverine"
+  },
+  {
+    "question": "¿A qué equipo de mutantes viajeros en el tiempo pertenece Blink?",
+    "options": [
+      "X-Force",
+      "New Mutants",
+      "Exiles",
+      "Alpha Flight",
+      "The Brotherhood"
+    ],
+    "answer": "Exiles"
+  },
+  {
+    "question": "¿Quién aquí no es un mutante?",
+    "options": ["Nightcrawler", "Juggernaut", "Storm", "Iceman", "Beast"],
+    "answer": "Juggernaut"
+  },
+  {
+    "question": "¿A qué grupo de criminales se unió Lady Deathstrike después de que su intento de matar a Wolverine fracasó?",
+    "options": [
+      "The Brotherhood",
+      "The Hellfire Club",
+      "The Reavers",
+      "The Exiles",
+      "The Marauders"
+    ],
+    "answer": "The Reavers"
+  },
+  {
+    "question": "¿Blob es capaz de generar:",
+    "options": [
+      "Campos de fuerza",
+      "Una fuerza gravitacional que lo hace inamovible",
+      "Portales de teletransportación",
+      "Ráfagas de energía",
+      "Ilusiones"
+    ],
+    "answer": "Una fuerza gravitacional que lo hace inamovible"
+  },
+  {
+    "question": "¿Con qué X-Man tuvo Polaris una relación?",
+    "options": ["Wolverine", "Cyclops", "Havok", "Iceman", "Beast"],
+    "answer": "Havok"
+  },
+  {
+    "question": "Forge fue contratado por el gobierno de EE.UU. para desarrollar una forma de detectar una raza alienígena conocida como:",
+    "options": [
+      "The Shi'ar",
+      "The Kree",
+      "The Skrulls",
+      "The Dire Wraiths",
+      "The Brood"
+    ],
+    "answer": "The Dire Wraiths"
+  },
+  {
+    "question": "¿Quién es el hijo de Sabretooth?",
+    "options": [
+      "Wolverine",
+      "Graydon Creed",
+      "Quicksilver",
+      "Juggernaut",
+      "Gambit"
+    ],
+    "answer": "Graydon Creed"
+  },
+  {
+    "question": "¿Dónde nació Beast?",
+    "options": [
+      "Ciudad de Nueva York",
+      "Genosha",
+      "Lubbock, Texas",
+      "Dunfee, Illinois",
+      "Asteroide M"
+    ],
+    "answer": "Dunfee, Illinois"
+  },
+  {
+    "question": "¿Angel es:",
+    "options": [
+      "Pobre",
+      "Clase media",
+      "Extremadamente rico",
+      "De recursos promedio",
+      "Un ex criminal"
+    ],
+    "answer": "Extremadamente rico"
+  },
+  {
+    "question": "¿Wolverine hizo su debut en 1974 en qué serie de cómics?",
+    "options": [
+      "X-Men",
+      "Spider-Man",
+      "The Avengers",
+      "Incredible Hulk",
+      "Fantastic Four"
+    ],
+    "answer": "Incredible Hulk"
+  },
+  {
+    "question": "En el videojuego X-Men Legends, ¿cuál era el nombre de la base que Magneto tenía en órbita alrededor de la Tierra?",
+    "options": [
+      "Asteroide X",
+      "Asteroide Z",
+      "Asteroide M",
+      "Avalon",
+      "Genosha"
+    ],
+    "answer": "Asteroide M"
+  },
+  {
+    "question": "¿Cuál de los siguientes X-Men fue en un momento el jinete Muerte de Apocalypse?",
+    "options": ["Cyclops", "Storm", "Wolverine", "Colossus", "Iceman"],
+    "answer": "Wolverine"
+  },
+  {
+    "question": "¿A qué equipo de supervillanos pertenecía Destiny?",
+    "options": [
+      "The Hellfire Club",
+      "The Reavers",
+      "The Marauders",
+      "The Brotherhood of Evil Mutants",
+      "The Serpent Society"
+    ],
+    "answer": "The Brotherhood of Evil Mutants"
+  },
+  {
+    "question": "¿Garokk era originalmente:",
+    "options": [
+      "Un mutante",
+      "Un científico",
+      "Un marinero británico",
+      "Un soldado",
+      "Un rey"
+    ],
+    "answer": "Un marinero británico"
+  },
+  {
+    "question": "En el videojuego X-Men Legends, ¿quién fue el primer personaje jugable al principio en la ciudad de Nueva York?",
+    "options": ["Cyclops", "Iceman", "Wolverine", "Storm", "Jean Grey"],
+    "answer": "Wolverine"
+  },
+  {
+    "question": "¿Cuántos dedos tiene Nightcrawler en cada mano?",
+    "options": ["Cuatro", "Cinco", "Tres", "Dos", "Seis"],
+    "answer": "Tres"
+  },
+  {
+    "question": "¿Quién es la esposa de Ka-Zar?",
+    "options": [
+      "Mystique",
+      "Rogue",
+      "Shanna O'Hara",
+      "Lady Deathstrike",
+      "Polaris"
+    ],
+    "answer": "Shanna O'Hara"
+  },
+  {
+    "question": "¿A qué persona no está conectada Mystique?",
+    "options": [
+      "Destiny",
+      "Rogue",
+      "Nightcrawler",
+      "Mikhail Rasputin",
+      "Sabretooth"
+    ],
+    "answer": "Mikhail Rasputin"
+  },
+  {
+    "question": "¿Qué X-Man estuvo involucrado románticamente con Magneto?",
+    "options": ["Jean Grey", "Storm", "Rogue", "Kitty Pryde", "Psylocke"],
+    "answer": "Rogue"
+  },
+  {
+    "question": "¿Joseph es un clon de qué mutante?",
+    "options": [
+      "Professor X",
+      "Apocalypse",
+      "Magneto",
+      "Sabretooth",
+      "Juggernaut"
+    ],
+    "answer": "Magneto"
+  },
+  {
+    "question": "¿Cuál es el nombre real de Iceman?",
+    "options": [
+      "Bobby Drake",
+      "Scott Summers",
+      "Hank McCoy",
+      "Warren Worthington III",
+      "Piotr Rasputin"
+    ],
+    "answer": "Bobby Drake"
+  },
+  {
+    "question": "¿Quién no es miembro de la Hermandad?",
+    "options": ["Toad", "Blob", "Mystique", "Lupa", "Pyro"],
+    "answer": "Lupa"
+  },
+  {
+    "question": "De niño, el héroe de Nightcrawler era:",
+    "options": [
+      "Buster Keaton",
+      "Charlie Chaplin",
+      "Errol Flynn",
+      "Harold Lloyd",
+      "Cary Grant"
+    ],
+    "answer": "Errol Flynn"
+  },
+  {
+    "question": "¿Quién sirvió junto a Cable en su grupo mercenario, Six Pack?",
+    "options": ["Mystique", "Rogue", "Domino", "Lady Deathstrike", "Polaris"],
+    "answer": "Domino"
+  },
+  {
+    "question": "¿Cuál es el poder mutante de Bishop?",
+    "options": [
+      "Telepatía",
+      "Telequinesis",
+      "Absorber energía y reencauzarla",
+      "Cambio de forma",
+      "Manipulación del clima"
+    ],
+    "answer": "Absorber energía y reencauzarla"
+  },
+  {
+    "question": "¿Qué buscaba el padre de Ka-Zar cuando llegó a la Tierra Salvaje?",
+    "options": ["Vibranium", "Adamantium", "Antimetal", "Uru", "Mysterium"],
+    "answer": "Antimetal"
+  },
+  {
+    "question": "¿Cuáles son los poderes de Forge?",
+    "options": [
+      "Telepatía",
+      "Telequinesis",
+      "Inventar nueva tecnología y poderes místicos",
+      "Cambio de forma",
+      "Manipulación del clima"
+    ],
+    "answer": "Inventar nueva tecnología y poderes místicos"
+  },
+  {
+    "question": "¿Cuál era el nombre original de Ka-Zar?",
+    "options": [
+      "Kevin Plunder",
+      "Victor Creed",
+      "Erik Lehnsherr",
+      "Nathan Essex",
+      "Remy LeBeau"
+    ],
+    "answer": "Kevin Plunder"
+  },
+  {
+    "question": "El hermano de Colossus, Mikhail, apareció por primera vez en el número de Uncanny X-Men:",
+    "options": ["280", "285", "290", "295", "300"],
+    "answer": "285"
+  },
+  {
+    "question": "¿Qué villano malvado también es conocido como Cain Marko?",
+    "options": ["Magneto", "Apocalypse", "Juggernaut", "Sabretooth", "Blob"],
+    "answer": "Juggernaut"
+  },
+  {
+    "question": "¿Heather Cameron es conocida como qué X-Man?",
+    "options": ["Rogue", "Storm", "Lifeguard", "Kitty Pryde", "Psylocke"],
+    "answer": "Lifeguard"
+  },
+  {
+    "question": "Magneto apareció por primera vez en el número de X-Men de 1963:",
+    "options": ["1", "5", "10", "15", "20"],
+    "answer": "1"
+  },
+  {
+    "question": "¿Qué nombre usa Magneto?",
+    "options": [
+      "Victor Creed",
+      "Erik Lehnsherr",
+      "Nathan Essex",
+      "Remy LeBeau",
+      "Cain Marko"
+    ],
+    "answer": "Erik Lehnsherr"
+  },
+  {
+    "question": "¿Mikhail es el hermano de:",
+    "options": ["Wolverine", "Cyclops", "Colossus", "Iceman", "Beast"],
+    "answer": "Colossus"
+  },
+  {
+    "question": "¿Colossus descubrió por primera vez que podía convertirse en metal cuando:",
+    "options": [
+      "Fue atacado por un Centinela",
+      "Salvó a su hermana de un tractor descontrolado.",
+      "Fue expuesto a radiación",
+      "Nació",
+      "Fue entrenado por Magneto"
+    ],
+    "answer": "Salvó a su hermana de un tractor descontrolado."
+  },
+  {
+    "question": "En el videojuego X-Men: Legends, ¿cuál era el nombre clave de la joven que los X-Men salvaron en la ciudad de Nueva York de Blob y Mystique?",
+    "options": ["Rogue", "Storm", "Magma", "Kitty Pryde", "Psylocke"],
+    "answer": "Magma"
+  },
+  {
+    "question": "¿Bishop es un viajero en el tiempo de qué siglo?",
+    "options": ["20", "21", "22", "23", "24"],
+    "answer": "21"
+  },
+  {
+    "question": "¿Cuál es el nombre real de Omega Red?",
+    "options": [
+      "Victor Creed",
+      "Erik Lehnsherr",
+      "Arkady Gregorovich",
+      "Nathan Essex",
+      "Remy LeBeau"
+    ],
+    "answer": "Arkady Gregorovich"
+  },
+  {
+    "question": "¿Nightcrawler fue una vez el líder de cuál de los siguientes grupos?",
+    "options": [
+      "La Hermandad",
+      "El Club Fuego Infernal",
+      "Excalibur",
+      "Los Reavers",
+      "Los Marauders"
+    ],
+    "answer": "Excalibur"
+  },
+  {
+    "question": "¿Cuál es el nombre real de Pyro?",
+    "options": [
+      "John Allerdyce",
+      "Victor Creed",
+      "Erik Lehnsherr",
+      "Nathan Essex",
+      "Remy LeBeau"
+    ],
+    "answer": "St. John Allerdyce"
+  },
+  {
+    "question": "¿Aproximadamente cuántos años tiene Apocalypse?",
+    "options": [
+      "1000 años",
+      "2000 años",
+      "3000 años",
+      "4000 años",
+      "5000 años"
+    ],
+    "answer": "5000 años"
+  },
+  {
+    "question": "¿Cuál es el nombre real de Sauron?",
+    "options": [
+      "Victor Creed",
+      "Erik Lehnsherr",
+      "Karl Lykos",
+      "Nathan Essex",
+      "Remy LeBeau"
+    ],
+    "answer": "Karl Lykos"
+  },
+  {
+    "question": "Shanna en un momento:",
+    "options": [
+      "Fue una reina",
+      "Trabajó en un zoológico en la ciudad de Nueva York",
+      "Fue una pirata",
+      "Fue una científica",
+      "Fue una política"
+    ],
+    "answer": "Trabajó en un zoológico en la ciudad de Nueva York"
+  },
+  {
+    "question": "Muerte, Guerra, Pestilencia y Hambre juntos forman ¿qué grupo?",
+    "options": [
+      "La Hermandad",
+      "El Club Fuego Infernal",
+      "Los Cuatro Jinetes",
+      "Los Reavers",
+      "Los Marauders"
+    ],
+    "answer": "Los Cuatro Jinetes"
+  },
+  {
+    "question": "¿Cuál es la habilidad mutante de Pyro?",
+    "options": [
+      "Telepatía",
+      "Telequinesis",
+      "Puede controlar el fuego.",
+      "Cambio de forma",
+      "Manipulación del clima"
+    ],
+    "answer": "Puede controlar el fuego."
+  },
+  {
+    "question": "¿Cuál es el nombre real de Sunfire?",
+    "options": [
+      "Victor Creed",
+      "Erik Lehnsherr",
+      "Shiro Yoshida",
+      "Nathan Essex",
+      "Remy LeBeau"
+    ],
+    "answer": "Shiro Yoshida"
+  },
+  {
+    "question": "El nombre clave de Ororo Munroe en los X-Men es:",
+    "options": ["Mystique", "Rogue", "Storm", "Kitty Pryde", "Psylocke"],
+    "answer": "Storm"
+  },
+  {
+    "question": "¿Las bobinas del brazo de Omega Red están hechas de qué material?",
+    "options": ["Adamantium", "Vibranium", "Carbonadium", "Uru", "Mysterium"],
+    "answer": "Carbonadium"
+  },
+  {
+    "question": "Toad apareció por primera vez en:",
+    "options": [
+      "X-Men número 1",
+      "X-Men número 2",
+      "X-Men número 3",
+      "X-Men número 4",
+      "X-Men número 5"
+    ],
+    "answer": "X-Men número 4"
+  },
+  {
+    "question": "¿Dónde está ubicada la Tierra Salvaje?",
+    "options": ["África", "Sudamérica", "Asia", "Antártida", "Australia"],
+    "answer": "Antártida"
+  },
+  {
+    "question": "¿Quién es la mejor amiga de Mystique?",
+    "options": ["Rogue", "Storm", "Destiny", "Kitty Pryde", "Psylocke"],
+    "answer": "Destiny"
+  },
+  {
+    "question": "La Tierra Salvaje está protegida de las temperaturas de congelación por:",
+    "options": [
+      "Magia",
+      "Tecnología alienígena",
+      "Poderes mutantes",
+      "Actividad volcánica",
+      "Un campo de fuerza"
+    ],
+    "answer": "Tecnología alienígena"
+  },
+  {
+    "question": "Mikhail Rasputin ha sido:",
+    "options": [
+      "Un rey",
+      "Un científico",
+      "Un cosmonauta ruso",
+      "Un pirata",
+      "Un político"
+    ],
+    "answer": "Un cosmonauta ruso"
+  },
+  {
+    "question": "Nightcrawler creció trabajando en un circo como:",
+    "options": [
+      "Un payaso",
+      "Un maestro de ceremonias",
+      "Un acróbata",
+      "Un mago",
+      "Un forzudo"
+    ],
+    "answer": "Un acróbata"
+  },
+  {
+    "question": "¿Qué animal protegió a Ka-Zar mientras crecía en la Tierra Salvaje?",
+    "options": [
+      "Un león",
+      "Un oso",
+      "Un tigre dientes de sable",
+      "Un lobo",
+      "Un gorila"
+    ],
+    "answer": "Un tigre dientes de sable"
+  },
+  {
+    "question": "¿Cómo era conocida Shanna en la Tierra Salvaje?",
+    "options": [
+      "Shanna la Reina",
+      "Shanna la Guerrera",
+      "Shanna la Diablesa",
+      "Shanna la Cazadora",
+      "Shanna la Hechicera"
+    ],
+    "answer": "Shanna la Diablesa"
+  },
+  {
+    "question": "¿Garokk naufragó en la Tierra Salvaje en qué período de tiempo?",
+    "options": ["1200s", "1300s", "1400s", "1500s", "1600s"],
+    "answer": "1400s"
+  },
+  {
+    "question": "¿Bishop tiene una hermana llamada?",
+    "options": ["Mystique", "Rogue", "Shard", "Kitty Pryde", "Psylocke"],
+    "answer": "Shard"
+  },
+  {
+    "question": "¿Cuál era el nombre clave de la hermana de Sunfire?",
+    "options": ["Sunstorm", "Sunray", "Sunpyre", "Solaris", "Sunspot"],
+    "answer": "Sunpyre"
+  },
+  {
+    "question": "Wolverine terminó matando al padre de esta mujer que amaba:",
+    "options": [
+      "Jean Grey",
+      "Storm",
+      "Mariko Yashido",
+      "Silver Fox",
+      "Rose O'Hara"
+    ],
+    "answer": "Mariko Yashido"
+  },
+  {
+    "question": "¿Qué líder del Club Fuego Infernal apareció por primera vez en X-Men número 129 en 1980?",
+    "options": [
+      "Emma Frost",
+      "Magneto",
+      "Sebastian Shaw",
+      "Mr. Sinister",
+      "Apocalypse"
+    ],
+    "answer": "Sebastian Shaw"
+  },
+  {
+    "question": "¿Storm fue una vez la líder de cuál de los siguientes grupos?",
+    "options": [
+      "La Hermandad",
+      "El Club Fuego Infernal",
+      "Los Morlocks",
+      "Los Reavers",
+      "Los Marauders"
+    ],
+    "answer": "Los Morlocks"
+  },
+  {
+    "question": "¿Cuál es el nombre clave de Heather Hudson en Alpha Flight?",
+    "options": ["Guardian", "Sasquatch", "Vindicator", "Shaman", "Puck"],
+    "answer": "Vindicator"
+  },
+  {
+    "question": "¿Quién supervisó el programa Arma X durante la transformación de Wolverine?",
+    "options": [
+      "Magneto",
+      "Apocalypse",
+      "The Professor",
+      "Mr. Sinister",
+      "Bolivar Trask"
+    ],
+    "answer": "The Professor"
+  },
+  {
+    "question": "¿Quién no es miembro de Alpha Flight?",
+    "options": ["Guardian", "Sasquatch", "Puck", "Prism", "Shaman"],
+    "answer": "Prism"
+  },
+  {
+    "question": "El padre de Cyclops es el capitán de una nave espacial llamada:",
+    "options": [
+      "The Blackbird",
+      "The Quinjet",
+      "The Starjammer",
+      "The Milano",
+      "The Helicarrier"
+    ],
+    "answer": "The Starjammer"
+  },
+  {
+    "question": "¿Qué super equipo estaba originalmente destinado a liderar Wolverine?",
+    "options": [
+      "The Avengers",
+      "The Defenders",
+      "Alpha Flight",
+      "The X-Men",
+      "The Fantastic Four"
+    ],
+    "answer": "Alpha Flight"
+  },
+  {
+    "question": "¿Quién es el líder del equipo conocido como los Hellions?",
+    "options": [
+      "Magneto",
+      "Apocalypse",
+      "Emma Frost",
+      "Sebastian Shaw",
+      "Mr. Sinister"
+    ],
+    "answer": "Emma Frost"
+  },
+  {
+    "question": "¿Quién es el esposo de Heather Hudson?",
+    "options": ["Wolverine", "Cyclops", "Guardian", "Beast", "Iceman"],
+    "answer": "Guardian"
+  },
+  {
+    "question": "Se especula que el padre del Professor Xavier en algún momento:",
+    "options": [
+      "Era un mutante",
+      "Era miembro del Club Fuego Infernal",
+      "Fue parte del proyecto Arma X que trabajó en Wolverine.",
+      "Era miembro de la Hermandad",
+      "Era un creador de Centinelas"
+    ],
+    "answer": "Fue parte del proyecto Arma X que trabajó en Wolverine."
+  },
+  {
+    "question": "¿Cuál es el nombre real de Havok?",
+    "options": [
+      "Scott Summers",
+      "Alex Summers",
+      "Nathan Summers",
+      "Gabriel Summers",
+      "Christopher Summers"
+    ],
+    "answer": "Alex Summers"
+  },
+  {
+    "question": "¿Cuál es el nombre clave de James MacDonald Hudson en Alpha Flight?",
+    "options": ["Vindicator", "Sasquatch", "Guardian", "Shaman", "Puck"],
+    "answer": "Guardian"
+  },
+  {
+    "question": "¿Cuál de los siguientes X-Men también ha sido miembro de los Vengadores?",
+    "options": ["Cyclops", "Storm", "Wolverine", "Beast", "Iceman"],
+    "answer": "Wolverine"
+  },
+  {
+    "question": "¿Quién salvó a Apocalypse de niño?",
+    "options": [
+      "Magneto",
+      "Mr. Sinister",
+      "Baal",
+      "Sebastian Shaw",
+      "Emma Frost"
+    ],
+    "answer": "Baal"
+  },
+  {
+    "question": "El proceso de unir Adamantium a los huesos de Wolverine lo habría matado si no fuera por:",
+    "options": [
+      "Los poderes de Magneto",
+      "La intervención de Apocalypse",
+      "El poder de curación de Wolverine",
+      "La telepatía del Profesor X",
+      "Las habilidades de Emma Frost"
+    ],
+    "answer": "El poder de curación de Wolverine"
+  },
+  {
+    "question": "¿A qué equipo de superhéroes pertenece Heather Hudson?",
+    "options": [
+      "The Avengers",
+      "The Defenders",
+      "Alpha Flight",
+      "The X-Men",
+      "The Fantastic Four"
+    ],
+    "answer": "Alpha Flight"
+  },
+  {
+    "question": "¿Cuál es el título de Sebastian Shaw en el Club Fuego Infernal?",
+    "options": [
+      "Rey Blanco",
+      "Rey Negro",
+      "Rey Rojo",
+      "Rey Gris",
+      "Rey Púrpura"
+    ],
+    "answer": "Rey Negro"
+  },
+  {
+    "question": "¿De dónde es Toad?",
+    "options": ["América", "Canadá", "Inglaterra", "Australia", "Alemania"],
+    "answer": "Inglaterra"
+  },
+  {
+    "question": "Ororo Monroe, mejor conocida como Storm, apareció por primera vez en 1975 en ¿qué cómic?",
+    "options": [
+      "X-Men #1",
+      "Avengers #1",
+      "Fantastic Four #1",
+      "X-Men Giant-Size #1",
+      "Incredible Hulk #1"
+    ],
+    "answer": "X-Men Giant-Size #1"
+  },
+  {
+    "question": "¿Dónde encontró Juggernaut el Rubí de Cyttorak?",
+    "options": ["Egipto", "India", "Corea", "Perú", "Grecia"],
+    "answer": "Corea"
+  },
+  {
+    "question": "¿Los poderes principales de Jean Grey son:",
+    "options": [
+      "Telepatía, Vuelo",
+      "Telequinesis, Super Fuerza",
+      "Telequinesis, Telepatía",
+      "Teletransportación, Telequinesis",
+      "Telepatía, Cambio de forma"
+    ],
+    "answer": "Telequinesis, Telepatía"
+  },
+  {
+    "question": "¿A qué equipo de superhéroes pertenece James MacDonald Hudson?",
+    "options": [
+      "The Avengers",
+      "The Defenders",
+      "Alpha Flight",
+      "The X-Men",
+      "The Fantastic Four"
+    ],
+    "answer": "Alpha Flight"
+  },
+  {
+    "question": "¿A qué club social de Nueva York pertenece Sebastian Shaw?",
+    "options": [
+      "La Mansión de los Vengadores",
+      "El Edificio Baxter",
+      "El Club Fuego Infernal",
+      "El Daily Bugle",
+      "El Sanctum Sanctorum"
+    ],
+    "answer": "El Club Fuego Infernal"
+  },
+  {
+    "question": "Apocalypse apareció por primera vez en X-Factor número 5 en:",
+    "options": ["1980", "1983", "1986", "1989", "1992"],
+    "answer": "1986"
+  },
+  {
+    "question": "¿Quién dirigía la instalación a la que se enviaban los experimentos fallidos de Arma X, como Deadpool?",
+    "options": [
+      "Magneto",
+      "Apocalypse",
+      "Dr. Killebrew",
+      "Mr. Sinister",
+      "Sebastian Shaw"
+    ],
+    "answer": "Dr. Killebrew"
+  },
+  {
+    "question": "¿Cable fundó qué equipo compuesto principalmente por antiguos estudiantes de la escuela Xavier?",
+    "options": [
+      "La Hermandad",
+      "El Club Fuego Infernal",
+      "X-Force",
+      "Los Reavers",
+      "Los Marauders"
+    ],
+    "answer": "X-Force"
+  },
+  {
+    "question": "¿El líder de la Hermandad es:",
+    "options": [
+      "Magneto",
+      "Apocalypse",
+      "Mr. Sinister",
+      "Sebastian Shaw",
+      "Emma Frost"
+    ],
+    "answer": "Magneto"
+  },
+  {
+    "question": "¿Cuál es el poder mutante de Sebastian Shaw?",
+    "options": [
+      "Telepatía",
+      "Telequinesis",
+      "Absorber y reencauzar energía",
+      "Cambio de forma",
+      "Manipulación del clima"
+    ],
+    "answer": "Absorber y reencauzar energía"
+  },
+  {
+    "question": "¿A quién secuestró Apocalypse y crió para que fuera tan cruel como él?",
+    "options": ["Wolverine", "Cyclops", "Stryfe", "Beast", "Iceman"],
+    "answer": "Stryfe"
+  },
+  {
+    "question": "¿Quién tomó el control del cuerpo de Iceman y descubrió que sus poderes eran mayores de lo que él creía?",
+    "options": [
+      "Magneto",
+      "Apocalypse",
+      "Emma Frost",
+      "Mr. Sinister",
+      "Sebastian Shaw"
+    ],
+    "answer": "Emma Frost"
+  },
+  {
+    "question": "¿Quién es la esposa de James MacDonald Hudson?",
+    "options": [
+      "Mystique",
+      "Rogue",
+      "Vindicator",
+      "Lady Deathstrike",
+      "Polaris"
+    ],
+    "answer": "Vindicator"
+  },
+  {
+    "question": "Sugar Man es originario de una línea de tiempo donde:",
+    "options": [
+      "Los X-Men son malvados",
+      "Los mutantes gobiernan el mundo",
+      "Xavier está muerto y Apocalypse casi gobierna el mundo",
+      "Humanos y mutantes viven en paz",
+      "Los Vengadores son los villanos"
+    ],
+    "answer": "Xavier está muerto y Apocalypse casi gobierna el mundo"
+  },
+  {
+    "question": "¿Magneto una vez levantó una ciudad misteriosa del océano en qué parte del mundo?",
+    "options": [
+      "El Océano Atlántico",
+      "El Océano Pacífico",
+      "El Océano Índico",
+      "El Triángulo de las Bermudas",
+      "El Océano Ártico"
+    ],
+    "answer": "El Triángulo de las Bermudas"
+  },
+  {
+    "question": "¿Quién no fue sujeto del proyecto Arma X?",
+    "options": ["Wolverine", "Deadpool", "Sabretooth", "Shard", "Maverick"],
+    "answer": "Shard"
+  },
+  {
+    "question": "¿Betsy Braddock es conocida como qué X-Man?",
+    "options": ["Rogue", "Storm", "Psylocke", "Kitty Pryde", "Magik"],
+    "answer": "Psylocke"
+  },
+  {
+    "question": "¿Cuál es el nombre real de Scarlet Witch?",
+    "options": [
+      "Raven Darkholme",
+      "Clarice Ferguson",
+      "Wanda Maximoff",
+      "Yuriko Oyama",
+      "Jean Grey"
+    ],
+    "answer": "Wanda Maximoff"
+  },
+  {
+    "question": "¿Rogue apareció por primera vez en qué cómic de 1981?",
+    "options": [
+      "X-Men #1",
+      "Avengers #1",
+      "Fantastic Four #1",
+      "Avengers Annual #10",
+      "Incredible Hulk #1"
+    ],
+    "answer": "Avengers Annual #10"
+  },
+  {
+    "question": "Antes de dedicarse al crimen, Pyro era:",
+    "options": ["Científico", "Soldado", "Escritor", "Profesor", "Doctor"],
+    "answer": "Escritor"
+  },
+  {
+    "question": "¿Quiénes fueron estudiantes de Emma Frost?",
+    "options": [
+      "La Hermandad",
+      "El Club Fuego Infernal",
+      "Las Stepford Cuckoos",
+      "Los Reavers",
+      "Los Marauders"
+    ],
+    "answer": "Las Stepford Cuckoos"
+  },
+  {
+    "question": "¿La instalación de Arma X está ubicada en:",
+    "options": ["América", "Canadá", "Inglaterra", "Australia", "Alemania"],
+    "answer": "Canadá"
+  },
+  {
+    "question": "Los Soldados Infinitos son clones creados por:",
+    "options": [
+      "Magneto",
+      "Apocalypse",
+      "Mr. Sinister",
+      "Sebastian Shaw",
+      "Emma Frost"
+    ],
+    "answer": "Mister Sinister"
+  },
+  {
+    "question": "¿Sugar Man es un viajero de qué realidad alterna?",
+    "options": [
+      "Tierra-X",
+      "Días del Futuro Pasado",
+      "La Era de Apocalipsis",
+      "Dinastía de M",
+      "Universo Ultimate"
+    ],
+    "answer": "La Era de Apocalipsis"
+  },
+  {
+    "question": "Sunfire es miembro de un equipo de superhéroes japonés conocido en inglés como:",
+    "options": [
+      "El Sol Naciente",
+      "Los Siete Samuráis",
+      "Big Hero 6",
+      "Las Cuchillas Carmesí",
+      "La Brigada Atómica"
+    ],
+    "answer": "Big Hero 6"
+  },
+  {
+    "question": "Después de escapar de la instalación Arma X, Wolverine fue descubierto y se hizo amigo de:",
+    "options": [
+      "Charles Xavier",
+      "Erik Lehnsherr",
+      "James y Heather Hudson",
+      "Reed Richards",
+      "Tony Stark"
+    ],
+    "answer": "James y Heather Hudson"
+  },
+  {
+    "question": "¿Qué es falso sobre Guardian?",
+    "options": [
+      "Es un mutante",
+      "Está casado con Vindicator",
+      "Es miembro de Alpha Flight",
+      "Lleva un traje de armadura",
+      "Tiene una esposa llamada Heather"
+    ],
+    "answer": "Es un mutante"
+  },
+  {
+    "question": "¿Qué absorbe Rogue cuando toca a alguien?",
+    "options": [
+      "Recuerdos",
+      "Poderes",
+      "Fuerza vital",
+      "Todo lo anterior",
+      "Nada de lo anterior"
+    ],
+    "answer": "Todo lo anterior"
+  },
+  {
+    "question": "Mientras trabajaba para el gobierno en Dallas, Texas, Forge tenía un ático conocido como:",
+    "options": [
+      "La Sala de Peligro",
+      "La Suite Cerebro",
+      "Nido de Águila",
+      "El Hangar del Pájaro Negro",
+      "El Anexo del Instituto Xavier"
+    ],
+    "answer": "Nido de Águila"
+  },
+  {
+    "question": "¿De qué color es el pelaje de Beast?",
+    "options": ["Marrón", "Negro", "Azul", "Gris", "Blanco"],
+    "answer": "Azul"
+  },
+  {
+    "question": "Nick Fury es el líder de:",
+    "options": ["Hydra", "AIM", "SHIELD", "La Mano", "La Hermandad"],
+    "answer": "SHIELD"
+  },
+  {
+    "question": "Los habitantes mutantes de las alcantarillas de la ciudad de Nueva York son conocidos como:",
+    "options": [
+      "El Subterráneo",
+      "Los Tuneladores",
+      "Los Morlocks",
+      "Los Subterráneos",
+      "Los Perdidos"
+    ],
+    "answer": "Los Morlocks"
+  },
+  {
+    "question": "¿Cuál es el nombre real de Wolverine?",
+    "options": [
+      "Logan Howlett",
+      "James Howlett",
+      "Victor Creed",
+      "John Wraith",
+      "Remy LeBeau"
+    ],
+    "answer": "James Howlett"
+  },
+  {
+    "question": "El Centro de Investigación Mutante de Moira MacTaggert está ubicado en:",
+    "options": [
+      "Genosha",
+      "Asteroide M",
+      "Isla Muir",
+      "Madripoor",
+      "Tierra Salvaje"
+    ],
+    "answer": "Isla Muir"
+  },
+  {
+    "question": "En la Segunda Guerra Mundial, Nick Fury comandó:",
+    "options": [
+      "Los Invasores",
+      "Los Comandos Aulladores",
+      "Los Libertadores",
+      "Los Luchadores por la Libertad",
+      "Las Fuerzas Aliadas"
+    ],
+    "answer": "Los Comandos Aulladores"
+  },
+  {
+    "question": "La mutación secundaria de Angel le permite:",
+    "options": [
+      "Controlar el clima",
+      "Teletransportarse",
+      "Acelerar su factor de curación.",
+      "Manipular metal",
+      "Volverse invisible"
+    ],
+    "answer": "Acelerar su factor de curación."
+  },
+  {
+    "question": "Banshee tiene el poder mutante de:",
+    "options": [
+      "Controlar mentes",
+      "Generar un grito sónico.",
+      "Manipular el tiempo",
+      "Controlar metal",
+      "Volar"
+    ],
+    "answer": "Generar un grito sónico."
+  },
+  {
+    "question": "¿Qué organización reunió Bastion?",
+    "options": [
+      "La Hermandad",
+      "El Club Fuego Infernal",
+      "Operación: Tolerancia Cero",
+      "Los Reavers",
+      "Los Marauders"
+    ],
+    "answer": "Operación: Tolerancia Cero"
+  },
+  {
+    "question": "¿Cuál es el nombre real de la Reina Negra?",
+    "options": [
+      "Emma Frost",
+      "Mystique",
+      "Selene",
+      "Lady Deathstrike",
+      "Madelyne Pryor"
+    ],
+    "answer": "Selene"
+  },
+  {
+    "question": "¿Cuál es el nombre de la máquina que el Profesor Charles Xavier usa para encontrar mutantes en todo el mundo?",
+    "options": [
+      "El Detector de Mutantes",
+      "Los Rayos X",
+      "Cerebro",
+      "El Escáner de Mutantes",
+      "El Localizador de Mutantes"
+    ],
+    "answer": "Cerebro"
+  },
+  {
+    "question": "Deadpool usa una máscara:",
+    "options": [
+      "Para ocultar su identidad",
+      "Para intimidar a sus enemigos",
+      "Para cubrir su rostro con cicatrices",
+      "Para protegerse de los telépatas",
+      "Para mejorar sus poderes"
+    ],
+    "answer": "Para cubrir su rostro con cicatrices"
+  },
+  {
+    "question": "La hija de Banshee usa el nombre clave:",
+    "options": ["Rogue", "Storm", "Syrin", "Kitty Pryde", "Psylocke"],
+    "answer": "Syrin"
+  },
+  {
+    "question": "¿Quién es el clon malvado de Cable?",
+    "options": [
+      "Magneto",
+      "Apocalypse",
+      "Stryfe",
+      "Mr. Sinister",
+      "Sebastian Shaw"
+    ],
+    "answer": "Stryfe"
+  },
+  {
+    "question": "¿Cuál era el nombre clave de la hermana de Colossus?",
+    "options": ["Rogue", "Storm", "Magik", "Kitty Pryde", "Psylocke"],
+    "answer": "Magik"
+  },
+  {
+    "question": "¿Cuál es el segundo nombre del Profesor Xavier?",
+    "options": ["Michael", "Edward", "Francis", "John", "Robert"],
+    "answer": "Francis"
+  },
+  {
+    "question": "¿Cuál es la habilidad mutante de la Reina Negra?",
+    "options": [
+      "Telepatía",
+      "Telequinesis",
+      "Drenar la fuerza vital de otros para mantener su belleza.",
+      "Cambio de forma",
+      "Manipulación del clima"
+    ],
+    "answer": "Drenar la fuerza vital de otros para mantener su belleza."
+  },
+  {
+    "question": "¿Quién es el bisabuelo de Bishop?",
+    "options": ["Wolverine", "Cyclops", "Gateway", "Beast", "Iceman"],
+    "answer": "Gateway"
+  },
+  {
+    "question": "Sean Cassiday, mejor conocido como Banshee, apareció por primera vez en 1967 en ¿qué cómic?",
+    "options": [
+      "X-Men #1",
+      "Avengers #1",
+      "Fantastic Four #1",
+      "Uncanny X-Men #28",
+      "Incredible Hulk #1"
+    ],
+    "answer": "Uncanny X-Men #28"
+  },
+  {
+    "question": "¿Magneto una vez se disfrazó de qué mutante para infiltrarse en el Instituto Xavier?",
+    "options": ["Mystique", "Rogue", "Xorn", "Lady Deathstrike", "Polaris"],
+    "answer": "Xorn"
+  },
+  {
+    "question": "Los poderes de Sunfire se manifestaron por primera vez cuando:",
+    "options": [
+      "Nació",
+      "Fue expuesto a rayos cósmicos",
+      "Tocó suelo radiactivo",
+      "Fue mordido por una araña radiactiva",
+      "Fue entrenado por Magneto"
+    ],
+    "answer": "Tocó suelo radiactivo"
+  },
+  {
+    "question": "Deadpool es una víctima de:",
+    "options": ["Hydra", "AIM", "Arma X", "La Mano", "La Hermandad"],
+    "answer": "Arma X"
+  },
+  {
+    "question": "El poder de Scarlet Witch es la habilidad de:",
+    "options": [
+      "Controlar mentes",
+      "Manipular el tiempo",
+      "Afectar la probabilidad y hacer que lo improbable se vuelva posible",
+      "Controlar metal",
+      "Volar"
+    ],
+    "answer": "Afectar la probabilidad y hacer que lo improbable se vuelva posible"
+  },
+  {
+    "question": "¿Quién es el primo de Banshee?",
+    "options": ["Wolverine", "Cyclops", "Black Tom Cassidy", "Beast", "Iceman"],
+    "answer": "Black Tom Cassidy"
+  },
+  {
+    "question": "¿Cuál era el nombre del chico que Rogue besó y casi mató justo cuando sus poderes comenzaban a emerger?",
+    "options": [
+      "Bobby Drake",
+      "Scott Summers",
+      "Cody Robbins",
+      "Warren Worthington III",
+      "Piotr Rasputin"
+    ],
+    "answer": "Cody Robbins"
+  },
+  {
+    "question": "¿Quién es el leal compañero de Kitty Pryde?",
+    "options": ["Lockheed", "Puff", "Zeke", "Mirage", "Plume"],
+    "answer": "Lockheed"
+  },
+  {
+    "question": "¿Cuál de los cuatro jinetes de Apocalypse es Archangel?",
+    "options": [
+      "Guerra",
+      "Pestilencia",
+      "Muerte",
+      "Hambre",
+      "Todos los anteriores"
+    ],
+    "answer": "Muerte"
+  },
+  {
+    "question": "De niña, Storm era:",
+    "options": [
+      "Una princesa",
+      "Una ladrona",
+      "Una carterista en El Cairo, Egipto",
+      "Una científica",
+      "Una hechicera"
+    ],
+    "answer": "Una carterista en El Cairo, Egipto"
+  },
+  {
+    "question": "Toad es devoto de:",
+    "options": [
+      "Profesor X",
+      "Apocalypse",
+      "Magneto",
+      "Mr. Sinister",
+      "Sebastian Shaw"
+    ],
+    "answer": "Magneto"
+  },
+  {
+    "question": "¿Cuántas garras de Adamantium tiene Wolverine en cada mano?",
+    "options": ["Dos", "Tres", "Cuatro", "Cinco", "Seis"],
+    "answer": "Tres"
+  },
+  {
+    "question": "Deadpool se unió al programa Arma X porque:",
+    "options": [
+      "Fue forzado",
+      "Fue reclutado",
+      "Tenía cáncer",
+      "Quería ser un héroe",
+      "Fue pagado"
+    ],
+    "answer": "Tenía cáncer"
+  },
+  {
+    "question": "¿Quién no ha servido en el círculo interno del Club Fuego Infernal?",
+    "options": [
+      "Emma Frost",
+      "Sebastian Shaw",
+      "Lorna Dane",
+      "Donald Pierce",
+      "Selene"
+    ],
+    "answer": "Lorna Dane"
+  },
+  {
+    "question": "¿Qué miembro del Club Fuego Infernal es realmente un cyborg no mutante?",
+    "options": [
+      "Emma Frost",
+      "Sebastian Shaw",
+      "Donald Pierce",
+      "Selene",
+      "Madelyne Pryor"
+    ],
+    "answer": "Donald Pierce"
+  },
+  {
+    "question": "¿Cuál era el título de Emma Frost en el Club Fuego Infernal?",
+    "options": [
+      "Reina Negra",
+      "Reina Blanca",
+      "Reina Roja",
+      "Reina Gris",
+      "Reina Púrpura"
+    ],
+    "answer": "Reina Blanca"
+  },
+  {
+    "question": "¿Quién fue el mentor de Kitty Pryde?",
+    "options": ["Profesor X", "Cyclops", "Wolverine", "Beast", "Iceman"],
+    "answer": "Wolverine"
+  },
+  {
+    "question": "Moira MacTaggert tuvo un hijo llamado Kevin que también era conocido como:",
+    "options": ["Proteus", "Legion", "Stryfe", "Vulcan", "Madrox"],
+    "answer": "Proteus"
+  },
+  {
+    "question": "¿Qué X-Man está románticamente involucrado con Kitty Pryde?",
+    "options": ["Wolverine", "Cyclops", "Colossus", "Beast", "Iceman"],
+    "answer": "Colossus"
+  },
+  {
+    "question": "Lockheed, el pequeño dragón compañero de Kitty Pryde, apareció por primera vez en ¿qué mundo natal de los alienígenas?",
+    "options": [
+      "Los Shi'ar",
+      "Los Kree",
+      "The Brood",
+      "Los Skrulls",
+      "The Phalanx"
+    ],
+    "answer": "The Brood"
+  },
+  {
+    "question": "¿Dónde aparecen las garras de Wolverine?",
+    "options": [
+      "Entre sus dedos",
+      "Desde sus muñecas",
+      "Entre sus nudillos",
+      "Desde sus codos",
+      "Desde sus hombros"
+    ],
+    "answer": "Entre sus nudillos"
+  },
+  {
+    "question": "¿Cuál es el nombre real de Marrow?",
+    "options": ["Sarah", "Rachel", "Susan", "Mary", "Jane"],
+    "answer": "Sarah"
+  },
+  {
+    "question": "En el videojuego X-Men Legends: The Rise of Apocalypse, ¿cuál es el nombre del escondite secreto de Magneto cerca de Genosha?",
+    "options": [
+      "Avalon",
+      "Sanctuary",
+      "Asteroide M",
+      "Genosha Prime",
+      "La Ciudadela"
+    ],
+    "answer": "Sanctuary"
+  },
+  {
+    "question": "Bastion es realmente:",
+    "options": [
+      "Un mutante",
+      "Un alienígena",
+      "Un robot",
+      "Un Centinela híbrido disfrazado",
+      "Un clon"
+    ],
+    "answer": "Un Centinela híbrido disfrazado"
+  },
+  {
+    "question": "Durante un tiempo, Bishop trabajó:",
+    "options": [
+      "Como profesor",
+      "Como científico",
+      "Como detective",
+      "Como soldado",
+      "Como político"
+    ],
+    "answer": "Como detective"
+  },
+  {
+    "question": "Forge fue entrenado en magia por:",
+    "options": [
+      "Dr. Strange",
+      "Agatha Harkness",
+      "El Chamán Cheyenne Naze",
+      "El Anciano",
+      "Zatanna"
+    ],
+    "answer": "El Chamán Cheyenne Naze"
+  },
+  {
+    "question": "El Club Fuego Infernal comenzó originalmente en:",
+    "options": ["América", "Canadá", "Inglaterra", "Australia", "Alemania"],
+    "answer": "Londres"
+  },
+  {
+    "question": "En el videojuego X-Men: Legends, ¿quién es el líder de los Morlocks?",
+    "options": ["Callisto", "Masque", "Marrow", "Sunder", "Scaleface"],
+    "answer": "Marrow"
+  },
+  {
+    "question": "Durante un tiempo, Banshee trabajó para:",
+    "options": ["Interpol", "SHIELD", "El FBI", "La CIA", "MI6"],
+    "answer": "Interpol"
+  },
+  {
+    "question": "¿Cuál es el nombre de la sala donde los X-Men hacen sus ejercicios de entrenamiento?",
+    "options": [
+      "La Sala de Guerra",
+      "El Centro de Entrenamiento",
+      "La Sala de Peligro",
+      "La Cámara de Simulación",
+      "La Arena de Batalla"
+    ],
+    "answer": "La Sala de Peligro"
+  },
+  {
+    "question": "En el Club Fuego Infernal, Sebastian Shaw usa el nombre clave:",
+    "options": [
+      "Rey Blanco",
+      "Rey Negro",
+      "Rey Rojo",
+      "Rey Gris",
+      "Rey Púrpura"
+    ],
+    "answer": "Rey Negro"
+  },
+  {
+    "question": "Deadpool posee la habilidad de:",
+    "options": [
+      "Telepatía",
+      "Telequinesis",
+      "Curarse rápidamente",
+      "Cambio de forma",
+      "Manipulación del clima"
+    ],
+    "answer": "Curarse rápidamente"
+  },
+  {
+    "question": "¿En qué ojo está ciego Nick Fury?",
+    "options": [
+      "Derecho",
+      "Izquierdo",
+      "Ambos",
+      "Ninguno",
+      "Cambia frecuentemente"
+    ],
+    "answer": "Izquierdo"
+  },
+  {
+    "question": "Beast desarrolló pelaje azul debido a:",
+    "options": [
+      "Una maldición",
+      "Una mutación",
+      "Un suero que tomó",
+      "Un experimento",
+      "Un accidente"
+    ],
+    "answer": "Un suero que tomó"
+  },
+  {
+    "question": "¿De qué color es el cabello de Cable?",
+    "options": ["Negro", "Marrón", "Blanco", "Rojo", "Rubio"],
+    "answer": "Blanco"
+  },
+  {
+    "question": "¿Cuál de los siguientes X-Men fue en un momento huésped de Apocalypse?",
+    "options": ["Wolverine", "Storm", "Cyclops", "Beast", "Iceman"],
+    "answer": "Cyclops"
+  },
+  {
+    "question": "Ahmet Abdol también es conocido como:",
+    "options": [
+      "Faraón Viviente",
+      "Monolito Viviente",
+      "Momia Viviente",
+      "Estatua Viviente",
+      "Titán Viviente"
+    ],
+    "answer": "Monolito Viviente"
+  },
+  {
+    "question": "En X-Men Legends 2 - Rise of Apocalypse, ¿quién fue responsable de transformar al X-Man Angel en Archangel?",
+    "options": [
+      "Magneto",
+      "Apocalypse",
+      "Mr. Sinister",
+      "Sebastian Shaw",
+      "Emma Frost"
+    ],
+    "answer": "Mr. Sinister"
+  },
+  {
+    "question": "¿Bishop formó parte de qué fuerza de seguridad en el futuro?",
+    "options": [
+      "SHIELD",
+      "SWORD",
+      "Xavier Security Enforcers",
+      "La Autoridad de Variación Temporal",
+      "La Fundación Futura"
+    ],
+    "answer": "Xavier Security Enforcers"
+  },
+  {
+    "question": "Scott Summers trabaja bajo el nombre clave:",
+    "options": ["Havok", "Cyclops", "Vulcan", "Cable", "Bishop"],
+    "answer": "Cyclops"
+  },
+  {
+    "question": "Colossus tiene un hermano llamado:",
+    "options": ["Pietro", "Alex", "Mikhail", "Nathan", "Gabriel"],
+    "answer": "Mikhail"
+  },
+  {
+    "question": "¿A quién es la única persona a la que el poder de Havok no puede dañar?",
+    "options": [
+      "Profesor X",
+      "Magneto",
+      "Scott Summers",
+      "Apocalypse",
+      "Mr. Sinister"
+    ],
+    "answer": "Scott Summers"
+  },
+  {
+    "question": "¿Qué dos X-Men fueron en diferentes momentos Muerte, uno de los cuatro jinetes de Apocalypse?",
+    "options": [
+      "Cyclops y Havok",
+      "Beast e Iceman",
+      "Wolverine y Angel",
+      "Storm y Jean Grey",
+      "Colossus y Nightcrawler"
+    ],
+    "answer": "Wolverine y Angel"
+  },
+  {
+    "question": "Cuando los poderes de Bobby Drake se activaron por primera vez, él:",
+    "options": [
+      "Se unió a los X-Men inmediatamente",
+      "Fue atacado por una turba",
+      "Fue encerrado en la cárcel para su propia protección",
+      "Fue reclutado por Magneto",
+      "Se convirtió en un villano"
+    ],
+    "answer": "Fue encerrado en la cárcel para su propia protección"
+  },
+  {
+    "question": "Cuando es consumida por sus poderes, Jean Grey se convierte en:",
+    "options": [
+      "La Reina Blanca",
+      "El Fénix Oscuro",
+      "La Reina Duende",
+      "La Hechicera",
+      "La Hechicera Suprema"
+    ],
+    "answer": "El Fénix Oscuro"
+  },
+  {
+    "question": "¿Cuál es el nombre real de Mister Sinister?",
+    "options": [
+      "Victor Creed",
+      "Erik Lehnsherr",
+      "Nathaniel Essex",
+      "Nathan Summers",
+      "Remy LeBeau"
+    ],
+    "answer": "Nathaniel Essex"
+  },
+  {
+    "question": "La hermana de Bishop se llama:",
+    "options": ["Mystique", "Rogue", "Shard", "Kitty Pryde", "Psylocke"],
+    "answer": "Shard"
+  },
+  {
+    "question": "¿Cuál es el nombre de los 4 lugartenientes de Apocalypse?",
+    "options": [
+      "La Hermandad",
+      "El Club Fuego Infernal",
+      "Los Cuatro Jinetes",
+      "Los Reavers",
+      "Los Marauders"
+    ],
+    "answer": "Los Cuatro Jinetes"
+  },
+  {
+    "question": "¿Cuál era la ocupación de Juggernaut cuando encontró el Rubí de Cyttorak?",
+    "options": ["Científico", "Ladrón", "Soldado", "Profesor", "Explorador"],
+    "answer": "Soldado"
+  },
+  {
+    "question": "Madeline Pryor era:",
+    "options": [
+      "Una mutante",
+      "Una alienígena",
+      "Creada por Mister Sinister para ser una copia exacta de Jean Grey",
+      "Una viajera en el tiempo",
+      "Un robot"
+    ],
+    "answer": "Creada por Mister Sinister para ser una copia exacta de Jean Grey"
+  },
+  {
+    "question": "¿Dónde nació Apocalypse?",
+    "options": ["América", "Canadá", "Egipto", "Australia", "Alemania"],
+    "answer": "Egipto"
+  },
+  {
+    "question": "¿A quién perseguía Bishop a través del tiempo cuando se encontró por primera vez con los X-Men?",
+    "options": [
+      "Magneto",
+      "Apocalypse",
+      "Trevor Fitzroy",
+      "Mr. Sinister",
+      "Sebastian Shaw"
+    ],
+    "answer": "Trevor Fitzroy"
+  },
+  {
+    "question": "¿Quién no está relacionado con Scott Summers?",
+    "options": [
+      "Havok",
+      "Vulcan",
+      "Cable",
+      "Mr. Sinister",
+      "Christopher Summers"
+    ],
+    "answer": "Mr. Sinister"
+  },
+  {
+    "question": "Gambit es de:",
+    "options": [
+      "Nueva York",
+      "Chicago",
+      "Nueva Orleans",
+      "Los Ángeles",
+      "Miami"
+    ],
+    "answer": "Nueva Orleans"
+  },
+  {
+    "question": "Los Jinetes de Apocalypse aparecieron por primera vez en 1987 en ¿qué cómic?",
+    "options": [
+      "X-Men #1",
+      "Avengers #1",
+      "Fantastic Four #1",
+      "X-Factor",
+      "Incredible Hulk #1"
+    ],
+    "answer": "X-Factor"
+  },
+  {
+    "question": "¿Con quién tuvo Magneto gemelos?",
+    "options": ["Mystique", "Rogue", "Magda", "Lady Deathstrike", "Polaris"],
+    "answer": "Magda"
+  },
+  {
+    "question": "¿A qué equipo mutante pertenecieron Forge y Mystique?",
+    "options": [
+      "La Hermandad",
+      "El Club Fuego Infernal",
+      "X-Factor",
+      "Los Reavers",
+      "Los Marauders"
+    ],
+    "answer": "X-Factor"
+  },
+  {
+    "question": "¿Cuál es el sonido que se produce cuando Nightcrawler se teletransporta?",
+    "options": ["Boom", "Zap", "Bamf", "Whoosh", "Clang"],
+    "answer": "Bamf"
+  },
+  {
+    "question": "¿De quién absorbió Rogue permanentemente los poderes?",
+    "options": ["Storm", "Jean Grey", "Ms. Marvel", "Scarlet Witch", "Polaris"],
+    "answer": "Ms. Marvel"
+  },
+  {
+    "question": "¿De qué color es el cabello de Ororo?",
+    "options": ["Negro", "Marrón", "Blanco", "Rojo", "Rubio"],
+    "answer": "Blanco"
+  },
+  {
+    "question": "¿Con qué raza alienígena nunca se han encontrado los X-Men?",
+    "options": ["Shi'ar", "Kree", "Skrulls", "Brood", "Phalanx"],
+    "answer": "Skrulls"
+  },
+  {
+    "question": "¿Cuál de los siguientes no es uno de los alias de Wolverine?",
+    "options": ["Arma X", "Parche", "Logan", "Guerra", "James Howlett"],
+    "answer": "Guerra"
+  },
+  {
+    "question": "¿En qué otro equipo sirven juntos Nightcrawler y Shadowcat?",
+    "options": [
+      "Los Vengadores",
+      "Los Defensores",
+      "Excalibur",
+      "Alpha Flight",
+      "Los Cuatro Fantásticos"
+    ],
+    "answer": "Excalibur"
+  },
+  {
+    "question": "El nombre real de Gambit es:",
+    "options": [
+      "Victor Creed",
+      "Erik Lehnsherr",
+      "Remy LeBeau",
+      "Nathan Essex",
+      "Cain Marko"
+    ],
+    "answer": "Remy LeBeau"
+  },
+  {
+    "question": "¿Quién es la hermana adoptiva de Kurt Wagner?",
+    "options": ["Mystique", "Rogue", "Shard", "Kitty Pryde", "Psylocke"],
+    "answer": "Rogue"
+  },
+  {
+    "question": "El Profesor Charles Xavier perdió el uso de sus piernas:",
+    "options": [
+      "En un accidente automovilístico",
+      "Mientras luchaba contra Magneto",
+      "Mientras luchaba contra un tirano llamado Lucifer en el Himalaya",
+      "En un ataque de Centinelas",
+      "En un accidente de entrenamiento"
+    ],
+    "answer": "Mientras luchaba contra un tirano llamado Lucifer en el Himalaya"
+  },
+  {
+    "question": "La primera aparición de Scarlet Witch fue en X-Men número 4 en:",
+    "options": ["1960", "1962", "1964", "1966", "1968"],
+    "answer": "1964"
+  },
+  {
+    "question": "¿Quién entrenó a Storm en las artes del robo cuando era niña?",
+    "options": [
+      "Magneto",
+      "Apocalypse",
+      "Achmed El-Gibar",
+      "Mr. Sinister",
+      "Sebastian Shaw"
+    ],
+    "answer": "Achmed El-Gibar"
+  },
+  {
+    "question": "¿Quién es considerado por algunos como el primer mutante?",
+    "options": [
+      "Magneto",
+      "Apocalypse",
+      "Mr. Sinister",
+      "Sebastian Shaw",
+      "Emma Frost"
+    ],
+    "answer": "Apocalypse"
+  },
+  {
+    "question": "¿Qué miembro de los X-Men había trabajado previamente para Mister Sinister?",
+    "options": ["Wolverine", "Cyclops", "Gambit", "Beast", "Iceman"],
+    "answer": "Gambit"
+  },
+  {
+    "question": "¿Cuál era la ocupación del Sr. Sinister cuando conoció a Apocalypse?",
+    "options": ["Soldado", "Ladrón", "Genetista", "Profesor", "Explorador"],
+    "answer": "Genetista"
+  },
+  {
+    "question": "Colossus está románticamente involucrado con:",
+    "options": [
+      "Mystique",
+      "Rogue",
+      "Kitty Pryde",
+      "Lady Deathstrike",
+      "Polaris"
+    ],
+    "answer": "Kitty Pryde"
+  },
+  {
+    "question": "¿Qué mutante es del futuro?",
+    "options": ["Gambit", "Rogue", "Bishop", "Nightcrawler", "Storm"],
+    "answer": "Bishop"
+  },
+  {
+    "question": "¿Quién formó los X-Men?",
+    "options": [
+      "Magneto",
+      "Apocalypse",
+      "Profesor Charles Xavier",
+      "Mr. Sinister",
+      "Sebastian Shaw"
+    ],
+    "answer": "Profesor Charles Xavier"
+  },
+  {
+    "question": "Antes de convertirse en el Monolito Viviente, Ahmet Abdol había sido:",
+    "options": [
+      "Soldado",
+      "Ladrón",
+      "Profesor de Arqueología",
+      "Explorador",
+      "Político"
+    ],
+    "answer": "Profesor de Arqueología"
+  },
+  {
+    "question": "Sunfire es de:",
+    "options": ["América", "Canadá", "Japón", "Australia", "Alemania"],
+    "answer": "Japón"
+  },
+  {
+    "question": "¿De qué color son los ojos de Nightcrawler?",
+    "options": ["Rojo", "Azul", "Amarillo", "Verde", "Marrón"],
+    "answer": "Amarillo"
+  },
+  {
+    "question": "¿Qué material se utiliza en la visera de Cyclops?",
+    "options": ["Adamantium", "Vibranium", "Cuarzo Rubí", "Acero", "Titanio"],
+    "answer": "Cuarzo Rubí"
+  },
+  {
+    "question": "Cuando Jean fue manipulada para trabajar para el Club Fuego Infernal, era conocida como:",
+    "options": [
+      "La Reina Blanca",
+      "El Fénix Oscuro",
+      "La Reina Duende",
+      "La Reina Negra",
+      "La Hechicera"
+    ],
+    "answer": "La Reina Negra"
+  },
+  {
+    "question": "Rogue es de:",
+    "options": ["Nueva York", "California", "Mississippi", "Texas", "Florida"],
+    "answer": "Mississippi"
+  },
+  {
+    "question": "Scarlet Witch tiene un hermano llamado:",
+    "options": ["Pietro", "Alex", "Mikhail", "Nathan", "Gabriel"],
+    "answer": "Pietro"
+  },
+  {
+    "question": "¿Quién propuso la Ley de Registro Mutante?",
+    "options": [
+      "Profesor X",
+      "Magneto",
+      "Senador Robert Kelly",
+      "Mr. Sinister",
+      "Sebastian Shaw"
+    ],
+    "answer": "Senador Robert Kelly"
+  },
+  {
+    "question": "¿Cuáles son los nombres de pila de los padres de Iceman?",
+    "options": [
+      "John y Mary",
+      "Robert y Susan",
+      "William y Madeline",
+      "Richard y Martha",
+      "George y Jane"
+    ],
+    "answer": "William y Madeline"
+  }
+]
