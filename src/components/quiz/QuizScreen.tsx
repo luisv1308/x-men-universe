@@ -53,8 +53,9 @@ const QuizScreen: React.FC = () => {
       <div className="w-full max-w-md flex flex-col gap-3">
         {currentQuestion.options.map((option, index) => (
           <button
-            key={index}
+           key={`${currentQuestionIndex}-${index}`} // ✅ Clave única por pregunta
             onClick={() => answerQuestion(option)}
+            onTouchStart={(e) => e.currentTarget.blur()}
             className={`quiz-button ${
               selectedAnswer === option
                 ? answerStatus === "correct"
