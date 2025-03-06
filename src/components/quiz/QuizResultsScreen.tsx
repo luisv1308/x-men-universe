@@ -6,7 +6,7 @@ const QuizResultsScreen: React.FC = () => {
   const { score, questions, progress, resetGame } = useQuizStore();
 
   return (
-    <div className="flex flex-col items-center justify-center min-h-screen  text-white p-4">
+    <div className="flex flex-col items-center justify-center   text-white p-4">
       <h2 className="text-2xl font-bold mb-4">Resultados</h2>
       <p className="text-lg">
         Puntuación: {score} / {questions.length}
