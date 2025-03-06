@@ -52,7 +52,6 @@ export const useQuizStore = create<QuizState>((set) => ({
   progress: [],
 
   startGame: (difficulty) => {
-    console.log(questionsData.length)
     const shuffledQuestions = shuffleArray([...questionsData])
       .slice(0, difficulty === 'easy' ? 3 : difficulty === 'medium' ? 5 : 10)
       .map((question) => ({
