@@ -3,6 +3,8 @@ import questionsData from "../../assets/quiz-sp.json";
 import correctSound from "../../assets/sounds/correct.mp3";
 import wrongSound from "../../assets/sounds/wrong.mp3";
 import buzzer from "../../assets/sounds/buzzer.mp3";
+import { shuffleArray }  from "./utils";
+import { q } from "motion/react-client";
 
 const correctAudio = new Audio(correctSound);
 const wrongAudio = new Audio(wrongSound);
@@ -50,8 +52,8 @@ export const useQuizStore = create<QuizState>((set) => ({
   progress: [],
 
   startGame: (difficulty) => {
-    const shuffledQuestions = [...questionsData]
-      .sort(() => 0.5 - Math.random())
+    console.log(questionsData.length)
+    const shuffledQuestions = shuffleArray([...questionsData])
       .slice(0, difficulty === 'easy' ? 3 : difficulty === 'medium' ? 5 : 10)
       .map((question) => ({
         ...question,
