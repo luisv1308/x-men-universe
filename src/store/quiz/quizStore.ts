@@ -2,9 +2,11 @@ import { create } from "zustand";
 import questionsData from "../../assets/quiz-sp.json";
 import correctSound from "../../assets/sounds/correct.mp3";
 import wrongSound from "../../assets/sounds/wrong.mp3";
+import buzzer from "../../assets/sounds/buzzer.mp3";
 
 const correctAudio = new Audio(correctSound);
 const wrongAudio = new Audio(wrongSound);
+const buzzerAudio = new Audio(buzzer);
 
 type Question = {
   question: string;
@@ -107,6 +109,7 @@ export const useQuizStore = create<QuizState>((set) => ({
       if (state.timeLeft > 0) {
         return { timeLeft: state.timeLeft - 1 };
       } else {
+        buzzerAudio.play();
         const nextIndex = state.currentQuestionIndex + 1;
         const isGameOver = nextIndex >= state.questions.length;
         return {
